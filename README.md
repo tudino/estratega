@@ -1,0 +1,2 @@
+# estratega
+Configurador de estrategias
