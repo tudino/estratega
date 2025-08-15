@@ -1,0 +1,30 @@
+[
+  {
+    "strategy": "CompraPesca",
+    "ticker": "MERV - XMEV - AL30D - CI",
+    "min_depth": 5,
+    "interval": 10,
+    "active": true
+  },
+  {
+    "strategy": "VentaPesca",
+    "ticker": "MERV - XMEV - AL30 - 24hs",
+    "min_depth": 5,
+    "interval": 10,
+    "active": false
+  },
+  {
+    "strategy": "ArbitrajeSimple",
+    "ticker_primary": "MERV - XMEV - AL30 - 24hs",
+    "ticker_secondary": "MERV - XMEV - AL30 - CI",
+    "spread_threshold": 2,
+    "max_position": 55,
+    "symbols_to_listen": [
+      "MERV - XMEV - AL30 - 24hs",
+      "MERV - XMEV - AL30D - 24hs",
+      "MERV - XMEV - AL30 - CI",
+      "MERV - XMEV - AL30D - CI"
+    ],
+    "active": false
+  }
+]

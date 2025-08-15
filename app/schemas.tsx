@@ -18,6 +18,7 @@ export const STRATEGY_SCHEMAS = {
     ticker_secondary: { type: "text", required: true, label: "Ticker Secundario" },
     spread_threshold: { type: "number", required: true, label: "Umbral de Spread" },
     max_position: { type: "number", required: false, label: "Posición Máxima" },
+    symbols_to_listen: { type: "ticker_array", required: false, label: "Símbolos a Escuchar" },
     active: { type: "boolean", required: false, label: "Activo" },
   },
   ScalpingRapido: {
@@ -25,6 +26,7 @@ export const STRATEGY_SCHEMAS = {
     price_threshold: { type: "number", required: true, label: "Umbral de Precio" },
     volume_min: { type: "number", required: true, label: "Volumen Mínimo" },
     timeout: { type: "number", required: false, label: "Timeout (ms)" },
+    symbols_pairs: { type: "ticker_pairs", required: false, label: "Pares de Símbolos" },
     active: { type: "boolean", required: false, label: "Activo" },
   },
 }

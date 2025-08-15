@@ -5,8 +5,8 @@ import './globals.css'
 import { Toaster } from '@/components/ui/toaster'
 
 export const metadata: Metadata = {
-  title: 'Estratega',
-  description: 'Configurador de estrategias',
+  title: 'v0 App',
+  description: 'Created with v0',
   generator: 'v0.app',
 }
 
@@ -26,8 +26,10 @@ html {
 }
         `}</style>
       </head>
-      <header><Toaster></Toaster></header>
-      <body>{children}</body>
+      <body>
+        <Toaster/>
+        {children}
+        </body>
     </html>
   )
 }
