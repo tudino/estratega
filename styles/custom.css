@@ -1,0 +1,9 @@
+.strategy-card-selected {
+    background-color: beige;
+    color: var(--text-dark);
+}
+
+.dark .strategy-card-selected {
+    background-color: beige;
+    color: var(--text-dark);
+}

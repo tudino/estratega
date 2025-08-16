@@ -440,7 +440,7 @@ export default function StrategyManager() {
               <InstrumentSuggestions query={newTicker} onSelect={handleSelectInstrument} className="top-full mt-1" />
             )}
           </div>
-          <Button type="button" onClick={() => addTicker(newTicker)} disabled={!newTicker}>
+          <Button type="button" onClick={() => addTicker(newTicker)} disabled={!newTicker} className="cursor-pointer">
             Agregar
           </Button>
         </div>
@@ -681,7 +681,7 @@ export default function StrategyManager() {
             >
               {isDarkMode ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
             </Button>
-            <Button variant="outline" onClick={() => fileInputRef.current?.click()} className="flex items-center gap-2">
+            <Button variant="outline" onClick={() => fileInputRef.current?.click()} className="flex items-center gap-2 cursor-pointer">
               <Upload className="h-4 w-4" />
               Cargar JSON
             </Button>
@@ -689,12 +689,12 @@ export default function StrategyManager() {
               variant="outline"
               onClick={handleSave}
               disabled={components.length === 0}
-              className="flex items-center gap-2 bg-transparent"
+              className="flex items-center gap-2 bg-transparent cursor-pointer"
             >
               <Save className="h-4 w-4" />
               Guardar
             </Button>
-            <Button onClick={handleCreateNew} className="flex items-center gap-2">
+            <Button onClick={handleCreateNew} className="flex items-center gap-2 cursor-pointer">
               <Plus className="h-4 w-4" />
               Nueva Estrategia
             </Button>
@@ -734,16 +734,14 @@ export default function StrategyManager() {
                 return (
                   <Card
                     key={originalIndex}
-                    className={`cursor-pointer transition-colors hover:bg-accent py-0 ${
-                      selectedIndex === originalIndex ? "bg-yellow-100" : ""
-                    }`}
+                    className={`cursor-pointer transition-colors hover:bg-accent py-0 ${ selectedIndex === originalIndex ? "strategy-card-selected dark:strategy-card-selected" : ""}`}
                     onClick={() => handleSelectComponent(component, originalIndex)}
                   >
                     <CardContent className="p-2">
                       <div className="flex items-center justify-between">
                         <div className="flex-1 min-w-0">
                           <p className="text-sm font-medium">{component.strategy}</p>
-                          <div className="text-xs text-muted-foreground">
+                          <div className="text-xs">
                             {tickerReferences.length > 0 ? (
                               <div className="flex flex-wrap gap-1">
                                 {tickerReferences.map((ref, idx) => (
@@ -760,7 +758,7 @@ export default function StrategyManager() {
                         </div>
                         <Badge
                           variant={component.active ? "default" : "secondary"}
-                          className={component.active ? "bg-green-500" : "bg-gray-200"}
+                          className={component.active ? "bg-green-500" : "bg-gray-200 text-black"}
                         >
                           {component.active ? "Activo" : "Inactivo"}
                         </Badge>
@@ -835,7 +833,7 @@ export default function StrategyManager() {
               <CardHeader>
                 <CardTitle className="flex items-center justify-between">
                   Editar Estrategia: {selectedComponent.strategy}
-                  <Button variant="destructive" size="sm" onClick={handleDeleteComponent} className="ml-4">
+                  <Button variant="destructive" size="sm" onClick={handleDeleteComponent} className="ml-4 cursor-pointer dark:bg-destructive/80">
                     Eliminar
                   </Button>
                 </CardTitle>
