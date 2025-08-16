@@ -38,10 +38,18 @@ export default function StrategyManager() {
   const { toast } = useToast()
 
   useEffect(() => {
+    const initialDarkMode = localStorage.getItem("isDarkMode") == "true" ? true : false
+    setIsDarkMode(initialDarkMode)
+  }, [])
+
+  useEffect(() => {
+
     if (isDarkMode) {
       document.documentElement.classList.add("dark")
+      localStorage.setItem("isDarkMode", "true");
     } else {
       document.documentElement.classList.remove("dark")
+      localStorage.setItem("isDarkMode", "false");
     }
   }, [isDarkMode])
 
@@ -672,8 +680,9 @@ export default function StrategyManager() {
               id={key}
               checked={value !== undefined ? value : fieldConfig.default || false}
               onCheckedChange={handleChange}
+              className="cursor-pointer"
             />
-            <Label htmlFor={key}>{(value !== undefined ? value : fieldConfig.default) ? "Activa" : "Inactiva"}</Label>
+            <Label htmlFor={key}>{(value !== undefined ? value : fieldConfig.default) ? "Activo" : "Inactivo"}</Label>
           </div>
         ) : fieldConfig.type === "number" ? (
           <Input

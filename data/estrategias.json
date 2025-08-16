@@ -1,156 +1,32 @@
 [
   {
-    "estrategia": "CompraPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
+    "estrategia": "ArbitrajeMEP",
+    "ticker_ars": "MERV - XMEV - MRCAO - 24hs",
+    "ticker_usd": "MERV - XMEV - MRCAD - 24hs",
+    "precio_minimo": 22,
+    "precio_maximo": 25,
+    "compra_en_pesos": true,
+    "venta_en_pesos": true,
+    "compra_en_dolares": true,
+    "venta_en_dolares": true,
+    "profundidad_minima": 2,
+    "intervalo": 20,
+    "mejorar_precio": false,
     "activa": true
   },
   {
-    "estrategia": "VentaPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
+    "estrategia": "ArbitrajeMEP",
+    "ticker_ars": "MERV - XMEV - CRCJO - 24hs",
+    "ticker_usd": "MERV - XMEV - CRCJD - 24hs",
+    "precio_minimo": 25.52,
+    "precio_maximo": 35.12,
+    "compra_en_pesos": false,
+    "venta_en_pesos": false,
+    "compra_en_dolares": false,
+    "venta_en_dolares": false,
+    "profundidad_minima": 2,
     "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "CompraPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "VentaPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "CompraPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "VentaPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "CompraPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "VentaPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "CompraPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "VentaPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "CompraPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "VentaPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "CompraPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "VentaPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "CompraPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "VentaPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "CompraPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "VentaPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "CompraPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "VentaPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "CompraPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
-  },
-  {
-    "estrategia": "VentaPesca",
-    "ticker": "MERV - XMEV - AL30 - 24hs",
-    "profundidad_minima": 5,
-    "intervalo": 10,
-    "activa": true
+    "mejorar_precio": false,
+    "activa": false
   }
 ]
