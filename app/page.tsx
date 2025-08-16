@@ -14,25 +14,24 @@ import { Separator } from "@/components/ui/separator"
 import { Upload, Plus, Save, Moon, Sun, Search, X } from "lucide-react"
 import { useToast } from "@/hooks/use-toast"
 import { INSTRUMENTS } from "@/app/instruments"
-import { STRATEGY_SCHEMAS } from "./schemas"
+import { STRATEGY_SCHEMAS } from "@/app/schemas"
 
 // Definición de tipos
 interface StrategyComponent {
-  strategy: string
-  ticker: string
-  min_depth: number
-  interval: number
-  active: boolean
+  estrategia: string
+  intervalo: number
+  mejorar_precio: boolean
+  activa: boolean
   [key: string]: any
 }
 
 export default function StrategyManager() {
-  const [components, setComponents] = useState<StrategyComponent[]>([])
-  const [selectedComponent, setSelectedComponent] = useState<StrategyComponent | null>(null)
+  const [strategies, setStrategies] = useState<StrategyComponent[]>([])
+  const [selectedStrategy, setSelectedStrategy] = useState<StrategyComponent | null>(null)
   const [selectedIndex, setSelectedIndex] = useState<number>(-1)
   const [showCreateForm, setShowCreateForm] = useState(false)
-  const [newStrategy, setNewStrategy] = useState("")
-  const [newComponent, setNewComponent] = useState<Partial<StrategyComponent>>({})
+  const [newStrategyName, setNewStrategyName] = useState("")
+  const [newStrategyComponent, setNewStrategyComponent] = useState<Partial<StrategyComponent>>({})
   const [isDarkMode, setIsDarkMode] = useState(false)
   const [searchTerm, setSearchTerm] = useState("")
   const fileInputRef = useRef<HTMLInputElement>(null)
@@ -50,13 +49,13 @@ export default function StrategyManager() {
     setIsDarkMode(!isDarkMode)
   }
 
-  const filteredComponents = components.filter((component) => {
+  const filteredComponents = strategies.filter((component) => {
     if (!searchTerm) return true
 
     const searchLower = searchTerm.toLowerCase()
 
     // Buscar por estrategia
-    if (component.strategy.toLowerCase().includes(searchLower)) {
+    if (component.estrategia.toLowerCase().includes(searchLower)) {
       return true
     }
 
@@ -85,6 +84,27 @@ export default function StrategyManager() {
     return false
   })
 
+  // Convertir los valores numericos
+  const convertValuesToNumbers = (components: StrategyComponent[]): StrategyComponent[] => {
+    return components.map((component) => {
+      const strategy = component.estrategia
+      const schema = STRATEGY_SCHEMAS[strategy as keyof typeof STRATEGY_SCHEMAS]
+      const convertedComponent = { ...component }
+
+      Object.entries(schema).forEach(([key, config]) => {
+        if (config.type === "number" && convertedComponent[key] !== undefined) {
+          const value = convertedComponent[key]
+          if (typeof value === "string") {
+            const numValue = Number.parseFloat(value)
+            convertedComponent[key] = isNaN(numValue) ? 0 : numValue
+          }
+        }
+      })
+
+      return convertedComponent
+    })
+  }
+
   // Cargar archivo JSON
   const handleFileLoad = (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0]
@@ -94,8 +114,8 @@ export default function StrategyManager() {
     reader.onload = (e) => {
       try {
         const data = JSON.parse(e.target?.result as string)
-        setComponents(data)
-        setSelectedComponent(null)
+        setStrategies(data)
+        setSelectedStrategy(null)
         setSelectedIndex(-1)
         if (fileInputRef.current) {
           fileInputRef.current.value = ""
@@ -118,7 +138,8 @@ export default function StrategyManager() {
   // Guardar cambios
   const handleSave = async () => {
     try {
-      const dataStr = JSON.stringify(components, null, 2)
+      const componentsWithNumbers = convertValuesToNumbers(strategies)
+      const dataStr = JSON.stringify(componentsWithNumbers, null, 2)
       const handle = await window.showSaveFilePicker({
         suggestedName: 'estrategias.json',
         types: [{ description: 'JSON Files', accept: { 'application/json': ['.json'] } }]
@@ -140,62 +161,68 @@ export default function StrategyManager() {
 
   // Seleccionar estrategia
   const handleSelectComponent = (component: StrategyComponent, index: number) => {
-    setSelectedComponent({ ...component })
+    setSelectedStrategy({ ...component })
     setSelectedIndex(index)
     setShowCreateForm(false)
   }
 
-  // Actualizar campo del estrategia seleccionado
+  // Actualizar campo de la estrategia seleccionada
   const handleUpdateField = (field: string, value: any) => {
-    if (!selectedComponent) return
+    if (!selectedStrategy) return
 
-    const updated = { ...selectedComponent, [field]: value }
-    setSelectedComponent(updated)
+    const updated = { ...selectedStrategy, [field]: value }
+    setSelectedStrategy(updated)
 
-    const newComponents = [...components]
-    newComponents[selectedIndex] = updated
-    setComponents(newComponents)
+    const newStrategies = [...strategies]
+    newStrategies[selectedIndex] = updated
+    setStrategies(newStrategies)
   }
 
   // Crear nuevo estrategia
   const handleCreateNew = () => {
+    setSelectedIndex(-1)
     setShowCreateForm(true)
-    setSelectedComponent(null)
-    setNewStrategy("")
-    setNewComponent({})
+    setSelectedStrategy(null)
+    setNewStrategyName("")
+    setNewStrategyComponent({})
   }
 
-  // Seleccionar estrategia para nuevo estrategia
+  // Seleccionar estrategia para nueva estrategia
   const handleStrategySelect = (strategy: string) => {
-    setNewStrategy(strategy)
+    setNewStrategyName(strategy)
     const schema = STRATEGY_SCHEMAS[strategy as keyof typeof STRATEGY_SCHEMAS]
-    const defaultComponent: Partial<StrategyComponent> = { strategy }
+    const defaultComponent: Partial<StrategyComponent> = { estrategia: strategy }
 
     Object.entries(schema).forEach(([key, config]) => {
-      if (config.type === "boolean") {
-        defaultComponent[key] = false
-      } else if (config.type === "number") {
-        defaultComponent[key] = 0
-      } else if (config.type === "ticker_array") {
-        defaultComponent[key] = []
-      } else if (config.type === "ticker_pairs") {
-        defaultComponent[key] = []
+      if (config.default !== undefined) {
+        defaultComponent[key] = config.default
       } else {
-        defaultComponent[key] = ""
+        if (config.type === "boolean") {
+          defaultComponent[key] = false
+        } else if (config.type === "number") {
+          defaultComponent[key] = 0
+        } else if (config.type === "ticker_array") {
+          defaultComponent[key] = []
+        } else if (config.type === "ticker_pairs") {
+          defaultComponent[key] = []
+        } else {
+          defaultComponent[key] = ""
+        }
       }
+
     })
 
-    setNewComponent(defaultComponent)
+    setNewStrategyComponent(defaultComponent)
   }
 
-  // Guardar nuevo estrategia
+  // Guardar nueva estrategia
   const handleSaveNew = () => {
-    if (!newStrategy || !newComponent.strategy) return
+    if (!newStrategyName || !newStrategyComponent.estrategia) return
 
-    const schema = STRATEGY_SCHEMAS[newStrategy as keyof typeof STRATEGY_SCHEMAS]
+    const schema = STRATEGY_SCHEMAS[newStrategyName as keyof typeof STRATEGY_SCHEMAS]
 
     const missingFields = Object.entries(schema)
-      .filter(([key, config]) => config.required && !newComponent[key])
+      .filter(([key, config]) => config.required && !newStrategyComponent[key])
       .map(([key]) => key)
 
     if (missingFields.length > 0) {
@@ -207,11 +234,11 @@ export default function StrategyManager() {
       return
     }
 
-    const newComponents = [...components, newComponent as StrategyComponent]
-    setComponents(newComponents)
+    const newStrategies = [...strategies, newStrategyComponent as StrategyComponent]
+    setStrategies(newStrategies)
     setShowCreateForm(false)
-    setNewComponent({})
-    setNewStrategy("")
+    setNewStrategyComponent({})
+    setNewStrategyName("")
 
     toast({
       title: "Estrategia creada",
@@ -220,12 +247,12 @@ export default function StrategyManager() {
   }
 
   // Borrar estrategia
-  const handleDeleteComponent = () => {
+  const handleDeleteStrategy = () => {
     if (selectedIndex === -1) return
 
-    const newComponents = components.filter((_, index) => index !== selectedIndex)
-    setComponents(newComponents)
-    setSelectedComponent(null)
+    const newStrategies = strategies.filter((_, index) => index !== selectedIndex)
+    setStrategies(newStrategies)
+    setSelectedStrategy(null)
     setSelectedIndex(-1)
 
     toast({
@@ -607,7 +634,7 @@ export default function StrategyManager() {
 
   // Renderizar campo del formulario
   const renderFormField = (key: string, value: any, isNew = false) => {
-    const strategy = isNew ? newStrategy : selectedComponent?.strategy
+    const strategy = isNew ? newStrategyName : selectedStrategy?.estrategia
     if (!strategy) return null
 
     const schema = STRATEGY_SCHEMAS[strategy as keyof typeof STRATEGY_SCHEMAS]
@@ -616,10 +643,17 @@ export default function StrategyManager() {
 
     const handleChange = (newValue: any) => {
       if (isNew) {
-        setNewComponent((prev) => ({ ...prev, [key]: newValue }))
+        setNewStrategyComponent((prev) => ({ ...prev, [key]: newValue }))
       } else {
         handleUpdateField(key, newValue)
       }
+    }
+
+    const getPlaceholder = () => {
+      if (fieldConfig.default !== undefined && fieldConfig.default !== "") {
+        return `${fieldConfig.label.toLowerCase()} (por defecto: ${fieldConfig.default})`
+      }
+      return `Ingrese ${fieldConfig.label.toLowerCase()}`
     }
 
     return (
@@ -627,39 +661,52 @@ export default function StrategyManager() {
         <Label htmlFor={key} className="flex items-center gap-2">
           {fieldConfig.label}
           {fieldConfig.required && <span className="text-red-500">*</span>}
+          {fieldConfig.default !== undefined && !fieldConfig.required && (
+            <span className="text-xs text-muted-foreground">(por defecto: {String(fieldConfig.default)})</span>
+          )}
         </Label>
 
         {fieldConfig.type === "boolean" ? (
           <div className="flex items-center space-x-2">
-            <Switch id={key} checked={value || false} onCheckedChange={handleChange} />
-            <Label htmlFor={key}>{value ? "Activo" : "Inactivo"}</Label>
+            <Switch
+              id={key}
+              checked={value !== undefined ? value : fieldConfig.default || false}
+              onCheckedChange={handleChange}
+            />
+            <Label htmlFor={key}>{(value !== undefined ? value : fieldConfig.default) ? "Activa" : "Inactiva"}</Label>
           </div>
         ) : fieldConfig.type === "number" ? (
           <Input
             id={key}
-            type="number"
-            value={value || ""}
-            onChange={(e) => handleChange(Number(e.target.value))}
-            placeholder={`Ingrese ${fieldConfig.label.toLowerCase()}`}
+            type="text"
+            value={value !== undefined && value !== "" ? String(value) : ""}
+            onChange={(e) => {
+              const inputValue = e.target.value
+              // Permitir números decimales y enteros
+              if (inputValue === "" || /^-?\d*\.?\d*$/.test(inputValue)) {
+                handleChange(inputValue)
+              }
+            }}
+            placeholder={getPlaceholder()}
           />
         ) : fieldConfig.type === "ticker_array" ? (
-          <TickerArrayField value={value || []} onChange={handleChange} />
+          <TickerArrayField value={value || fieldConfig.default || []} onChange={handleChange} />
         ) : fieldConfig.type === "ticker_pairs" ? (
-          <TickerPairsField value={value || []} onChange={handleChange} />
+          <TickerPairsField value={value || fieldConfig.default || []} onChange={handleChange} />
         ) : key.toLowerCase().startsWith("ticker") ? (
           <TickerInputWithSuggestions
             id={key}
             value={INSTRUMENTS.find((i) => i.tradingSymbol === value)?.symbolReference || value || ""}
             onChange={handleChange}
-            placeholder={`Ingrese ${fieldConfig.label.toLowerCase()}`}
+            placeholder={getPlaceholder()}
           />
         ) : (
           <Input
             id={key}
             type="text"
-            value={value || ""}
+            value={value !== undefined ? value : ""}
             onChange={(e) => handleChange(e.target.value)}
-            placeholder={`Ingrese ${fieldConfig.label.toLowerCase()}`}
+            placeholder={getPlaceholder()}
           />
         )}
       </div>
@@ -688,7 +735,7 @@ export default function StrategyManager() {
             <Button
               variant="outline"
               onClick={handleSave}
-              disabled={components.length === 0}
+              disabled={strategies.length === 0}
               className="flex items-center gap-2 bg-transparent cursor-pointer"
             >
               <Save className="h-4 w-4" />
@@ -704,9 +751,9 @@ export default function StrategyManager() {
 
       <div className="flex h-[calc(100vh-73px)]">
         {/* Panel izquierdo - Lista de estrategias */}
-        <div className="w-96 border-r bg-card">
+        <div className="w-96 border-r bg-card overflow-y-auto">
           <div className="p-4">
-            <h2 className="text-lg font-semibold mb-4">Estrategias ({components.length})</h2>
+            <h2 className="text-lg font-semibold mb-4">Estrategias ({strategies.length})</h2>
 
             <div className="mb-4">
               <div className="relative">
@@ -728,7 +775,7 @@ export default function StrategyManager() {
 
             <div className="space-y-1">
               {filteredComponents.map((component, index) => {
-                const originalIndex = components.findIndex((c) => c === component)
+                const originalIndex = strategies.findIndex((c) => c === component)
                 const tickerReferences = getComponentTickerReferences(component)
 
                 return (
@@ -740,7 +787,7 @@ export default function StrategyManager() {
                     <CardContent className="p-2">
                       <div className="flex items-center justify-between">
                         <div className="flex-1 min-w-0">
-                          <p className="text-sm font-medium">{component.strategy}</p>
+                          <p className="text-sm font-medium">{component.estrategia}</p>
                           <div className="text-xs">
                             {tickerReferences.length > 0 ? (
                               <div className="flex flex-wrap gap-1">
@@ -757,10 +804,10 @@ export default function StrategyManager() {
                           </div>
                         </div>
                         <Badge
-                          variant={component.active ? "default" : "secondary"}
-                          className={component.active ? "bg-green-500" : "bg-gray-200 text-black"}
+                          variant={component.activa ? "default" : "secondary"}
+                          className={component.activa ? "bg-green-500" : "bg-gray-200 text-black"}
                         >
-                          {component.active ? "Activo" : "Inactivo"}
+                          {component.activa ? "Activa" : "Inactiva"}
                         </Badge>
                       </div>
                     </CardContent>
@@ -768,14 +815,14 @@ export default function StrategyManager() {
                 )
               })}
 
-              {filteredComponents.length === 0 && components.length > 0 && (
+              {filteredComponents.length === 0 && strategies.length > 0 && (
                 <div className="text-center py-8 text-muted-foreground">
                   <p>No se encontraron estrategias</p>
                   <p className="text-sm">Intenta con otro término de búsqueda</p>
                 </div>
               )}
 
-              {components.length === 0 && (
+              {strategies.length === 0 && (
                 <div className="text-center py-8 text-muted-foreground">
                   <p>No hay estrategias cargadas</p>
                   <p className="text-sm">Carga un archivo JSON para comenzar</p>
@@ -786,7 +833,7 @@ export default function StrategyManager() {
         </div>
 
         {/* Panel derecho - Formulario */}
-        <div className="flex-1 p-6">
+        <div className="flex-1 p-6 overflow-y-auto">
           {showCreateForm ? (
             <Card>
               <CardHeader>
@@ -795,7 +842,7 @@ export default function StrategyManager() {
               <CardContent className="space-y-6">
                 <div className="space-y-2">
                   <Label>Estrategia</Label>
-                  <Select value={newStrategy} onValueChange={handleStrategySelect}>
+                  <Select value={newStrategyName} onValueChange={handleStrategySelect}>
                     <SelectTrigger>
                       <SelectValue placeholder="Selecciona una estrategia" />
                     </SelectTrigger>
@@ -809,12 +856,12 @@ export default function StrategyManager() {
                   </Select>
                 </div>
 
-                {newStrategy && (
+                {newStrategyName && (
                   <>
                     <Separator />
                     <div className="grid gap-4">
-                      {Object.entries(STRATEGY_SCHEMAS[newStrategy as keyof typeof STRATEGY_SCHEMAS]).map(([key]) =>
-                        renderFormField(key, newComponent[key], true),
+                      {Object.entries(STRATEGY_SCHEMAS[newStrategyName as keyof typeof STRATEGY_SCHEMAS]).map(([key]) =>
+                        renderFormField(key, newStrategyComponent[key], true),
                       )}
                     </div>
 
@@ -828,18 +875,18 @@ export default function StrategyManager() {
                 )}
               </CardContent>
             </Card>
-          ) : selectedComponent ? (
+          ) : selectedStrategy ? (
             <Card>
               <CardHeader>
                 <CardTitle className="flex items-center justify-between">
-                  Editar Estrategia: {selectedComponent.strategy}
-                  <Button variant="destructive" size="sm" onClick={handleDeleteComponent} className="ml-4 cursor-pointer dark:bg-destructive/80">
+                  Editar Estrategia: {selectedStrategy.estrategia}
+                  <Button variant="destructive" size="sm" onClick={handleDeleteStrategy} className="ml-4 cursor-pointer dark:bg-destructive/80">
                     Eliminar
                   </Button>
                 </CardTitle>
               </CardHeader>
               <CardContent className="space-y-4">
-                {Object.entries(selectedComponent).map(([key, value]) => renderFormField(key, value))}
+                {Object.entries(selectedStrategy).map(([key, value]) => renderFormField(key, value))}
               </CardContent>
             </Card>
           ) : (
