@@ -8,6 +8,114 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - A3 - CI"
     },
     {
+        "symbolReference": "A30C72000G",
+        "tradingSymbol": "MERV - XMEV - A30C72000G - 24hs"
+    },
+    {
+        "symbolReference": "A30C74000G",
+        "tradingSymbol": "MERV - XMEV - A30C74000G - 24hs"
+    },
+    {
+        "symbolReference": "A30C76000G",
+        "tradingSymbol": "MERV - XMEV - A30C76000G - 24hs"
+    },
+    {
+        "symbolReference": "A30C78000G",
+        "tradingSymbol": "MERV - XMEV - A30C78000G - 24hs"
+    },
+    {
+        "symbolReference": "A30C80000G",
+        "tradingSymbol": "MERV - XMEV - A30C80000G - 24hs"
+    },
+    {
+        "symbolReference": "A30C80000O",
+        "tradingSymbol": "MERV - XMEV - A30C80000O - 24hs"
+    },
+    {
+        "symbolReference": "A30C82000G",
+        "tradingSymbol": "MERV - XMEV - A30C82000G - 24hs"
+    },
+    {
+        "symbolReference": "A30C82000O",
+        "tradingSymbol": "MERV - XMEV - A30C82000O - 24hs"
+    },
+    {
+        "symbolReference": "A30C84000G",
+        "tradingSymbol": "MERV - XMEV - A30C84000G - 24hs"
+    },
+    {
+        "symbolReference": "A30C84000O",
+        "tradingSymbol": "MERV - XMEV - A30C84000O - 24hs"
+    },
+    {
+        "symbolReference": "A30C86000G",
+        "tradingSymbol": "MERV - XMEV - A30C86000G - 24hs"
+    },
+    {
+        "symbolReference": "A30C86000O",
+        "tradingSymbol": "MERV - XMEV - A30C86000O - 24hs"
+    },
+    {
+        "symbolReference": "A30C88000G",
+        "tradingSymbol": "MERV - XMEV - A30C88000G - 24hs"
+    },
+    {
+        "symbolReference": "A30C88000O",
+        "tradingSymbol": "MERV - XMEV - A30C88000O - 24hs"
+    },
+    {
+        "symbolReference": "A30V74000G",
+        "tradingSymbol": "MERV - XMEV - A30V74000G - 24hs"
+    },
+    {
+        "symbolReference": "A30V76000G",
+        "tradingSymbol": "MERV - XMEV - A30V76000G - 24hs"
+    },
+    {
+        "symbolReference": "A30V78000G",
+        "tradingSymbol": "MERV - XMEV - A30V78000G - 24hs"
+    },
+    {
+        "symbolReference": "A30V80000G",
+        "tradingSymbol": "MERV - XMEV - A30V80000G - 24hs"
+    },
+    {
+        "symbolReference": "A30V80000O",
+        "tradingSymbol": "MERV - XMEV - A30V80000O - 24hs"
+    },
+    {
+        "symbolReference": "A30V82000G",
+        "tradingSymbol": "MERV - XMEV - A30V82000G - 24hs"
+    },
+    {
+        "symbolReference": "A30V82000O",
+        "tradingSymbol": "MERV - XMEV - A30V82000O - 24hs"
+    },
+    {
+        "symbolReference": "A30V84000G",
+        "tradingSymbol": "MERV - XMEV - A30V84000G - 24hs"
+    },
+    {
+        "symbolReference": "A30V84000O",
+        "tradingSymbol": "MERV - XMEV - A30V84000O - 24hs"
+    },
+    {
+        "symbolReference": "A30V86000G",
+        "tradingSymbol": "MERV - XMEV - A30V86000G - 24hs"
+    },
+    {
+        "symbolReference": "A30V86000O",
+        "tradingSymbol": "MERV - XMEV - A30V86000O - 24hs"
+    },
+    {
+        "symbolReference": "A30V88000G",
+        "tradingSymbol": "MERV - XMEV - A30V88000G - 24hs"
+    },
+    {
+        "symbolReference": "A30V88000O",
+        "tradingSymbol": "MERV - XMEV - A30V88000O - 24hs"
+    },
+    {
         "symbolReference": "A3C",
         "tradingSymbol": "MERV - XMEV - A3C - 24hs"
     },
@@ -960,6 +1068,54 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - ALUAD - CI"
     },
     {
+        "symbolReference": "ALUC400.AG",
+        "tradingSymbol": "MERV - XMEV - ALUC400.AG - 24hs"
+    },
+    {
+        "symbolReference": "ALUC400.DI",
+        "tradingSymbol": "MERV - XMEV - ALUC400.DI - 24hs"
+    },
+    {
+        "symbolReference": "ALUC400.OC",
+        "tradingSymbol": "MERV - XMEV - ALUC400.OC - 24hs"
+    },
+    {
+        "symbolReference": "ALUC500.DI",
+        "tradingSymbol": "MERV - XMEV - ALUC500.DI - 24hs"
+    },
+    {
+        "symbolReference": "ALUC750.OC",
+        "tradingSymbol": "MERV - XMEV - ALUC750.OC - 24hs"
+    },
+    {
+        "symbolReference": "ALUC800.AG",
+        "tradingSymbol": "MERV - XMEV - ALUC800.AG - 24hs"
+    },
+    {
+        "symbolReference": "ALUC900.AG",
+        "tradingSymbol": "MERV - XMEV - ALUC900.AG - 24hs"
+    },
+    {
+        "symbolReference": "ALUC900.DI",
+        "tradingSymbol": "MERV - XMEV - ALUC900.DI - 24hs"
+    },
+    {
+        "symbolReference": "ALUV400.AG",
+        "tradingSymbol": "MERV - XMEV - ALUV400.AG - 24hs"
+    },
+    {
+        "symbolReference": "ALUV400.DI",
+        "tradingSymbol": "MERV - XMEV - ALUV400.DI - 24hs"
+    },
+    {
+        "symbolReference": "ALUV400.OC",
+        "tradingSymbol": "MERV - XMEV - ALUV400.OC - 24hs"
+    },
+    {
+        "symbolReference": "ALUV500.DI",
+        "tradingSymbol": "MERV - XMEV - ALUV500.DI - 24hs"
+    },
+    {
         "symbolReference": "AMAT",
         "tradingSymbol": "MERV - XMEV - AMAT - 24hs"
     },
@@ -1056,6 +1212,34 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - AMXD - CI"
     },
     {
+        "symbolReference": "AMZC1400AG",
+        "tradingSymbol": "MERV - XMEV - AMZC1400AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZC1500AG",
+        "tradingSymbol": "MERV - XMEV - AMZC1500AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZC1600AG",
+        "tradingSymbol": "MERV - XMEV - AMZC1600AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZC1700AG",
+        "tradingSymbol": "MERV - XMEV - AMZC1700AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZC1800AG",
+        "tradingSymbol": "MERV - XMEV - AMZC1800AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZC1900AG",
+        "tradingSymbol": "MERV - XMEV - AMZC1900AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZC2000AG",
+        "tradingSymbol": "MERV - XMEV - AMZC2000AG - 24hs"
+    },
+    {
         "symbolReference": "AMZN",
         "tradingSymbol": "MERV - XMEV - AMZN - 24hs"
     },
@@ -1078,6 +1262,34 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "AMZND (CI)",
         "tradingSymbol": "MERV - XMEV - AMZND - CI"
+    },
+    {
+        "symbolReference": "AMZV1400AG",
+        "tradingSymbol": "MERV - XMEV - AMZV1400AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZV1500AG",
+        "tradingSymbol": "MERV - XMEV - AMZV1500AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZV1600AG",
+        "tradingSymbol": "MERV - XMEV - AMZV1600AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZV1700AG",
+        "tradingSymbol": "MERV - XMEV - AMZV1700AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZV1800AG",
+        "tradingSymbol": "MERV - XMEV - AMZV1800AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZV1900AG",
+        "tradingSymbol": "MERV - XMEV - AMZV1900AG - 24hs"
+    },
+    {
+        "symbolReference": "AMZV2000AG",
+        "tradingSymbol": "MERV - XMEV - AMZV2000AG - 24hs"
     },
     {
         "symbolReference": "ANF",
@@ -1448,6 +1660,22 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - B.D - CI"
     },
     {
+        "symbolReference": "B4J6C",
+        "tradingSymbol": "MERV - XMEV - B4J6C - 24hs"
+    },
+    {
+        "symbolReference": "B4J6C (CI)",
+        "tradingSymbol": "MERV - XMEV - B4J6C - CI"
+    },
+    {
+        "symbolReference": "B4J6D",
+        "tradingSymbol": "MERV - XMEV - B4J6D - 24hs"
+    },
+    {
+        "symbolReference": "B4J6D (CI)",
+        "tradingSymbol": "MERV - XMEV - B4J6D - CI"
+    },
+    {
         "symbolReference": "BA",
         "tradingSymbol": "MERV - XMEV - BA - 24hs"
     },
@@ -1608,6 +1836,26 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - BACAO - CI"
     },
     {
+        "symbolReference": "BACC12000G",
+        "tradingSymbol": "MERV - XMEV - BACC12000G - 24hs"
+    },
+    {
+        "symbolReference": "BACC13000G",
+        "tradingSymbol": "MERV - XMEV - BACC13000G - 24hs"
+    },
+    {
+        "symbolReference": "BACC14000G",
+        "tradingSymbol": "MERV - XMEV - BACC14000G - 24hs"
+    },
+    {
+        "symbolReference": "BACC15000G",
+        "tradingSymbol": "MERV - XMEV - BACC15000G - 24hs"
+    },
+    {
+        "symbolReference": "BACC16000G",
+        "tradingSymbol": "MERV - XMEV - BACC16000G - 24hs"
+    },
+    {
         "symbolReference": "BACGC",
         "tradingSymbol": "MERV - XMEV - BACGC - 24hs"
     },
@@ -1654,6 +1902,14 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "BAK (CI)",
         "tradingSymbol": "MERV - XMEV - BAK - CI"
+    },
+    {
+        "symbolReference": "BAN25",
+        "tradingSymbol": "MERV - XMEV - BAN25 - 24hs"
+    },
+    {
+        "symbolReference": "BAN25 (CI)",
+        "tradingSymbol": "MERV - XMEV - BAN25 - CI"
     },
     {
         "symbolReference": "BAO25",
@@ -1768,6 +2024,202 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - BB7ED - CI"
     },
     {
+        "symbolReference": "BBAC10200G",
+        "tradingSymbol": "MERV - XMEV - BBAC10200G - 24hs"
+    },
+    {
+        "symbolReference": "BBAC55832D",
+        "tradingSymbol": "MERV - XMEV - BBAC55832D - 24hs"
+    },
+    {
+        "symbolReference": "BBAC55832G",
+        "tradingSymbol": "MERV - XMEV - BBAC55832G - 24hs"
+    },
+    {
+        "symbolReference": "BBAC55832O",
+        "tradingSymbol": "MERV - XMEV - BBAC55832O - 24hs"
+    },
+    {
+        "symbolReference": "BBAC5600AG",
+        "tradingSymbol": "MERV - XMEV - BBAC5600AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAC5600OC",
+        "tradingSymbol": "MERV - XMEV - BBAC5600OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAC61832D",
+        "tradingSymbol": "MERV - XMEV - BBAC61832D - 24hs"
+    },
+    {
+        "symbolReference": "BBAC61832G",
+        "tradingSymbol": "MERV - XMEV - BBAC61832G - 24hs"
+    },
+    {
+        "symbolReference": "BBAC61832O",
+        "tradingSymbol": "MERV - XMEV - BBAC61832O - 24hs"
+    },
+    {
+        "symbolReference": "BBAC6200AG",
+        "tradingSymbol": "MERV - XMEV - BBAC6200AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAC6200DI",
+        "tradingSymbol": "MERV - XMEV - BBAC6200DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAC6200OC",
+        "tradingSymbol": "MERV - XMEV - BBAC6200OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAC65667O",
+        "tradingSymbol": "MERV - XMEV - BBAC65667O - 24hs"
+    },
+    {
+        "symbolReference": "BBAC65832G",
+        "tradingSymbol": "MERV - XMEV - BBAC65832G - 24hs"
+    },
+    {
+        "symbolReference": "BBAC65835O",
+        "tradingSymbol": "MERV - XMEV - BBAC65835O - 24hs"
+    },
+    {
+        "symbolReference": "BBAC6600AG",
+        "tradingSymbol": "MERV - XMEV - BBAC6600AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAC6600DI",
+        "tradingSymbol": "MERV - XMEV - BBAC6600DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAC6600OC",
+        "tradingSymbol": "MERV - XMEV - BBAC6600OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAC69667G",
+        "tradingSymbol": "MERV - XMEV - BBAC69667G - 24hs"
+    },
+    {
+        "symbolReference": "BBAC69667O",
+        "tradingSymbol": "MERV - XMEV - BBAC69667O - 24hs"
+    },
+    {
+        "symbolReference": "BBAC69832D",
+        "tradingSymbol": "MERV - XMEV - BBAC69832D - 24hs"
+    },
+    {
+        "symbolReference": "BBAC69835G",
+        "tradingSymbol": "MERV - XMEV - BBAC69835G - 24hs"
+    },
+    {
+        "symbolReference": "BBAC69835O",
+        "tradingSymbol": "MERV - XMEV - BBAC69835O - 24hs"
+    },
+    {
+        "symbolReference": "BBAC7000AG",
+        "tradingSymbol": "MERV - XMEV - BBAC7000AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAC7000DI",
+        "tradingSymbol": "MERV - XMEV - BBAC7000DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAC7000OC",
+        "tradingSymbol": "MERV - XMEV - BBAC7000OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAC73667G",
+        "tradingSymbol": "MERV - XMEV - BBAC73667G - 24hs"
+    },
+    {
+        "symbolReference": "BBAC73667O",
+        "tradingSymbol": "MERV - XMEV - BBAC73667O - 24hs"
+    },
+    {
+        "symbolReference": "BBAC73835G",
+        "tradingSymbol": "MERV - XMEV - BBAC73835G - 24hs"
+    },
+    {
+        "symbolReference": "BBAC73835O",
+        "tradingSymbol": "MERV - XMEV - BBAC73835O - 24hs"
+    },
+    {
+        "symbolReference": "BBAC7400AG",
+        "tradingSymbol": "MERV - XMEV - BBAC7400AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAC7400DI",
+        "tradingSymbol": "MERV - XMEV - BBAC7400DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAC7400OC",
+        "tradingSymbol": "MERV - XMEV - BBAC7400OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAC77835G",
+        "tradingSymbol": "MERV - XMEV - BBAC77835G - 24hs"
+    },
+    {
+        "symbolReference": "BBAC7800AG",
+        "tradingSymbol": "MERV - XMEV - BBAC7800AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAC7800DI",
+        "tradingSymbol": "MERV - XMEV - BBAC7800DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAC7800OC",
+        "tradingSymbol": "MERV - XMEV - BBAC7800OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAC8200AG",
+        "tradingSymbol": "MERV - XMEV - BBAC8200AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAC8200DI",
+        "tradingSymbol": "MERV - XMEV - BBAC8200DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAC8200OC",
+        "tradingSymbol": "MERV - XMEV - BBAC8200OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAC85667G",
+        "tradingSymbol": "MERV - XMEV - BBAC85667G - 24hs"
+    },
+    {
+        "symbolReference": "BBAC85832D",
+        "tradingSymbol": "MERV - XMEV - BBAC85832D - 24hs"
+    },
+    {
+        "symbolReference": "BBAC85835G",
+        "tradingSymbol": "MERV - XMEV - BBAC85835G - 24hs"
+    },
+    {
+        "symbolReference": "BBAC8600AG",
+        "tradingSymbol": "MERV - XMEV - BBAC8600AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAC8600DI",
+        "tradingSymbol": "MERV - XMEV - BBAC8600DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAC8600OC",
+        "tradingSymbol": "MERV - XMEV - BBAC8600OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAC9000AG",
+        "tradingSymbol": "MERV - XMEV - BBAC9000AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAC9400AG",
+        "tradingSymbol": "MERV - XMEV - BBAC9400AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAC9800AG",
+        "tradingSymbol": "MERV - XMEV - BBAC9800AG - 24hs"
+    },
+    {
         "symbolReference": "BBAR",
         "tradingSymbol": "MERV - XMEV - BBAR - 24hs"
     },
@@ -1790,6 +2242,202 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "BBAS3 (CI)",
         "tradingSymbol": "MERV - XMEV - BBAS3 - CI"
+    },
+    {
+        "symbolReference": "BBAV10200G",
+        "tradingSymbol": "MERV - XMEV - BBAV10200G - 24hs"
+    },
+    {
+        "symbolReference": "BBAV55832D",
+        "tradingSymbol": "MERV - XMEV - BBAV55832D - 24hs"
+    },
+    {
+        "symbolReference": "BBAV55832G",
+        "tradingSymbol": "MERV - XMEV - BBAV55832G - 24hs"
+    },
+    {
+        "symbolReference": "BBAV55832O",
+        "tradingSymbol": "MERV - XMEV - BBAV55832O - 24hs"
+    },
+    {
+        "symbolReference": "BBAV5600AG",
+        "tradingSymbol": "MERV - XMEV - BBAV5600AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAV5600OC",
+        "tradingSymbol": "MERV - XMEV - BBAV5600OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAV61832D",
+        "tradingSymbol": "MERV - XMEV - BBAV61832D - 24hs"
+    },
+    {
+        "symbolReference": "BBAV61832G",
+        "tradingSymbol": "MERV - XMEV - BBAV61832G - 24hs"
+    },
+    {
+        "symbolReference": "BBAV61832O",
+        "tradingSymbol": "MERV - XMEV - BBAV61832O - 24hs"
+    },
+    {
+        "symbolReference": "BBAV6200AG",
+        "tradingSymbol": "MERV - XMEV - BBAV6200AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAV6200DI",
+        "tradingSymbol": "MERV - XMEV - BBAV6200DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAV6200OC",
+        "tradingSymbol": "MERV - XMEV - BBAV6200OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAV65667O",
+        "tradingSymbol": "MERV - XMEV - BBAV65667O - 24hs"
+    },
+    {
+        "symbolReference": "BBAV65832G",
+        "tradingSymbol": "MERV - XMEV - BBAV65832G - 24hs"
+    },
+    {
+        "symbolReference": "BBAV65835O",
+        "tradingSymbol": "MERV - XMEV - BBAV65835O - 24hs"
+    },
+    {
+        "symbolReference": "BBAV6600AG",
+        "tradingSymbol": "MERV - XMEV - BBAV6600AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAV6600DI",
+        "tradingSymbol": "MERV - XMEV - BBAV6600DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAV6600OC",
+        "tradingSymbol": "MERV - XMEV - BBAV6600OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAV69667G",
+        "tradingSymbol": "MERV - XMEV - BBAV69667G - 24hs"
+    },
+    {
+        "symbolReference": "BBAV69667O",
+        "tradingSymbol": "MERV - XMEV - BBAV69667O - 24hs"
+    },
+    {
+        "symbolReference": "BBAV69832D",
+        "tradingSymbol": "MERV - XMEV - BBAV69832D - 24hs"
+    },
+    {
+        "symbolReference": "BBAV69835G",
+        "tradingSymbol": "MERV - XMEV - BBAV69835G - 24hs"
+    },
+    {
+        "symbolReference": "BBAV69835O",
+        "tradingSymbol": "MERV - XMEV - BBAV69835O - 24hs"
+    },
+    {
+        "symbolReference": "BBAV7000AG",
+        "tradingSymbol": "MERV - XMEV - BBAV7000AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAV7000DI",
+        "tradingSymbol": "MERV - XMEV - BBAV7000DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAV7000OC",
+        "tradingSymbol": "MERV - XMEV - BBAV7000OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAV73667G",
+        "tradingSymbol": "MERV - XMEV - BBAV73667G - 24hs"
+    },
+    {
+        "symbolReference": "BBAV73667O",
+        "tradingSymbol": "MERV - XMEV - BBAV73667O - 24hs"
+    },
+    {
+        "symbolReference": "BBAV73835G",
+        "tradingSymbol": "MERV - XMEV - BBAV73835G - 24hs"
+    },
+    {
+        "symbolReference": "BBAV73835O",
+        "tradingSymbol": "MERV - XMEV - BBAV73835O - 24hs"
+    },
+    {
+        "symbolReference": "BBAV7400AG",
+        "tradingSymbol": "MERV - XMEV - BBAV7400AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAV7400DI",
+        "tradingSymbol": "MERV - XMEV - BBAV7400DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAV7400OC",
+        "tradingSymbol": "MERV - XMEV - BBAV7400OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAV77835G",
+        "tradingSymbol": "MERV - XMEV - BBAV77835G - 24hs"
+    },
+    {
+        "symbolReference": "BBAV7800AG",
+        "tradingSymbol": "MERV - XMEV - BBAV7800AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAV7800DI",
+        "tradingSymbol": "MERV - XMEV - BBAV7800DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAV7800OC",
+        "tradingSymbol": "MERV - XMEV - BBAV7800OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAV8200AG",
+        "tradingSymbol": "MERV - XMEV - BBAV8200AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAV8200DI",
+        "tradingSymbol": "MERV - XMEV - BBAV8200DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAV8200OC",
+        "tradingSymbol": "MERV - XMEV - BBAV8200OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAV85667G",
+        "tradingSymbol": "MERV - XMEV - BBAV85667G - 24hs"
+    },
+    {
+        "symbolReference": "BBAV85832D",
+        "tradingSymbol": "MERV - XMEV - BBAV85832D - 24hs"
+    },
+    {
+        "symbolReference": "BBAV85835G",
+        "tradingSymbol": "MERV - XMEV - BBAV85835G - 24hs"
+    },
+    {
+        "symbolReference": "BBAV8600AG",
+        "tradingSymbol": "MERV - XMEV - BBAV8600AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAV8600DI",
+        "tradingSymbol": "MERV - XMEV - BBAV8600DI - 24hs"
+    },
+    {
+        "symbolReference": "BBAV8600OC",
+        "tradingSymbol": "MERV - XMEV - BBAV8600OC - 24hs"
+    },
+    {
+        "symbolReference": "BBAV9000AG",
+        "tradingSymbol": "MERV - XMEV - BBAV9000AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAV9400AG",
+        "tradingSymbol": "MERV - XMEV - BBAV9400AG - 24hs"
+    },
+    {
+        "symbolReference": "BBAV9800AG",
+        "tradingSymbol": "MERV - XMEV - BBAV9800AG - 24hs"
     },
     {
         "symbolReference": "BBD",
@@ -2168,6 +2816,198 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - BFCZO - CI"
     },
     {
+        "symbolReference": "BGD25",
+        "tradingSymbol": "MERV - XMEV - BGD25 - 24hs"
+    },
+    {
+        "symbolReference": "BGD25 (CI)",
+        "tradingSymbol": "MERV - XMEV - BGD25 - CI"
+    },
+    {
+        "symbolReference": "BGD5C",
+        "tradingSymbol": "MERV - XMEV - BGD5C - 24hs"
+    },
+    {
+        "symbolReference": "BGD5C (CI)",
+        "tradingSymbol": "MERV - XMEV - BGD5C - CI"
+    },
+    {
+        "symbolReference": "BGD5D",
+        "tradingSymbol": "MERV - XMEV - BGD5D - 24hs"
+    },
+    {
+        "symbolReference": "BGD5D (CI)",
+        "tradingSymbol": "MERV - XMEV - BGD5D - CI"
+    },
+    {
+        "symbolReference": "BHIC31056G",
+        "tradingSymbol": "MERV - XMEV - BHIC31056G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC31056O",
+        "tradingSymbol": "MERV - XMEV - BHIC31056O - 24hs"
+    },
+    {
+        "symbolReference": "BHIC31524D",
+        "tradingSymbol": "MERV - XMEV - BHIC31524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIC31532G",
+        "tradingSymbol": "MERV - XMEV - BHIC31532G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC31532O",
+        "tradingSymbol": "MERV - XMEV - BHIC31532O - 24hs"
+    },
+    {
+        "symbolReference": "BHIC320.DI",
+        "tradingSymbol": "MERV - XMEV - BHIC320.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIC320.OC",
+        "tradingSymbol": "MERV - XMEV - BHIC320.OC - 24hs"
+    },
+    {
+        "symbolReference": "BHIC33056G",
+        "tradingSymbol": "MERV - XMEV - BHIC33056G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC33532G",
+        "tradingSymbol": "MERV - XMEV - BHIC33532G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC35056G",
+        "tradingSymbol": "MERV - XMEV - BHIC35056G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC35524D",
+        "tradingSymbol": "MERV - XMEV - BHIC35524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIC35532G",
+        "tradingSymbol": "MERV - XMEV - BHIC35532G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC37524D",
+        "tradingSymbol": "MERV - XMEV - BHIC37524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIC37524G",
+        "tradingSymbol": "MERV - XMEV - BHIC37524G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC41056G",
+        "tradingSymbol": "MERV - XMEV - BHIC41056G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC41524D",
+        "tradingSymbol": "MERV - XMEV - BHIC41524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIC41524O",
+        "tradingSymbol": "MERV - XMEV - BHIC41524O - 24hs"
+    },
+    {
+        "symbolReference": "BHIC41532G",
+        "tradingSymbol": "MERV - XMEV - BHIC41532G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC43524D",
+        "tradingSymbol": "MERV - XMEV - BHIC43524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIC43524G",
+        "tradingSymbol": "MERV - XMEV - BHIC43524G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC43524O",
+        "tradingSymbol": "MERV - XMEV - BHIC43524O - 24hs"
+    },
+    {
+        "symbolReference": "BHIC47524D",
+        "tradingSymbol": "MERV - XMEV - BHIC47524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIC47524O",
+        "tradingSymbol": "MERV - XMEV - BHIC47524O - 24hs"
+    },
+    {
+        "symbolReference": "BHIC480.AG",
+        "tradingSymbol": "MERV - XMEV - BHIC480.AG - 24hs"
+    },
+    {
+        "symbolReference": "BHIC480.DI",
+        "tradingSymbol": "MERV - XMEV - BHIC480.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIC49524O",
+        "tradingSymbol": "MERV - XMEV - BHIC49524O - 24hs"
+    },
+    {
+        "symbolReference": "BHIC500.AG",
+        "tradingSymbol": "MERV - XMEV - BHIC500.AG - 24hs"
+    },
+    {
+        "symbolReference": "BHIC500.DI",
+        "tradingSymbol": "MERV - XMEV - BHIC500.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIC51524D",
+        "tradingSymbol": "MERV - XMEV - BHIC51524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIC520.AG",
+        "tradingSymbol": "MERV - XMEV - BHIC520.AG - 24hs"
+    },
+    {
+        "symbolReference": "BHIC520.DI",
+        "tradingSymbol": "MERV - XMEV - BHIC520.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIC53524D",
+        "tradingSymbol": "MERV - XMEV - BHIC53524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIC53524O",
+        "tradingSymbol": "MERV - XMEV - BHIC53524O - 24hs"
+    },
+    {
+        "symbolReference": "BHIC540.AG",
+        "tradingSymbol": "MERV - XMEV - BHIC540.AG - 24hs"
+    },
+    {
+        "symbolReference": "BHIC540.DI",
+        "tradingSymbol": "MERV - XMEV - BHIC540.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIC560.AG",
+        "tradingSymbol": "MERV - XMEV - BHIC560.AG - 24hs"
+    },
+    {
+        "symbolReference": "BHIC57056G",
+        "tradingSymbol": "MERV - XMEV - BHIC57056G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC57532G",
+        "tradingSymbol": "MERV - XMEV - BHIC57532G - 24hs"
+    },
+    {
+        "symbolReference": "BHIC580.AG",
+        "tradingSymbol": "MERV - XMEV - BHIC580.AG - 24hs"
+    },
+    {
+        "symbolReference": "BHIC600.AG",
+        "tradingSymbol": "MERV - XMEV - BHIC600.AG - 24hs"
+    },
+    {
+        "symbolReference": "BHIC620.AG",
+        "tradingSymbol": "MERV - XMEV - BHIC620.AG - 24hs"
+    },
+    {
+        "symbolReference": "BHIC640.AG",
+        "tradingSymbol": "MERV - XMEV - BHIC640.AG - 24hs"
+    },
+    {
         "symbolReference": "BHIP",
         "tradingSymbol": "MERV - XMEV - BHIP - 24hs"
     },
@@ -2182,6 +3022,170 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "BHIPD (CI)",
         "tradingSymbol": "MERV - XMEV - BHIPD - CI"
+    },
+    {
+        "symbolReference": "BHIV31056G",
+        "tradingSymbol": "MERV - XMEV - BHIV31056G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV31056O",
+        "tradingSymbol": "MERV - XMEV - BHIV31056O - 24hs"
+    },
+    {
+        "symbolReference": "BHIV31524D",
+        "tradingSymbol": "MERV - XMEV - BHIV31524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIV31532G",
+        "tradingSymbol": "MERV - XMEV - BHIV31532G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV31532O",
+        "tradingSymbol": "MERV - XMEV - BHIV31532O - 24hs"
+    },
+    {
+        "symbolReference": "BHIV320.DI",
+        "tradingSymbol": "MERV - XMEV - BHIV320.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIV33056G",
+        "tradingSymbol": "MERV - XMEV - BHIV33056G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV33532G",
+        "tradingSymbol": "MERV - XMEV - BHIV33532G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV340.DI",
+        "tradingSymbol": "MERV - XMEV - BHIV340.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIV35056G",
+        "tradingSymbol": "MERV - XMEV - BHIV35056G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV35524D",
+        "tradingSymbol": "MERV - XMEV - BHIV35524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIV35532G",
+        "tradingSymbol": "MERV - XMEV - BHIV35532G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV360.AG",
+        "tradingSymbol": "MERV - XMEV - BHIV360.AG - 24hs"
+    },
+    {
+        "symbolReference": "BHIV360.DI",
+        "tradingSymbol": "MERV - XMEV - BHIV360.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIV37524D",
+        "tradingSymbol": "MERV - XMEV - BHIV37524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIV37524G",
+        "tradingSymbol": "MERV - XMEV - BHIV37524G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV380.DI",
+        "tradingSymbol": "MERV - XMEV - BHIV380.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIV400.DI",
+        "tradingSymbol": "MERV - XMEV - BHIV400.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIV41056G",
+        "tradingSymbol": "MERV - XMEV - BHIV41056G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV41524D",
+        "tradingSymbol": "MERV - XMEV - BHIV41524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIV41524O",
+        "tradingSymbol": "MERV - XMEV - BHIV41524O - 24hs"
+    },
+    {
+        "symbolReference": "BHIV41532G",
+        "tradingSymbol": "MERV - XMEV - BHIV41532G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV420.AG",
+        "tradingSymbol": "MERV - XMEV - BHIV420.AG - 24hs"
+    },
+    {
+        "symbolReference": "BHIV420.DI",
+        "tradingSymbol": "MERV - XMEV - BHIV420.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIV43524D",
+        "tradingSymbol": "MERV - XMEV - BHIV43524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIV43524G",
+        "tradingSymbol": "MERV - XMEV - BHIV43524G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV43524O",
+        "tradingSymbol": "MERV - XMEV - BHIV43524O - 24hs"
+    },
+    {
+        "symbolReference": "BHIV440.DI",
+        "tradingSymbol": "MERV - XMEV - BHIV440.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIV47524D",
+        "tradingSymbol": "MERV - XMEV - BHIV47524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIV47524O",
+        "tradingSymbol": "MERV - XMEV - BHIV47524O - 24hs"
+    },
+    {
+        "symbolReference": "BHIV480.DI",
+        "tradingSymbol": "MERV - XMEV - BHIV480.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIV49524O",
+        "tradingSymbol": "MERV - XMEV - BHIV49524O - 24hs"
+    },
+    {
+        "symbolReference": "BHIV500.DI",
+        "tradingSymbol": "MERV - XMEV - BHIV500.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIV51524D",
+        "tradingSymbol": "MERV - XMEV - BHIV51524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIV520.DI",
+        "tradingSymbol": "MERV - XMEV - BHIV520.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIV53524D",
+        "tradingSymbol": "MERV - XMEV - BHIV53524D - 24hs"
+    },
+    {
+        "symbolReference": "BHIV53524O",
+        "tradingSymbol": "MERV - XMEV - BHIV53524O - 24hs"
+    },
+    {
+        "symbolReference": "BHIV540.DI",
+        "tradingSymbol": "MERV - XMEV - BHIV540.DI - 24hs"
+    },
+    {
+        "symbolReference": "BHIV57056G",
+        "tradingSymbol": "MERV - XMEV - BHIV57056G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV57532G",
+        "tradingSymbol": "MERV - XMEV - BHIV57532G - 24hs"
+    },
+    {
+        "symbolReference": "BHIV580.AG",
+        "tradingSymbol": "MERV - XMEV - BHIV580.AG - 24hs"
     },
     {
         "symbolReference": "BHP",
@@ -2368,6 +3372,22 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - BKRD - CI"
     },
     {
+        "symbolReference": "BL2S5",
+        "tradingSymbol": "MERV - XMEV - BL2S5 - 24hs"
+    },
+    {
+        "symbolReference": "BL2S5 (CI)",
+        "tradingSymbol": "MERV - XMEV - BL2S5 - CI"
+    },
+    {
+        "symbolReference": "BLG25",
+        "tradingSymbol": "MERV - XMEV - BLG25 - 24hs"
+    },
+    {
+        "symbolReference": "BLG25 (CI)",
+        "tradingSymbol": "MERV - XMEV - BLG25 - CI"
+    },
+    {
         "symbolReference": "BMA",
         "tradingSymbol": "MERV - XMEV - BMA - 24hs"
     },
@@ -2400,6 +3420,198 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - BMA.X - CI"
     },
     {
+        "symbolReference": "BMAC10000G",
+        "tradingSymbol": "MERV - XMEV - BMAC10000G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC10346G",
+        "tradingSymbol": "MERV - XMEV - BMAC10346G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC10400G",
+        "tradingSymbol": "MERV - XMEV - BMAC10400G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC10746G",
+        "tradingSymbol": "MERV - XMEV - BMAC10746G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC10800G",
+        "tradingSymbol": "MERV - XMEV - BMAC10800G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC11093G",
+        "tradingSymbol": "MERV - XMEV - BMAC11093G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC11147G",
+        "tradingSymbol": "MERV - XMEV - BMAC11147G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC11200G",
+        "tradingSymbol": "MERV - XMEV - BMAC11200G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC11600G",
+        "tradingSymbol": "MERV - XMEV - BMAC11600G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC12000G",
+        "tradingSymbol": "MERV - XMEV - BMAC12000G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC12400G",
+        "tradingSymbol": "MERV - XMEV - BMAC12400G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC13000G",
+        "tradingSymbol": "MERV - XMEV - BMAC13000G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC13600G",
+        "tradingSymbol": "MERV - XMEV - BMAC13600G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC14200G",
+        "tradingSymbol": "MERV - XMEV - BMAC14200G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC7600AG",
+        "tradingSymbol": "MERV - XMEV - BMAC7600AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAC8000AG",
+        "tradingSymbol": "MERV - XMEV - BMAC8000AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAC8400AG",
+        "tradingSymbol": "MERV - XMEV - BMAC8400AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAC8800AG",
+        "tradingSymbol": "MERV - XMEV - BMAC8800AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAC9200AG",
+        "tradingSymbol": "MERV - XMEV - BMAC9200AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAC94929G",
+        "tradingSymbol": "MERV - XMEV - BMAC94929G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC95469G",
+        "tradingSymbol": "MERV - XMEV - BMAC95469G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC9600AG",
+        "tradingSymbol": "MERV - XMEV - BMAC9600AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAC98929G",
+        "tradingSymbol": "MERV - XMEV - BMAC98929G - 24hs"
+    },
+    {
+        "symbolReference": "BMAC99469G",
+        "tradingSymbol": "MERV - XMEV - BMAC99469G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV10000G",
+        "tradingSymbol": "MERV - XMEV - BMAV10000G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV10346G",
+        "tradingSymbol": "MERV - XMEV - BMAV10346G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV10400G",
+        "tradingSymbol": "MERV - XMEV - BMAV10400G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV10746G",
+        "tradingSymbol": "MERV - XMEV - BMAV10746G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV10800G",
+        "tradingSymbol": "MERV - XMEV - BMAV10800G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV11093G",
+        "tradingSymbol": "MERV - XMEV - BMAV11093G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV11147G",
+        "tradingSymbol": "MERV - XMEV - BMAV11147G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV11200G",
+        "tradingSymbol": "MERV - XMEV - BMAV11200G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV11600G",
+        "tradingSymbol": "MERV - XMEV - BMAV11600G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV12000G",
+        "tradingSymbol": "MERV - XMEV - BMAV12000G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV12400G",
+        "tradingSymbol": "MERV - XMEV - BMAV12400G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV13000G",
+        "tradingSymbol": "MERV - XMEV - BMAV13000G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV13600G",
+        "tradingSymbol": "MERV - XMEV - BMAV13600G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV14200G",
+        "tradingSymbol": "MERV - XMEV - BMAV14200G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV7600AG",
+        "tradingSymbol": "MERV - XMEV - BMAV7600AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAV8000AG",
+        "tradingSymbol": "MERV - XMEV - BMAV8000AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAV8400AG",
+        "tradingSymbol": "MERV - XMEV - BMAV8400AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAV8800AG",
+        "tradingSymbol": "MERV - XMEV - BMAV8800AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAV9200AG",
+        "tradingSymbol": "MERV - XMEV - BMAV9200AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAV94929G",
+        "tradingSymbol": "MERV - XMEV - BMAV94929G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV95469G",
+        "tradingSymbol": "MERV - XMEV - BMAV95469G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV9600AG",
+        "tradingSymbol": "MERV - XMEV - BMAV9600AG - 24hs"
+    },
+    {
+        "symbolReference": "BMAV98929G",
+        "tradingSymbol": "MERV - XMEV - BMAV98929G - 24hs"
+    },
+    {
+        "symbolReference": "BMAV99469G",
+        "tradingSymbol": "MERV - XMEV - BMAV99469G - 24hs"
+    },
+    {
         "symbolReference": "BMY",
         "tradingSymbol": "MERV - XMEV - BMY - 24hs"
     },
@@ -2422,6 +3634,30 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "BMYD (CI)",
         "tradingSymbol": "MERV - XMEV - BMYD - CI"
+    },
+    {
+        "symbolReference": "BN2M6",
+        "tradingSymbol": "MERV - XMEV - BN2M6 - 24hs"
+    },
+    {
+        "symbolReference": "BN2M6 (CI)",
+        "tradingSymbol": "MERV - XMEV - BN2M6 - CI"
+    },
+    {
+        "symbolReference": "BNA26",
+        "tradingSymbol": "MERV - XMEV - BNA26 - 24hs"
+    },
+    {
+        "symbolReference": "BNA26 (CI)",
+        "tradingSymbol": "MERV - XMEV - BNA26 - CI"
+    },
+    {
+        "symbolReference": "BNA6D",
+        "tradingSymbol": "MERV - XMEV - BNA6D - 24hs"
+    },
+    {
+        "symbolReference": "BNA6D (CI)",
+        "tradingSymbol": "MERV - XMEV - BNA6D - CI"
     },
     {
         "symbolReference": "BNCTC",
@@ -2518,6 +3754,30 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "BNGD (CI)",
         "tradingSymbol": "MERV - XMEV - BNGD - CI"
+    },
+    {
+        "symbolReference": "BNO25",
+        "tradingSymbol": "MERV - XMEV - BNO25 - 24hs"
+    },
+    {
+        "symbolReference": "BNO25 (CI)",
+        "tradingSymbol": "MERV - XMEV - BNO25 - CI"
+    },
+    {
+        "symbolReference": "BNO5C",
+        "tradingSymbol": "MERV - XMEV - BNO5C - 24hs"
+    },
+    {
+        "symbolReference": "BNO5C (CI)",
+        "tradingSymbol": "MERV - XMEV - BNO5C - CI"
+    },
+    {
+        "symbolReference": "BNO5D",
+        "tradingSymbol": "MERV - XMEV - BNO5D - 24hs"
+    },
+    {
+        "symbolReference": "BNO5D (CI)",
+        "tradingSymbol": "MERV - XMEV - BNO5D - CI"
     },
     {
         "symbolReference": "BOL1D",
@@ -3032,6 +4292,14 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - BT21P - CI"
     },
     {
+        "symbolReference": "BU4J6",
+        "tradingSymbol": "MERV - XMEV - BU4J6 - 24hs"
+    },
+    {
+        "symbolReference": "BU4J6 (CI)",
+        "tradingSymbol": "MERV - XMEV - BU4J6 - CI"
+    },
+    {
         "symbolReference": "BUC3C",
         "tradingSymbol": "MERV - XMEV - BUC3C - 24hs"
     },
@@ -3054,6 +4322,54 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "BUC3O (CI)",
         "tradingSymbol": "MERV - XMEV - BUC3O - CI"
+    },
+    {
+        "symbolReference": "BVAC420.AG",
+        "tradingSymbol": "MERV - XMEV - BVAC420.AG - 24hs"
+    },
+    {
+        "symbolReference": "BVAC420.OC",
+        "tradingSymbol": "MERV - XMEV - BVAC420.OC - 24hs"
+    },
+    {
+        "symbolReference": "BVAC440.AG",
+        "tradingSymbol": "MERV - XMEV - BVAC440.AG - 24hs"
+    },
+    {
+        "symbolReference": "BVAC440.OC",
+        "tradingSymbol": "MERV - XMEV - BVAC440.OC - 24hs"
+    },
+    {
+        "symbolReference": "BVAC460.AG",
+        "tradingSymbol": "MERV - XMEV - BVAC460.AG - 24hs"
+    },
+    {
+        "symbolReference": "BVAC460.OC",
+        "tradingSymbol": "MERV - XMEV - BVAC460.OC - 24hs"
+    },
+    {
+        "symbolReference": "BVAC480.AG",
+        "tradingSymbol": "MERV - XMEV - BVAC480.AG - 24hs"
+    },
+    {
+        "symbolReference": "BVAC480.OC",
+        "tradingSymbol": "MERV - XMEV - BVAC480.OC - 24hs"
+    },
+    {
+        "symbolReference": "BVAC500.AG",
+        "tradingSymbol": "MERV - XMEV - BVAC500.AG - 24hs"
+    },
+    {
+        "symbolReference": "BVAC500.OC",
+        "tradingSymbol": "MERV - XMEV - BVAC500.OC - 24hs"
+    },
+    {
+        "symbolReference": "BVAC520.AG",
+        "tradingSymbol": "MERV - XMEV - BVAC520.AG - 24hs"
+    },
+    {
+        "symbolReference": "BVAC520.OC",
+        "tradingSymbol": "MERV - XMEV - BVAC520.OC - 24hs"
     },
     {
         "symbolReference": "BVCMC",
@@ -3314,6 +4630,218 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "BYMAD (CI)",
         "tradingSymbol": "MERV - XMEV - BYMAD - CI"
+    },
+    {
+        "symbolReference": "BYMC190.OC",
+        "tradingSymbol": "MERV - XMEV - BYMC190.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMC200.OC",
+        "tradingSymbol": "MERV - XMEV - BYMC200.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMC210.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC210.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC210.OC",
+        "tradingSymbol": "MERV - XMEV - BYMC210.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMC220.OC",
+        "tradingSymbol": "MERV - XMEV - BYMC220.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMC230.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC230.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC230.OC",
+        "tradingSymbol": "MERV - XMEV - BYMC230.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMC240.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC240.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC240.OC",
+        "tradingSymbol": "MERV - XMEV - BYMC240.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMC250.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC250.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC250.OC",
+        "tradingSymbol": "MERV - XMEV - BYMC250.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMC260.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC260.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC260.OC",
+        "tradingSymbol": "MERV - XMEV - BYMC260.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMC440.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC440.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC460.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC460.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC480.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC480.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC500.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC500.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC520.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC520.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC540.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC540.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC560.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC560.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC580.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC580.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC600.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC600.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC620.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC620.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC640.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC640.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC660.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC660.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC680.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC680.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMC700.AG",
+        "tradingSymbol": "MERV - XMEV - BYMC700.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV190.OC",
+        "tradingSymbol": "MERV - XMEV - BYMV190.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMV200.OC",
+        "tradingSymbol": "MERV - XMEV - BYMV200.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMV210.OC",
+        "tradingSymbol": "MERV - XMEV - BYMV210.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMV220.OC",
+        "tradingSymbol": "MERV - XMEV - BYMV220.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMV230.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV230.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV230.OC",
+        "tradingSymbol": "MERV - XMEV - BYMV230.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMV240.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV240.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV240.OC",
+        "tradingSymbol": "MERV - XMEV - BYMV240.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMV250.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV250.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV260.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV260.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV260.OC",
+        "tradingSymbol": "MERV - XMEV - BYMV260.OC - 24hs"
+    },
+    {
+        "symbolReference": "BYMV420.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV420.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV440.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV440.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV460.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV460.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV480.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV480.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV500.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV500.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV520.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV520.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV540.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV540.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV560.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV560.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV580.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV580.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV600.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV600.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV620.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV620.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV640.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV640.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV660.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV660.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV680.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV680.AG - 24hs"
+    },
+    {
+        "symbolReference": "BYMV700.AG",
+        "tradingSymbol": "MERV - XMEV - BYMV700.AG - 24hs"
     },
     {
         "symbolReference": "BZSBD",
@@ -3706,6 +5234,38 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "CDE (CI)",
         "tradingSymbol": "MERV - XMEV - CDE - CI"
+    },
+    {
+        "symbolReference": "CECC400.AG",
+        "tradingSymbol": "MERV - XMEV - CECC400.AG - 24hs"
+    },
+    {
+        "symbolReference": "CECC460.AG",
+        "tradingSymbol": "MERV - XMEV - CECC460.AG - 24hs"
+    },
+    {
+        "symbolReference": "CECC480.AG",
+        "tradingSymbol": "MERV - XMEV - CECC480.AG - 24hs"
+    },
+    {
+        "symbolReference": "CECC500.AG",
+        "tradingSymbol": "MERV - XMEV - CECC500.AG - 24hs"
+    },
+    {
+        "symbolReference": "CECC520.AG",
+        "tradingSymbol": "MERV - XMEV - CECC520.AG - 24hs"
+    },
+    {
+        "symbolReference": "CECC540.AG",
+        "tradingSymbol": "MERV - XMEV - CECC540.AG - 24hs"
+    },
+    {
+        "symbolReference": "CECC560.AG",
+        "tradingSymbol": "MERV - XMEV - CECC560.AG - 24hs"
+    },
+    {
+        "symbolReference": "CECC580.AG",
+        "tradingSymbol": "MERV - XMEV - CECC580.AG - 24hs"
     },
     {
         "symbolReference": "CECO2",
@@ -4164,6 +5724,406 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - COIND - CI"
     },
     {
+        "symbolReference": "COMC100.AG",
+        "tradingSymbol": "MERV - XMEV - COMC100.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC100.DI",
+        "tradingSymbol": "MERV - XMEV - COMC100.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC100.OC",
+        "tradingSymbol": "MERV - XMEV - COMC100.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMC10929G",
+        "tradingSymbol": "MERV - XMEV - COMC10929G - 24hs"
+    },
+    {
+        "symbolReference": "COMC10929O",
+        "tradingSymbol": "MERV - XMEV - COMC10929O - 24hs"
+    },
+    {
+        "symbolReference": "COMC110.AG",
+        "tradingSymbol": "MERV - XMEV - COMC110.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC110.DI",
+        "tradingSymbol": "MERV - XMEV - COMC110.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC110.OC",
+        "tradingSymbol": "MERV - XMEV - COMC110.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMC11929G",
+        "tradingSymbol": "MERV - XMEV - COMC11929G - 24hs"
+    },
+    {
+        "symbolReference": "COMC120.AG",
+        "tradingSymbol": "MERV - XMEV - COMC120.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC120.DI",
+        "tradingSymbol": "MERV - XMEV - COMC120.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC120.OC",
+        "tradingSymbol": "MERV - XMEV - COMC120.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMC12929G",
+        "tradingSymbol": "MERV - XMEV - COMC12929G - 24hs"
+    },
+    {
+        "symbolReference": "COMC130.AG",
+        "tradingSymbol": "MERV - XMEV - COMC130.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC130.DI",
+        "tradingSymbol": "MERV - XMEV - COMC130.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC130.OC",
+        "tradingSymbol": "MERV - XMEV - COMC130.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMC140.AG",
+        "tradingSymbol": "MERV - XMEV - COMC140.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC14929G",
+        "tradingSymbol": "MERV - XMEV - COMC14929G - 24hs"
+    },
+    {
+        "symbolReference": "COMC150.AG",
+        "tradingSymbol": "MERV - XMEV - COMC150.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC150.DI",
+        "tradingSymbol": "MERV - XMEV - COMC150.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC150.OC",
+        "tradingSymbol": "MERV - XMEV - COMC150.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMC15929G",
+        "tradingSymbol": "MERV - XMEV - COMC15929G - 24hs"
+    },
+    {
+        "symbolReference": "COMC160.AG",
+        "tradingSymbol": "MERV - XMEV - COMC160.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC160.DI",
+        "tradingSymbol": "MERV - XMEV - COMC160.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC160.OC",
+        "tradingSymbol": "MERV - XMEV - COMC160.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMC16929G",
+        "tradingSymbol": "MERV - XMEV - COMC16929G - 24hs"
+    },
+    {
+        "symbolReference": "COMC16929O",
+        "tradingSymbol": "MERV - XMEV - COMC16929O - 24hs"
+    },
+    {
+        "symbolReference": "COMC170.AG",
+        "tradingSymbol": "MERV - XMEV - COMC170.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC170.DI",
+        "tradingSymbol": "MERV - XMEV - COMC170.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC170.OC",
+        "tradingSymbol": "MERV - XMEV - COMC170.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMC17929G",
+        "tradingSymbol": "MERV - XMEV - COMC17929G - 24hs"
+    },
+    {
+        "symbolReference": "COMC18929G",
+        "tradingSymbol": "MERV - XMEV - COMC18929G - 24hs"
+    },
+    {
+        "symbolReference": "COMC18929O",
+        "tradingSymbol": "MERV - XMEV - COMC18929O - 24hs"
+    },
+    {
+        "symbolReference": "COMC190.AG",
+        "tradingSymbol": "MERV - XMEV - COMC190.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC190.DI",
+        "tradingSymbol": "MERV - XMEV - COMC190.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC190.OC",
+        "tradingSymbol": "MERV - XMEV - COMC190.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMC19929G",
+        "tradingSymbol": "MERV - XMEV - COMC19929G - 24hs"
+    },
+    {
+        "symbolReference": "COMC19929O",
+        "tradingSymbol": "MERV - XMEV - COMC19929O - 24hs"
+    },
+    {
+        "symbolReference": "COMC200.AG",
+        "tradingSymbol": "MERV - XMEV - COMC200.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC200.DI",
+        "tradingSymbol": "MERV - XMEV - COMC200.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC200.OC",
+        "tradingSymbol": "MERV - XMEV - COMC200.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMC40102D",
+        "tradingSymbol": "MERV - XMEV - COMC40102D - 24hs"
+    },
+    {
+        "symbolReference": "COMC40102G",
+        "tradingSymbol": "MERV - XMEV - COMC40102G - 24hs"
+    },
+    {
+        "symbolReference": "COMC40102O",
+        "tradingSymbol": "MERV - XMEV - COMC40102O - 24hs"
+    },
+    {
+        "symbolReference": "COMC40102S",
+        "tradingSymbol": "MERV - XMEV - COMC40102S - 24hs"
+    },
+    {
+        "symbolReference": "COMC44243G",
+        "tradingSymbol": "MERV - XMEV - COMC44243G - 24hs"
+    },
+    {
+        "symbolReference": "COMC44243O",
+        "tradingSymbol": "MERV - XMEV - COMC44243O - 24hs"
+    },
+    {
+        "symbolReference": "COMC44557D",
+        "tradingSymbol": "MERV - XMEV - COMC44557D - 24hs"
+    },
+    {
+        "symbolReference": "COMC44557S",
+        "tradingSymbol": "MERV - XMEV - COMC44557S - 24hs"
+    },
+    {
+        "symbolReference": "COMC48697G",
+        "tradingSymbol": "MERV - XMEV - COMC48697G - 24hs"
+    },
+    {
+        "symbolReference": "COMC48697O",
+        "tradingSymbol": "MERV - XMEV - COMC48697O - 24hs"
+    },
+    {
+        "symbolReference": "COMC49.0SE",
+        "tradingSymbol": "MERV - XMEV - COMC49.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMC49013D",
+        "tradingSymbol": "MERV - XMEV - COMC49013D - 24hs"
+    },
+    {
+        "symbolReference": "COMC53.0SE",
+        "tradingSymbol": "MERV - XMEV - COMC53.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMC53152G",
+        "tradingSymbol": "MERV - XMEV - COMC53152G - 24hs"
+    },
+    {
+        "symbolReference": "COMC53469D",
+        "tradingSymbol": "MERV - XMEV - COMC53469D - 24hs"
+    },
+    {
+        "symbolReference": "COMC57.0SE",
+        "tradingSymbol": "MERV - XMEV - COMC57.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMC57608G",
+        "tradingSymbol": "MERV - XMEV - COMC57608G - 24hs"
+    },
+    {
+        "symbolReference": "COMC57925D",
+        "tradingSymbol": "MERV - XMEV - COMC57925D - 24hs"
+    },
+    {
+        "symbolReference": "COMC57925O",
+        "tradingSymbol": "MERV - XMEV - COMC57925O - 24hs"
+    },
+    {
+        "symbolReference": "COMC62.0SE",
+        "tradingSymbol": "MERV - XMEV - COMC62.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMC6238AG",
+        "tradingSymbol": "MERV - XMEV - COMC6238AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC6238DI",
+        "tradingSymbol": "MERV - XMEV - COMC6238DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC6238OC",
+        "tradingSymbol": "MERV - XMEV - COMC6238OC - 24hs"
+    },
+    {
+        "symbolReference": "COMC66.0SE",
+        "tradingSymbol": "MERV - XMEV - COMC66.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMC6652AG",
+        "tradingSymbol": "MERV - XMEV - COMC6652AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC66836D",
+        "tradingSymbol": "MERV - XMEV - COMC66836D - 24hs"
+    },
+    {
+        "symbolReference": "COMC66836O",
+        "tradingSymbol": "MERV - XMEV - COMC66836O - 24hs"
+    },
+    {
+        "symbolReference": "COMC70975G",
+        "tradingSymbol": "MERV - XMEV - COMC70975G - 24hs"
+    },
+    {
+        "symbolReference": "COMC71.0SE",
+        "tradingSymbol": "MERV - XMEV - COMC71.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMC71292D",
+        "tradingSymbol": "MERV - XMEV - COMC71292D - 24hs"
+    },
+    {
+        "symbolReference": "COMC71292O",
+        "tradingSymbol": "MERV - XMEV - COMC71292O - 24hs"
+    },
+    {
+        "symbolReference": "COMC75431G",
+        "tradingSymbol": "MERV - XMEV - COMC75431G - 24hs"
+    },
+    {
+        "symbolReference": "COMC75431O",
+        "tradingSymbol": "MERV - XMEV - COMC75431O - 24hs"
+    },
+    {
+        "symbolReference": "COMC75747D",
+        "tradingSymbol": "MERV - XMEV - COMC75747D - 24hs"
+    },
+    {
+        "symbolReference": "COMC75747S",
+        "tradingSymbol": "MERV - XMEV - COMC75747S - 24hs"
+    },
+    {
+        "symbolReference": "COMC79887G",
+        "tradingSymbol": "MERV - XMEV - COMC79887G - 24hs"
+    },
+    {
+        "symbolReference": "COMC80.0SE",
+        "tradingSymbol": "MERV - XMEV - COMC80.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMC80203D",
+        "tradingSymbol": "MERV - XMEV - COMC80203D - 24hs"
+    },
+    {
+        "symbolReference": "COMC80203O",
+        "tradingSymbol": "MERV - XMEV - COMC80203O - 24hs"
+    },
+    {
+        "symbolReference": "COMC84.0SE",
+        "tradingSymbol": "MERV - XMEV - COMC84.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMC84343G",
+        "tradingSymbol": "MERV - XMEV - COMC84343G - 24hs"
+    },
+    {
+        "symbolReference": "COMC84343O",
+        "tradingSymbol": "MERV - XMEV - COMC84343O - 24hs"
+    },
+    {
+        "symbolReference": "COMC84659D",
+        "tradingSymbol": "MERV - XMEV - COMC84659D - 24hs"
+    },
+    {
+        "symbolReference": "COMC88798G",
+        "tradingSymbol": "MERV - XMEV - COMC88798G - 24hs"
+    },
+    {
+        "symbolReference": "COMC88798O",
+        "tradingSymbol": "MERV - XMEV - COMC88798O - 24hs"
+    },
+    {
+        "symbolReference": "COMC89.0SE",
+        "tradingSymbol": "MERV - XMEV - COMC89.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMC89115D",
+        "tradingSymbol": "MERV - XMEV - COMC89115D - 24hs"
+    },
+    {
+        "symbolReference": "COMC90.0AG",
+        "tradingSymbol": "MERV - XMEV - COMC90.0AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC90.0DI",
+        "tradingSymbol": "MERV - XMEV - COMC90.0DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC900.AG",
+        "tradingSymbol": "MERV - XMEV - COMC900.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC93.0AG",
+        "tradingSymbol": "MERV - XMEV - COMC93.0AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC93.0DI",
+        "tradingSymbol": "MERV - XMEV - COMC93.0DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC93.0SE",
+        "tradingSymbol": "MERV - XMEV - COMC93.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMC98.0AG",
+        "tradingSymbol": "MERV - XMEV - COMC98.0AG - 24hs"
+    },
+    {
+        "symbolReference": "COMC98.0DI",
+        "tradingSymbol": "MERV - XMEV - COMC98.0DI - 24hs"
+    },
+    {
+        "symbolReference": "COMC98.0OC",
+        "tradingSymbol": "MERV - XMEV - COMC98.0OC - 24hs"
+    },
+    {
+        "symbolReference": "COMC98.0SE",
+        "tradingSymbol": "MERV - XMEV - COMC98.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMC99295G",
+        "tradingSymbol": "MERV - XMEV - COMC99295G - 24hs"
+    },
+    {
+        "symbolReference": "COMC99295O",
+        "tradingSymbol": "MERV - XMEV - COMC99295O - 24hs"
+    },
+    {
         "symbolReference": "COME",
         "tradingSymbol": "MERV - XMEV - COME - 24hs"
     },
@@ -4178,6 +6138,398 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "COMED (CI)",
         "tradingSymbol": "MERV - XMEV - COMED - CI"
+    },
+    {
+        "symbolReference": "COMV100.AG",
+        "tradingSymbol": "MERV - XMEV - COMV100.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV100.DI",
+        "tradingSymbol": "MERV - XMEV - COMV100.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV100.OC",
+        "tradingSymbol": "MERV - XMEV - COMV100.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMV10929G",
+        "tradingSymbol": "MERV - XMEV - COMV10929G - 24hs"
+    },
+    {
+        "symbolReference": "COMV10929O",
+        "tradingSymbol": "MERV - XMEV - COMV10929O - 24hs"
+    },
+    {
+        "symbolReference": "COMV110.AG",
+        "tradingSymbol": "MERV - XMEV - COMV110.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV110.DI",
+        "tradingSymbol": "MERV - XMEV - COMV110.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV110.OC",
+        "tradingSymbol": "MERV - XMEV - COMV110.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMV11929G",
+        "tradingSymbol": "MERV - XMEV - COMV11929G - 24hs"
+    },
+    {
+        "symbolReference": "COMV120.AG",
+        "tradingSymbol": "MERV - XMEV - COMV120.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV120.DI",
+        "tradingSymbol": "MERV - XMEV - COMV120.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV120.OC",
+        "tradingSymbol": "MERV - XMEV - COMV120.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMV12929G",
+        "tradingSymbol": "MERV - XMEV - COMV12929G - 24hs"
+    },
+    {
+        "symbolReference": "COMV130.AG",
+        "tradingSymbol": "MERV - XMEV - COMV130.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV130.DI",
+        "tradingSymbol": "MERV - XMEV - COMV130.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV130.OC",
+        "tradingSymbol": "MERV - XMEV - COMV130.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMV14929G",
+        "tradingSymbol": "MERV - XMEV - COMV14929G - 24hs"
+    },
+    {
+        "symbolReference": "COMV150.AG",
+        "tradingSymbol": "MERV - XMEV - COMV150.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV150.DI",
+        "tradingSymbol": "MERV - XMEV - COMV150.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV150.OC",
+        "tradingSymbol": "MERV - XMEV - COMV150.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMV15929G",
+        "tradingSymbol": "MERV - XMEV - COMV15929G - 24hs"
+    },
+    {
+        "symbolReference": "COMV160.AG",
+        "tradingSymbol": "MERV - XMEV - COMV160.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV160.DI",
+        "tradingSymbol": "MERV - XMEV - COMV160.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV160.OC",
+        "tradingSymbol": "MERV - XMEV - COMV160.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMV16929G",
+        "tradingSymbol": "MERV - XMEV - COMV16929G - 24hs"
+    },
+    {
+        "symbolReference": "COMV16929O",
+        "tradingSymbol": "MERV - XMEV - COMV16929O - 24hs"
+    },
+    {
+        "symbolReference": "COMV170.AG",
+        "tradingSymbol": "MERV - XMEV - COMV170.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV170.DI",
+        "tradingSymbol": "MERV - XMEV - COMV170.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV170.OC",
+        "tradingSymbol": "MERV - XMEV - COMV170.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMV17929G",
+        "tradingSymbol": "MERV - XMEV - COMV17929G - 24hs"
+    },
+    {
+        "symbolReference": "COMV18929G",
+        "tradingSymbol": "MERV - XMEV - COMV18929G - 24hs"
+    },
+    {
+        "symbolReference": "COMV18929O",
+        "tradingSymbol": "MERV - XMEV - COMV18929O - 24hs"
+    },
+    {
+        "symbolReference": "COMV190.AG",
+        "tradingSymbol": "MERV - XMEV - COMV190.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV190.DI",
+        "tradingSymbol": "MERV - XMEV - COMV190.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV190.OC",
+        "tradingSymbol": "MERV - XMEV - COMV190.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMV19929G",
+        "tradingSymbol": "MERV - XMEV - COMV19929G - 24hs"
+    },
+    {
+        "symbolReference": "COMV19929O",
+        "tradingSymbol": "MERV - XMEV - COMV19929O - 24hs"
+    },
+    {
+        "symbolReference": "COMV200.AG",
+        "tradingSymbol": "MERV - XMEV - COMV200.AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV200.DI",
+        "tradingSymbol": "MERV - XMEV - COMV200.DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV200.OC",
+        "tradingSymbol": "MERV - XMEV - COMV200.OC - 24hs"
+    },
+    {
+        "symbolReference": "COMV40102D",
+        "tradingSymbol": "MERV - XMEV - COMV40102D - 24hs"
+    },
+    {
+        "symbolReference": "COMV40102G",
+        "tradingSymbol": "MERV - XMEV - COMV40102G - 24hs"
+    },
+    {
+        "symbolReference": "COMV40102O",
+        "tradingSymbol": "MERV - XMEV - COMV40102O - 24hs"
+    },
+    {
+        "symbolReference": "COMV40102S",
+        "tradingSymbol": "MERV - XMEV - COMV40102S - 24hs"
+    },
+    {
+        "symbolReference": "COMV44243G",
+        "tradingSymbol": "MERV - XMEV - COMV44243G - 24hs"
+    },
+    {
+        "symbolReference": "COMV44243O",
+        "tradingSymbol": "MERV - XMEV - COMV44243O - 24hs"
+    },
+    {
+        "symbolReference": "COMV44557D",
+        "tradingSymbol": "MERV - XMEV - COMV44557D - 24hs"
+    },
+    {
+        "symbolReference": "COMV44557S",
+        "tradingSymbol": "MERV - XMEV - COMV44557S - 24hs"
+    },
+    {
+        "symbolReference": "COMV48697G",
+        "tradingSymbol": "MERV - XMEV - COMV48697G - 24hs"
+    },
+    {
+        "symbolReference": "COMV48697O",
+        "tradingSymbol": "MERV - XMEV - COMV48697O - 24hs"
+    },
+    {
+        "symbolReference": "COMV49.0SE",
+        "tradingSymbol": "MERV - XMEV - COMV49.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMV49013D",
+        "tradingSymbol": "MERV - XMEV - COMV49013D - 24hs"
+    },
+    {
+        "symbolReference": "COMV53.0SE",
+        "tradingSymbol": "MERV - XMEV - COMV53.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMV53152G",
+        "tradingSymbol": "MERV - XMEV - COMV53152G - 24hs"
+    },
+    {
+        "symbolReference": "COMV53469D",
+        "tradingSymbol": "MERV - XMEV - COMV53469D - 24hs"
+    },
+    {
+        "symbolReference": "COMV53469O",
+        "tradingSymbol": "MERV - XMEV - COMV53469O - 24hs"
+    },
+    {
+        "symbolReference": "COMV57.0SE",
+        "tradingSymbol": "MERV - XMEV - COMV57.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMV57608G",
+        "tradingSymbol": "MERV - XMEV - COMV57608G - 24hs"
+    },
+    {
+        "symbolReference": "COMV57925D",
+        "tradingSymbol": "MERV - XMEV - COMV57925D - 24hs"
+    },
+    {
+        "symbolReference": "COMV57925O",
+        "tradingSymbol": "MERV - XMEV - COMV57925O - 24hs"
+    },
+    {
+        "symbolReference": "COMV62.0SE",
+        "tradingSymbol": "MERV - XMEV - COMV62.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMV6238AG",
+        "tradingSymbol": "MERV - XMEV - COMV6238AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV6238DI",
+        "tradingSymbol": "MERV - XMEV - COMV6238DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV6238OC",
+        "tradingSymbol": "MERV - XMEV - COMV6238OC - 24hs"
+    },
+    {
+        "symbolReference": "COMV66.0SE",
+        "tradingSymbol": "MERV - XMEV - COMV66.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMV6652AG",
+        "tradingSymbol": "MERV - XMEV - COMV6652AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV66836D",
+        "tradingSymbol": "MERV - XMEV - COMV66836D - 24hs"
+    },
+    {
+        "symbolReference": "COMV66836O",
+        "tradingSymbol": "MERV - XMEV - COMV66836O - 24hs"
+    },
+    {
+        "symbolReference": "COMV70975G",
+        "tradingSymbol": "MERV - XMEV - COMV70975G - 24hs"
+    },
+    {
+        "symbolReference": "COMV71.0SE",
+        "tradingSymbol": "MERV - XMEV - COMV71.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMV71292D",
+        "tradingSymbol": "MERV - XMEV - COMV71292D - 24hs"
+    },
+    {
+        "symbolReference": "COMV71292O",
+        "tradingSymbol": "MERV - XMEV - COMV71292O - 24hs"
+    },
+    {
+        "symbolReference": "COMV75431G",
+        "tradingSymbol": "MERV - XMEV - COMV75431G - 24hs"
+    },
+    {
+        "symbolReference": "COMV75431O",
+        "tradingSymbol": "MERV - XMEV - COMV75431O - 24hs"
+    },
+    {
+        "symbolReference": "COMV75747D",
+        "tradingSymbol": "MERV - XMEV - COMV75747D - 24hs"
+    },
+    {
+        "symbolReference": "COMV75747S",
+        "tradingSymbol": "MERV - XMEV - COMV75747S - 24hs"
+    },
+    {
+        "symbolReference": "COMV79887G",
+        "tradingSymbol": "MERV - XMEV - COMV79887G - 24hs"
+    },
+    {
+        "symbolReference": "COMV80.0SE",
+        "tradingSymbol": "MERV - XMEV - COMV80.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMV80203D",
+        "tradingSymbol": "MERV - XMEV - COMV80203D - 24hs"
+    },
+    {
+        "symbolReference": "COMV80203O",
+        "tradingSymbol": "MERV - XMEV - COMV80203O - 24hs"
+    },
+    {
+        "symbolReference": "COMV84.0SE",
+        "tradingSymbol": "MERV - XMEV - COMV84.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMV84343G",
+        "tradingSymbol": "MERV - XMEV - COMV84343G - 24hs"
+    },
+    {
+        "symbolReference": "COMV84343O",
+        "tradingSymbol": "MERV - XMEV - COMV84343O - 24hs"
+    },
+    {
+        "symbolReference": "COMV84659D",
+        "tradingSymbol": "MERV - XMEV - COMV84659D - 24hs"
+    },
+    {
+        "symbolReference": "COMV88798G",
+        "tradingSymbol": "MERV - XMEV - COMV88798G - 24hs"
+    },
+    {
+        "symbolReference": "COMV88798O",
+        "tradingSymbol": "MERV - XMEV - COMV88798O - 24hs"
+    },
+    {
+        "symbolReference": "COMV89.0SE",
+        "tradingSymbol": "MERV - XMEV - COMV89.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMV89115D",
+        "tradingSymbol": "MERV - XMEV - COMV89115D - 24hs"
+    },
+    {
+        "symbolReference": "COMV90.0DI",
+        "tradingSymbol": "MERV - XMEV - COMV90.0DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV93.0AG",
+        "tradingSymbol": "MERV - XMEV - COMV93.0AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV93.0DI",
+        "tradingSymbol": "MERV - XMEV - COMV93.0DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV93.0SE",
+        "tradingSymbol": "MERV - XMEV - COMV93.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMV98.0AG",
+        "tradingSymbol": "MERV - XMEV - COMV98.0AG - 24hs"
+    },
+    {
+        "symbolReference": "COMV98.0DI",
+        "tradingSymbol": "MERV - XMEV - COMV98.0DI - 24hs"
+    },
+    {
+        "symbolReference": "COMV98.0OC",
+        "tradingSymbol": "MERV - XMEV - COMV98.0OC - 24hs"
+    },
+    {
+        "symbolReference": "COMV98.0SE",
+        "tradingSymbol": "MERV - XMEV - COMV98.0SE - 24hs"
+    },
+    {
+        "symbolReference": "COMV99295G",
+        "tradingSymbol": "MERV - XMEV - COMV99295G - 24hs"
+    },
+    {
+        "symbolReference": "COMV99295O",
+        "tradingSymbol": "MERV - XMEV - COMV99295O - 24hs"
     },
     {
         "symbolReference": "COST",
@@ -4460,6 +6812,22 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - CRE3W - CI"
     },
     {
+        "symbolReference": "CREC1500AG",
+        "tradingSymbol": "MERV - XMEV - CREC1500AG - 24hs"
+    },
+    {
+        "symbolReference": "CREC1600AG",
+        "tradingSymbol": "MERV - XMEV - CREC1600AG - 24hs"
+    },
+    {
+        "symbolReference": "CREC1700AG",
+        "tradingSymbol": "MERV - XMEV - CREC1700AG - 24hs"
+    },
+    {
+        "symbolReference": "CREC1800AG",
+        "tradingSymbol": "MERV - XMEV - CREC1800AG - 24hs"
+    },
+    {
         "symbolReference": "CRES",
         "tradingSymbol": "MERV - XMEV - CRES - 24hs"
     },
@@ -4490,6 +6858,22 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "CRESX (CI)",
         "tradingSymbol": "MERV - XMEV - CRESX - CI"
+    },
+    {
+        "symbolReference": "CREV1500AG",
+        "tradingSymbol": "MERV - XMEV - CREV1500AG - 24hs"
+    },
+    {
+        "symbolReference": "CREV1600AG",
+        "tradingSymbol": "MERV - XMEV - CREV1600AG - 24hs"
+    },
+    {
+        "symbolReference": "CREV1700AG",
+        "tradingSymbol": "MERV - XMEV - CREV1700AG - 24hs"
+    },
+    {
+        "symbolReference": "CREV1800AG",
+        "tradingSymbol": "MERV - XMEV - CREV1800AG - 24hs"
     },
     {
         "symbolReference": "CRM",
@@ -4908,6 +7292,14 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - D16E6 - CI"
     },
     {
+        "symbolReference": "D31O5",
+        "tradingSymbol": "MERV - XMEV - D31O5 - 24hs"
+    },
+    {
+        "symbolReference": "D31O5 (CI)",
+        "tradingSymbol": "MERV - XMEV - D31O5 - CI"
+    },
+    {
         "symbolReference": "DAL",
         "tradingSymbol": "MERV - XMEV - DAL - 24hs"
     },
@@ -4962,6 +7354,22 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "DE (CI)",
         "tradingSymbol": "MERV - XMEV - DE - CI"
+    },
+    {
+        "symbolReference": "DE6C",
+        "tradingSymbol": "MERV - XMEV - DE6C - 24hs"
+    },
+    {
+        "symbolReference": "DE6C (CI)",
+        "tradingSymbol": "MERV - XMEV - DE6C - CI"
+    },
+    {
+        "symbolReference": "DE6D",
+        "tradingSymbol": "MERV - XMEV - DE6D - 24hs"
+    },
+    {
+        "symbolReference": "DE6D (CI)",
+        "tradingSymbol": "MERV - XMEV - DE6D - CI"
     },
     {
         "symbolReference": "DEC",
@@ -5236,12 +7644,28 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - DIAC - CI"
     },
     {
+        "symbolReference": "DIAC29000G",
+        "tradingSymbol": "MERV - XMEV - DIAC29000G - 24hs"
+    },
+    {
+        "symbolReference": "DIAC30000G",
+        "tradingSymbol": "MERV - XMEV - DIAC30000G - 24hs"
+    },
+    {
         "symbolReference": "DIAD",
         "tradingSymbol": "MERV - XMEV - DIAD - 24hs"
     },
     {
         "symbolReference": "DIAD (CI)",
         "tradingSymbol": "MERV - XMEV - DIAD - CI"
+    },
+    {
+        "symbolReference": "DIAV29000G",
+        "tradingSymbol": "MERV - XMEV - DIAV29000G - 24hs"
+    },
+    {
+        "symbolReference": "DIAV30000G",
+        "tradingSymbol": "MERV - XMEV - DIAV30000G - 24hs"
     },
     {
         "symbolReference": "DICA",
@@ -5516,6 +7940,22 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - DNC9O - CI"
     },
     {
+        "symbolReference": "DO5C",
+        "tradingSymbol": "MERV - XMEV - DO5C - 24hs"
+    },
+    {
+        "symbolReference": "DO5C (CI)",
+        "tradingSymbol": "MERV - XMEV - DO5C - CI"
+    },
+    {
+        "symbolReference": "DO5D",
+        "tradingSymbol": "MERV - XMEV - DO5D - 24hs"
+    },
+    {
+        "symbolReference": "DO5D (CI)",
+        "tradingSymbol": "MERV - XMEV - DO5D - CI"
+    },
+    {
         "symbolReference": "DOCU",
         "tradingSymbol": "MERV - XMEV - DOCU - 24hs"
     },
@@ -5538,6 +7978,426 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "DOCUD (CI)",
         "tradingSymbol": "MERV - XMEV - DOCUD - CI"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 178D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 179D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 172D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 175D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 171D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 94D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 91D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 93D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 92D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 165D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 168D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 161D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 99D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 164D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 158D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 157D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 154D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 151D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 150D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 140D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 144D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 143D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 137D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 133D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 136D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 130D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 126D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 56D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 58D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 120D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 57D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 51D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 50D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 53D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 52D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 49D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 119D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 114D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 113D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 116D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 60D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 115D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 67D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 63D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 65D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 66D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 64D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 59D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 109D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 106D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 105D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 108D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 107D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 71D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 102D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 70D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 101D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 73D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 72D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 100D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 79D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 74D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 78D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 77D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 85D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 84D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 81D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 80D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 87D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 88D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 86D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 1D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 8D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 9D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 7D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 4D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 2D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 3D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 21D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 22D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 16D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 15D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 18D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 17D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 10D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 11D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 14D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 31D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 30D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 32D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 28D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 29D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 24D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 23D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 25D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 43D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 44D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 42D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 46D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 45D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 39D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 36D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 35D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 38D"
+    },
+    {
+        "symbolReference": "DOLAR (CI)",
+        "tradingSymbol": "MERV - XMEV - DOLAR - 37D"
     },
     {
         "symbolReference": "DOME",
@@ -5836,12 +8696,204 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - EDN - CI"
     },
     {
+        "symbolReference": "EDNC1800AG",
+        "tradingSymbol": "MERV - XMEV - EDNC1800AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNC1800OC",
+        "tradingSymbol": "MERV - XMEV - EDNC1800OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNC1900AG",
+        "tradingSymbol": "MERV - XMEV - EDNC1900AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNC1900OC",
+        "tradingSymbol": "MERV - XMEV - EDNC1900OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2000AG",
+        "tradingSymbol": "MERV - XMEV - EDNC2000AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2000OC",
+        "tradingSymbol": "MERV - XMEV - EDNC2000OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2100AG",
+        "tradingSymbol": "MERV - XMEV - EDNC2100AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2200AG",
+        "tradingSymbol": "MERV - XMEV - EDNC2200AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2200DI",
+        "tradingSymbol": "MERV - XMEV - EDNC2200DI - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2200OC",
+        "tradingSymbol": "MERV - XMEV - EDNC2200OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2300AG",
+        "tradingSymbol": "MERV - XMEV - EDNC2300AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2300DI",
+        "tradingSymbol": "MERV - XMEV - EDNC2300DI - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2300OC",
+        "tradingSymbol": "MERV - XMEV - EDNC2300OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2400AG",
+        "tradingSymbol": "MERV - XMEV - EDNC2400AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2400DI",
+        "tradingSymbol": "MERV - XMEV - EDNC2400DI - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2400OC",
+        "tradingSymbol": "MERV - XMEV - EDNC2400OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2500AG",
+        "tradingSymbol": "MERV - XMEV - EDNC2500AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2500DI",
+        "tradingSymbol": "MERV - XMEV - EDNC2500DI - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2500OC",
+        "tradingSymbol": "MERV - XMEV - EDNC2500OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2600AG",
+        "tradingSymbol": "MERV - XMEV - EDNC2600AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2600DI",
+        "tradingSymbol": "MERV - XMEV - EDNC2600DI - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2600OC",
+        "tradingSymbol": "MERV - XMEV - EDNC2600OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2700AG",
+        "tradingSymbol": "MERV - XMEV - EDNC2700AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNC2900AG",
+        "tradingSymbol": "MERV - XMEV - EDNC2900AG - 24hs"
+    },
+    {
         "symbolReference": "EDND",
         "tradingSymbol": "MERV - XMEV - EDND - 24hs"
     },
     {
         "symbolReference": "EDND (CI)",
         "tradingSymbol": "MERV - XMEV - EDND - CI"
+    },
+    {
+        "symbolReference": "EDNV1800AG",
+        "tradingSymbol": "MERV - XMEV - EDNV1800AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNV1800OC",
+        "tradingSymbol": "MERV - XMEV - EDNV1800OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNV1900AG",
+        "tradingSymbol": "MERV - XMEV - EDNV1900AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNV1900OC",
+        "tradingSymbol": "MERV - XMEV - EDNV1900OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2000AG",
+        "tradingSymbol": "MERV - XMEV - EDNV2000AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2000OC",
+        "tradingSymbol": "MERV - XMEV - EDNV2000OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2100AG",
+        "tradingSymbol": "MERV - XMEV - EDNV2100AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2200AG",
+        "tradingSymbol": "MERV - XMEV - EDNV2200AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2200DI",
+        "tradingSymbol": "MERV - XMEV - EDNV2200DI - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2200OC",
+        "tradingSymbol": "MERV - XMEV - EDNV2200OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2300AG",
+        "tradingSymbol": "MERV - XMEV - EDNV2300AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2300DI",
+        "tradingSymbol": "MERV - XMEV - EDNV2300DI - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2300OC",
+        "tradingSymbol": "MERV - XMEV - EDNV2300OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2400AG",
+        "tradingSymbol": "MERV - XMEV - EDNV2400AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2400DI",
+        "tradingSymbol": "MERV - XMEV - EDNV2400DI - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2400OC",
+        "tradingSymbol": "MERV - XMEV - EDNV2400OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2500AG",
+        "tradingSymbol": "MERV - XMEV - EDNV2500AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2500DI",
+        "tradingSymbol": "MERV - XMEV - EDNV2500DI - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2500OC",
+        "tradingSymbol": "MERV - XMEV - EDNV2500OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2600AG",
+        "tradingSymbol": "MERV - XMEV - EDNV2600AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2600DI",
+        "tradingSymbol": "MERV - XMEV - EDNV2600DI - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2600OC",
+        "tradingSymbol": "MERV - XMEV - EDNV2600OC - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2700AG",
+        "tradingSymbol": "MERV - XMEV - EDNV2700AG - 24hs"
+    },
+    {
+        "symbolReference": "EDNV2900AG",
+        "tradingSymbol": "MERV - XMEV - EDNV2900AG - 24hs"
     },
     {
         "symbolReference": "EEM",
@@ -6098,6 +9150,46 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "ETHAD (CI)",
         "tradingSymbol": "MERV - XMEV - ETHAD - CI"
+    },
+    {
+        "symbolReference": "ETHC3000AG",
+        "tradingSymbol": "MERV - XMEV - ETHC3000AG - 24hs"
+    },
+    {
+        "symbolReference": "ETHC3500AG",
+        "tradingSymbol": "MERV - XMEV - ETHC3500AG - 24hs"
+    },
+    {
+        "symbolReference": "ETHC4000AG",
+        "tradingSymbol": "MERV - XMEV - ETHC4000AG - 24hs"
+    },
+    {
+        "symbolReference": "ETHC4500AG",
+        "tradingSymbol": "MERV - XMEV - ETHC4500AG - 24hs"
+    },
+    {
+        "symbolReference": "ETHC5000AG",
+        "tradingSymbol": "MERV - XMEV - ETHC5000AG - 24hs"
+    },
+    {
+        "symbolReference": "ETHV3000AG",
+        "tradingSymbol": "MERV - XMEV - ETHV3000AG - 24hs"
+    },
+    {
+        "symbolReference": "ETHV3500AG",
+        "tradingSymbol": "MERV - XMEV - ETHV3500AG - 24hs"
+    },
+    {
+        "symbolReference": "ETHV4000AG",
+        "tradingSymbol": "MERV - XMEV - ETHV4000AG - 24hs"
+    },
+    {
+        "symbolReference": "ETHV4500AG",
+        "tradingSymbol": "MERV - XMEV - ETHV4500AG - 24hs"
+    },
+    {
+        "symbolReference": "ETHV5000AG",
+        "tradingSymbol": "MERV - XMEV - ETHV5000AG - 24hs"
     },
     {
         "symbolReference": "ETSY",
@@ -6436,6 +9528,66 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - FXID - CI"
     },
     {
+        "symbolReference": "G30C72000G",
+        "tradingSymbol": "MERV - XMEV - G30C72000G - 24hs"
+    },
+    {
+        "symbolReference": "G30C72000O",
+        "tradingSymbol": "MERV - XMEV - G30C72000O - 24hs"
+    },
+    {
+        "symbolReference": "G30C74000G",
+        "tradingSymbol": "MERV - XMEV - G30C74000G - 24hs"
+    },
+    {
+        "symbolReference": "G30C74000O",
+        "tradingSymbol": "MERV - XMEV - G30C74000O - 24hs"
+    },
+    {
+        "symbolReference": "G30C76000G",
+        "tradingSymbol": "MERV - XMEV - G30C76000G - 24hs"
+    },
+    {
+        "symbolReference": "G30C76000O",
+        "tradingSymbol": "MERV - XMEV - G30C76000O - 24hs"
+    },
+    {
+        "symbolReference": "G30C78000G",
+        "tradingSymbol": "MERV - XMEV - G30C78000G - 24hs"
+    },
+    {
+        "symbolReference": "G30C78000O",
+        "tradingSymbol": "MERV - XMEV - G30C78000O - 24hs"
+    },
+    {
+        "symbolReference": "G30C80000O",
+        "tradingSymbol": "MERV - XMEV - G30C80000O - 24hs"
+    },
+    {
+        "symbolReference": "G30V72000G",
+        "tradingSymbol": "MERV - XMEV - G30V72000G - 24hs"
+    },
+    {
+        "symbolReference": "G30V72000O",
+        "tradingSymbol": "MERV - XMEV - G30V72000O - 24hs"
+    },
+    {
+        "symbolReference": "G30V74000O",
+        "tradingSymbol": "MERV - XMEV - G30V74000O - 24hs"
+    },
+    {
+        "symbolReference": "G30V76000O",
+        "tradingSymbol": "MERV - XMEV - G30V76000O - 24hs"
+    },
+    {
+        "symbolReference": "G30V78000O",
+        "tradingSymbol": "MERV - XMEV - G30V78000O - 24hs"
+    },
+    {
+        "symbolReference": "G30V80000O",
+        "tradingSymbol": "MERV - XMEV - G30V80000O - 24hs"
+    },
+    {
         "symbolReference": "GAMI",
         "tradingSymbol": "MERV - XMEV - GAMI - 24hs"
     },
@@ -6706,6 +9858,2418 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "GED (CI)",
         "tradingSymbol": "MERV - XMEV - GED - CI"
+    },
+    {
+        "symbolReference": "GFGC10058G",
+        "tradingSymbol": "MERV - XMEV - GFGC10058G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC10079G",
+        "tradingSymbol": "MERV - XMEV - GFGC10079G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC10079O",
+        "tradingSymbol": "MERV - XMEV - GFGC10079O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC10100G",
+        "tradingSymbol": "MERV - XMEV - GFGC10100G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC10100O",
+        "tradingSymbol": "MERV - XMEV - GFGC10100O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC10600G",
+        "tradingSymbol": "MERV - XMEV - GFGC10600G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC11100G",
+        "tradingSymbol": "MERV - XMEV - GFGC11100G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC11600G",
+        "tradingSymbol": "MERV - XMEV - GFGC11600G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC12100G",
+        "tradingSymbol": "MERV - XMEV - GFGC12100G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC12600G",
+        "tradingSymbol": "MERV - XMEV - GFGC12600G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC32452G",
+        "tradingSymbol": "MERV - XMEV - GFGC32452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC32452O",
+        "tradingSymbol": "MERV - XMEV - GFGC32452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC32785G",
+        "tradingSymbol": "MERV - XMEV - GFGC32785G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC32785O",
+        "tradingSymbol": "MERV - XMEV - GFGC32785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC32789G",
+        "tradingSymbol": "MERV - XMEV - GFGC32789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC32789O",
+        "tradingSymbol": "MERV - XMEV - GFGC32789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC3300OC",
+        "tradingSymbol": "MERV - XMEV - GFGC3300OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC35452G",
+        "tradingSymbol": "MERV - XMEV - GFGC35452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC35452O",
+        "tradingSymbol": "MERV - XMEV - GFGC35452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC35785G",
+        "tradingSymbol": "MERV - XMEV - GFGC35785G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC35785O",
+        "tradingSymbol": "MERV - XMEV - GFGC35785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC35789G",
+        "tradingSymbol": "MERV - XMEV - GFGC35789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC35789O",
+        "tradingSymbol": "MERV - XMEV - GFGC35789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC3600AG",
+        "tradingSymbol": "MERV - XMEV - GFGC3600AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC3600OC",
+        "tradingSymbol": "MERV - XMEV - GFGC3600OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC38452G",
+        "tradingSymbol": "MERV - XMEV - GFGC38452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC38452O",
+        "tradingSymbol": "MERV - XMEV - GFGC38452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC38573G",
+        "tradingSymbol": "MERV - XMEV - GFGC38573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC38785O",
+        "tradingSymbol": "MERV - XMEV - GFGC38785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC38788G",
+        "tradingSymbol": "MERV - XMEV - GFGC38788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC38789G",
+        "tradingSymbol": "MERV - XMEV - GFGC38789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC38789O",
+        "tradingSymbol": "MERV - XMEV - GFGC38789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC3900AG",
+        "tradingSymbol": "MERV - XMEV - GFGC3900AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC3900OC",
+        "tradingSymbol": "MERV - XMEV - GFGC3900OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC41452G",
+        "tradingSymbol": "MERV - XMEV - GFGC41452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC41452O",
+        "tradingSymbol": "MERV - XMEV - GFGC41452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC41573G",
+        "tradingSymbol": "MERV - XMEV - GFGC41573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC41785D",
+        "tradingSymbol": "MERV - XMEV - GFGC41785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC41785O",
+        "tradingSymbol": "MERV - XMEV - GFGC41785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC41788G",
+        "tradingSymbol": "MERV - XMEV - GFGC41788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC41789D",
+        "tradingSymbol": "MERV - XMEV - GFGC41789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC41789G",
+        "tradingSymbol": "MERV - XMEV - GFGC41789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC41789O",
+        "tradingSymbol": "MERV - XMEV - GFGC41789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC4200AG",
+        "tradingSymbol": "MERV - XMEV - GFGC4200AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC4200OC",
+        "tradingSymbol": "MERV - XMEV - GFGC4200OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC44452G",
+        "tradingSymbol": "MERV - XMEV - GFGC44452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC44452O",
+        "tradingSymbol": "MERV - XMEV - GFGC44452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC44573G",
+        "tradingSymbol": "MERV - XMEV - GFGC44573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC44785D",
+        "tradingSymbol": "MERV - XMEV - GFGC44785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC44785O",
+        "tradingSymbol": "MERV - XMEV - GFGC44785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC44788G",
+        "tradingSymbol": "MERV - XMEV - GFGC44788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC44789D",
+        "tradingSymbol": "MERV - XMEV - GFGC44789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC44789G",
+        "tradingSymbol": "MERV - XMEV - GFGC44789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC44789O",
+        "tradingSymbol": "MERV - XMEV - GFGC44789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC4500AG",
+        "tradingSymbol": "MERV - XMEV - GFGC4500AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC4500DI",
+        "tradingSymbol": "MERV - XMEV - GFGC4500DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGC4500OC",
+        "tradingSymbol": "MERV - XMEV - GFGC4500OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC47452G",
+        "tradingSymbol": "MERV - XMEV - GFGC47452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC47452O",
+        "tradingSymbol": "MERV - XMEV - GFGC47452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC47573G",
+        "tradingSymbol": "MERV - XMEV - GFGC47573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC47785D",
+        "tradingSymbol": "MERV - XMEV - GFGC47785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC47785O",
+        "tradingSymbol": "MERV - XMEV - GFGC47785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC47788G",
+        "tradingSymbol": "MERV - XMEV - GFGC47788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC47789D",
+        "tradingSymbol": "MERV - XMEV - GFGC47789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC47789G",
+        "tradingSymbol": "MERV - XMEV - GFGC47789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC47789O",
+        "tradingSymbol": "MERV - XMEV - GFGC47789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC4800AG",
+        "tradingSymbol": "MERV - XMEV - GFGC4800AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC4800OC",
+        "tradingSymbol": "MERV - XMEV - GFGC4800OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC50452G",
+        "tradingSymbol": "MERV - XMEV - GFGC50452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC50452O",
+        "tradingSymbol": "MERV - XMEV - GFGC50452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC50573G",
+        "tradingSymbol": "MERV - XMEV - GFGC50573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC50573O",
+        "tradingSymbol": "MERV - XMEV - GFGC50573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC50785D",
+        "tradingSymbol": "MERV - XMEV - GFGC50785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC50788G",
+        "tradingSymbol": "MERV - XMEV - GFGC50788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC50788O",
+        "tradingSymbol": "MERV - XMEV - GFGC50788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC50789D",
+        "tradingSymbol": "MERV - XMEV - GFGC50789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC50789G",
+        "tradingSymbol": "MERV - XMEV - GFGC50789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC50789O",
+        "tradingSymbol": "MERV - XMEV - GFGC50789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC5100AG",
+        "tradingSymbol": "MERV - XMEV - GFGC5100AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC5100DI",
+        "tradingSymbol": "MERV - XMEV - GFGC5100DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGC5100OC",
+        "tradingSymbol": "MERV - XMEV - GFGC5100OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC53025G",
+        "tradingSymbol": "MERV - XMEV - GFGC53025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC53241G",
+        "tradingSymbol": "MERV - XMEV - GFGC53241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC5324AG",
+        "tradingSymbol": "MERV - XMEV - GFGC5324AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC53452G",
+        "tradingSymbol": "MERV - XMEV - GFGC53452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC53452O",
+        "tradingSymbol": "MERV - XMEV - GFGC53452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC53785D",
+        "tradingSymbol": "MERV - XMEV - GFGC53785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC53785O",
+        "tradingSymbol": "MERV - XMEV - GFGC53785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC53789D",
+        "tradingSymbol": "MERV - XMEV - GFGC53789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC53789O",
+        "tradingSymbol": "MERV - XMEV - GFGC53789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC5400AG",
+        "tradingSymbol": "MERV - XMEV - GFGC5400AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC5400OC",
+        "tradingSymbol": "MERV - XMEV - GFGC5400OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC56025G",
+        "tradingSymbol": "MERV - XMEV - GFGC56025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC56241G",
+        "tradingSymbol": "MERV - XMEV - GFGC56241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC5624AG",
+        "tradingSymbol": "MERV - XMEV - GFGC5624AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC56452G",
+        "tradingSymbol": "MERV - XMEV - GFGC56452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC56452O",
+        "tradingSymbol": "MERV - XMEV - GFGC56452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC56573O",
+        "tradingSymbol": "MERV - XMEV - GFGC56573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC56785D",
+        "tradingSymbol": "MERV - XMEV - GFGC56785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC56788O",
+        "tradingSymbol": "MERV - XMEV - GFGC56788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC56789D",
+        "tradingSymbol": "MERV - XMEV - GFGC56789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC56789O",
+        "tradingSymbol": "MERV - XMEV - GFGC56789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC5700AG",
+        "tradingSymbol": "MERV - XMEV - GFGC5700AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC5700DI",
+        "tradingSymbol": "MERV - XMEV - GFGC5700DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGC5700OC",
+        "tradingSymbol": "MERV - XMEV - GFGC5700OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC59025G",
+        "tradingSymbol": "MERV - XMEV - GFGC59025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC59241G",
+        "tradingSymbol": "MERV - XMEV - GFGC59241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC5924AG",
+        "tradingSymbol": "MERV - XMEV - GFGC5924AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC59452G",
+        "tradingSymbol": "MERV - XMEV - GFGC59452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC59452O",
+        "tradingSymbol": "MERV - XMEV - GFGC59452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC59573O",
+        "tradingSymbol": "MERV - XMEV - GFGC59573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC59785D",
+        "tradingSymbol": "MERV - XMEV - GFGC59785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC59788O",
+        "tradingSymbol": "MERV - XMEV - GFGC59788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC59789D",
+        "tradingSymbol": "MERV - XMEV - GFGC59789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC59789O",
+        "tradingSymbol": "MERV - XMEV - GFGC59789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6000AG",
+        "tradingSymbol": "MERV - XMEV - GFGC6000AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6000OC",
+        "tradingSymbol": "MERV - XMEV - GFGC6000OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC61452G",
+        "tradingSymbol": "MERV - XMEV - GFGC61452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC61452O",
+        "tradingSymbol": "MERV - XMEV - GFGC61452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC61573G",
+        "tradingSymbol": "MERV - XMEV - GFGC61573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC61785D",
+        "tradingSymbol": "MERV - XMEV - GFGC61785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC61785O",
+        "tradingSymbol": "MERV - XMEV - GFGC61785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC61788G",
+        "tradingSymbol": "MERV - XMEV - GFGC61788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC61789D",
+        "tradingSymbol": "MERV - XMEV - GFGC61789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC61789G",
+        "tradingSymbol": "MERV - XMEV - GFGC61789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC61789O",
+        "tradingSymbol": "MERV - XMEV - GFGC61789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6200AG",
+        "tradingSymbol": "MERV - XMEV - GFGC6200AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6200OC",
+        "tradingSymbol": "MERV - XMEV - GFGC6200OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC63025G",
+        "tradingSymbol": "MERV - XMEV - GFGC63025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC63241G",
+        "tradingSymbol": "MERV - XMEV - GFGC63241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6324AG",
+        "tradingSymbol": "MERV - XMEV - GFGC6324AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC63452G",
+        "tradingSymbol": "MERV - XMEV - GFGC63452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC63452O",
+        "tradingSymbol": "MERV - XMEV - GFGC63452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC63573O",
+        "tradingSymbol": "MERV - XMEV - GFGC63573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC63785D",
+        "tradingSymbol": "MERV - XMEV - GFGC63785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC63788O",
+        "tradingSymbol": "MERV - XMEV - GFGC63788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC63789D",
+        "tradingSymbol": "MERV - XMEV - GFGC63789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC63789O",
+        "tradingSymbol": "MERV - XMEV - GFGC63789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6400AG",
+        "tradingSymbol": "MERV - XMEV - GFGC6400AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6400OC",
+        "tradingSymbol": "MERV - XMEV - GFGC6400OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC65025G",
+        "tradingSymbol": "MERV - XMEV - GFGC65025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC65241G",
+        "tradingSymbol": "MERV - XMEV - GFGC65241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6524AG",
+        "tradingSymbol": "MERV - XMEV - GFGC6524AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC65452G",
+        "tradingSymbol": "MERV - XMEV - GFGC65452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC65452O",
+        "tradingSymbol": "MERV - XMEV - GFGC65452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC65785D",
+        "tradingSymbol": "MERV - XMEV - GFGC65785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC65785O",
+        "tradingSymbol": "MERV - XMEV - GFGC65785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC65789D",
+        "tradingSymbol": "MERV - XMEV - GFGC65789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC65789O",
+        "tradingSymbol": "MERV - XMEV - GFGC65789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6600AG",
+        "tradingSymbol": "MERV - XMEV - GFGC6600AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6600OC",
+        "tradingSymbol": "MERV - XMEV - GFGC6600OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC67025G",
+        "tradingSymbol": "MERV - XMEV - GFGC67025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC67241G",
+        "tradingSymbol": "MERV - XMEV - GFGC67241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6724AG",
+        "tradingSymbol": "MERV - XMEV - GFGC6724AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC67452G",
+        "tradingSymbol": "MERV - XMEV - GFGC67452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC67452O",
+        "tradingSymbol": "MERV - XMEV - GFGC67452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC67573D",
+        "tradingSymbol": "MERV - XMEV - GFGC67573D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC67785O",
+        "tradingSymbol": "MERV - XMEV - GFGC67785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC67788D",
+        "tradingSymbol": "MERV - XMEV - GFGC67788D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC67789D",
+        "tradingSymbol": "MERV - XMEV - GFGC67789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC67789O",
+        "tradingSymbol": "MERV - XMEV - GFGC67789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6800AG",
+        "tradingSymbol": "MERV - XMEV - GFGC6800AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6800OC",
+        "tradingSymbol": "MERV - XMEV - GFGC6800OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC69025G",
+        "tradingSymbol": "MERV - XMEV - GFGC69025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC69241G",
+        "tradingSymbol": "MERV - XMEV - GFGC69241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC6924AG",
+        "tradingSymbol": "MERV - XMEV - GFGC6924AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC69452G",
+        "tradingSymbol": "MERV - XMEV - GFGC69452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC69452O",
+        "tradingSymbol": "MERV - XMEV - GFGC69452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC69573O",
+        "tradingSymbol": "MERV - XMEV - GFGC69573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC69785D",
+        "tradingSymbol": "MERV - XMEV - GFGC69785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC69788O",
+        "tradingSymbol": "MERV - XMEV - GFGC69788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC69789D",
+        "tradingSymbol": "MERV - XMEV - GFGC69789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC69789O",
+        "tradingSymbol": "MERV - XMEV - GFGC69789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7000AG",
+        "tradingSymbol": "MERV - XMEV - GFGC7000AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7000OC",
+        "tradingSymbol": "MERV - XMEV - GFGC7000OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC71025G",
+        "tradingSymbol": "MERV - XMEV - GFGC71025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC71241G",
+        "tradingSymbol": "MERV - XMEV - GFGC71241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7124AG",
+        "tradingSymbol": "MERV - XMEV - GFGC7124AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC71452G",
+        "tradingSymbol": "MERV - XMEV - GFGC71452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC71452O",
+        "tradingSymbol": "MERV - XMEV - GFGC71452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC71785D",
+        "tradingSymbol": "MERV - XMEV - GFGC71785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC71785O",
+        "tradingSymbol": "MERV - XMEV - GFGC71785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC71789D",
+        "tradingSymbol": "MERV - XMEV - GFGC71789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7200AG",
+        "tradingSymbol": "MERV - XMEV - GFGC7200AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7200OC",
+        "tradingSymbol": "MERV - XMEV - GFGC7200OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC73025G",
+        "tradingSymbol": "MERV - XMEV - GFGC73025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC73241G",
+        "tradingSymbol": "MERV - XMEV - GFGC73241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7324AG",
+        "tradingSymbol": "MERV - XMEV - GFGC7324AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC73452G",
+        "tradingSymbol": "MERV - XMEV - GFGC73452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC73452O",
+        "tradingSymbol": "MERV - XMEV - GFGC73452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC73573O",
+        "tradingSymbol": "MERV - XMEV - GFGC73573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC73788O",
+        "tradingSymbol": "MERV - XMEV - GFGC73788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC73789D",
+        "tradingSymbol": "MERV - XMEV - GFGC73789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC73789O",
+        "tradingSymbol": "MERV - XMEV - GFGC73789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7400AG",
+        "tradingSymbol": "MERV - XMEV - GFGC7400AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7400OC",
+        "tradingSymbol": "MERV - XMEV - GFGC7400OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC75025G",
+        "tradingSymbol": "MERV - XMEV - GFGC75025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC75241G",
+        "tradingSymbol": "MERV - XMEV - GFGC75241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7524AG",
+        "tradingSymbol": "MERV - XMEV - GFGC7524AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC75452G",
+        "tradingSymbol": "MERV - XMEV - GFGC75452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC75452O",
+        "tradingSymbol": "MERV - XMEV - GFGC75452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC75573O",
+        "tradingSymbol": "MERV - XMEV - GFGC75573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC75788O",
+        "tradingSymbol": "MERV - XMEV - GFGC75788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC75789D",
+        "tradingSymbol": "MERV - XMEV - GFGC75789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC75789O",
+        "tradingSymbol": "MERV - XMEV - GFGC75789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7600AG",
+        "tradingSymbol": "MERV - XMEV - GFGC7600AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7600OC",
+        "tradingSymbol": "MERV - XMEV - GFGC7600OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC77025G",
+        "tradingSymbol": "MERV - XMEV - GFGC77025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC77241G",
+        "tradingSymbol": "MERV - XMEV - GFGC77241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7724AG",
+        "tradingSymbol": "MERV - XMEV - GFGC7724AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC77452G",
+        "tradingSymbol": "MERV - XMEV - GFGC77452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC77452O",
+        "tradingSymbol": "MERV - XMEV - GFGC77452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC77573O",
+        "tradingSymbol": "MERV - XMEV - GFGC77573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC77788O",
+        "tradingSymbol": "MERV - XMEV - GFGC77788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC77789D",
+        "tradingSymbol": "MERV - XMEV - GFGC77789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC77789O",
+        "tradingSymbol": "MERV - XMEV - GFGC77789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7800AG",
+        "tradingSymbol": "MERV - XMEV - GFGC7800AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7800OC",
+        "tradingSymbol": "MERV - XMEV - GFGC7800OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC79025G",
+        "tradingSymbol": "MERV - XMEV - GFGC79025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC79025O",
+        "tradingSymbol": "MERV - XMEV - GFGC79025O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC79241G",
+        "tradingSymbol": "MERV - XMEV - GFGC79241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC79241O",
+        "tradingSymbol": "MERV - XMEV - GFGC79241O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7924AG",
+        "tradingSymbol": "MERV - XMEV - GFGC7924AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC7924OC",
+        "tradingSymbol": "MERV - XMEV - GFGC7924OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC79452G",
+        "tradingSymbol": "MERV - XMEV - GFGC79452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC79452O",
+        "tradingSymbol": "MERV - XMEV - GFGC79452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC79785D",
+        "tradingSymbol": "MERV - XMEV - GFGC79785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC79789D",
+        "tradingSymbol": "MERV - XMEV - GFGC79789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8000AG",
+        "tradingSymbol": "MERV - XMEV - GFGC8000AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8000OC",
+        "tradingSymbol": "MERV - XMEV - GFGC8000OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC82025G",
+        "tradingSymbol": "MERV - XMEV - GFGC82025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC82025O",
+        "tradingSymbol": "MERV - XMEV - GFGC82025O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC82241G",
+        "tradingSymbol": "MERV - XMEV - GFGC82241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC82241O",
+        "tradingSymbol": "MERV - XMEV - GFGC82241O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8224AG",
+        "tradingSymbol": "MERV - XMEV - GFGC8224AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8224OC",
+        "tradingSymbol": "MERV - XMEV - GFGC8224OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC82452G",
+        "tradingSymbol": "MERV - XMEV - GFGC82452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC82452O",
+        "tradingSymbol": "MERV - XMEV - GFGC82452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC82789D",
+        "tradingSymbol": "MERV - XMEV - GFGC82789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8300AG",
+        "tradingSymbol": "MERV - XMEV - GFGC8300AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8300OC",
+        "tradingSymbol": "MERV - XMEV - GFGC8300OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC85025G",
+        "tradingSymbol": "MERV - XMEV - GFGC85025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC85241G",
+        "tradingSymbol": "MERV - XMEV - GFGC85241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8524AG",
+        "tradingSymbol": "MERV - XMEV - GFGC8524AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC85452G",
+        "tradingSymbol": "MERV - XMEV - GFGC85452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC85452O",
+        "tradingSymbol": "MERV - XMEV - GFGC85452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC85573D",
+        "tradingSymbol": "MERV - XMEV - GFGC85573D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC85573O",
+        "tradingSymbol": "MERV - XMEV - GFGC85573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC85788D",
+        "tradingSymbol": "MERV - XMEV - GFGC85788D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC85788O",
+        "tradingSymbol": "MERV - XMEV - GFGC85788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC85789D",
+        "tradingSymbol": "MERV - XMEV - GFGC85789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC85789O",
+        "tradingSymbol": "MERV - XMEV - GFGC85789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8600AG",
+        "tradingSymbol": "MERV - XMEV - GFGC8600AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8600OC",
+        "tradingSymbol": "MERV - XMEV - GFGC8600OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC88573D",
+        "tradingSymbol": "MERV - XMEV - GFGC88573D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC88573G",
+        "tradingSymbol": "MERV - XMEV - GFGC88573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC88785O",
+        "tradingSymbol": "MERV - XMEV - GFGC88785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC88788D",
+        "tradingSymbol": "MERV - XMEV - GFGC88788D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC88788G",
+        "tradingSymbol": "MERV - XMEV - GFGC88788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC88789D",
+        "tradingSymbol": "MERV - XMEV - GFGC88789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC88789G",
+        "tradingSymbol": "MERV - XMEV - GFGC88789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC88789O",
+        "tradingSymbol": "MERV - XMEV - GFGC88789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8900AG",
+        "tradingSymbol": "MERV - XMEV - GFGC8900AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8900DI",
+        "tradingSymbol": "MERV - XMEV - GFGC8900DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGC8900OC",
+        "tradingSymbol": "MERV - XMEV - GFGC8900OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC91573G",
+        "tradingSymbol": "MERV - XMEV - GFGC91573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC91573O",
+        "tradingSymbol": "MERV - XMEV - GFGC91573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC91785D",
+        "tradingSymbol": "MERV - XMEV - GFGC91785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC91788G",
+        "tradingSymbol": "MERV - XMEV - GFGC91788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC91788O",
+        "tradingSymbol": "MERV - XMEV - GFGC91788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC91789D",
+        "tradingSymbol": "MERV - XMEV - GFGC91789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC91789G",
+        "tradingSymbol": "MERV - XMEV - GFGC91789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC91789O",
+        "tradingSymbol": "MERV - XMEV - GFGC91789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC9200AG",
+        "tradingSymbol": "MERV - XMEV - GFGC9200AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC9200DI",
+        "tradingSymbol": "MERV - XMEV - GFGC9200DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGC9200OC",
+        "tradingSymbol": "MERV - XMEV - GFGC9200OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC94025G",
+        "tradingSymbol": "MERV - XMEV - GFGC94025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC94241G",
+        "tradingSymbol": "MERV - XMEV - GFGC94241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC9424AG",
+        "tradingSymbol": "MERV - XMEV - GFGC9424AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC94452G",
+        "tradingSymbol": "MERV - XMEV - GFGC94452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC94573D",
+        "tradingSymbol": "MERV - XMEV - GFGC94573D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC94573G",
+        "tradingSymbol": "MERV - XMEV - GFGC94573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC94785O",
+        "tradingSymbol": "MERV - XMEV - GFGC94785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC94788D",
+        "tradingSymbol": "MERV - XMEV - GFGC94788D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC94788G",
+        "tradingSymbol": "MERV - XMEV - GFGC94788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC94789D",
+        "tradingSymbol": "MERV - XMEV - GFGC94789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGC94789G",
+        "tradingSymbol": "MERV - XMEV - GFGC94789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC94789O",
+        "tradingSymbol": "MERV - XMEV - GFGC94789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC9500AG",
+        "tradingSymbol": "MERV - XMEV - GFGC9500AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC9500DI",
+        "tradingSymbol": "MERV - XMEV - GFGC9500DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGC9500OC",
+        "tradingSymbol": "MERV - XMEV - GFGC9500OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGC97025G",
+        "tradingSymbol": "MERV - XMEV - GFGC97025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC97241G",
+        "tradingSymbol": "MERV - XMEV - GFGC97241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC9724AG",
+        "tradingSymbol": "MERV - XMEV - GFGC9724AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC97452G",
+        "tradingSymbol": "MERV - XMEV - GFGC97452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC97573G",
+        "tradingSymbol": "MERV - XMEV - GFGC97573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC97573O",
+        "tradingSymbol": "MERV - XMEV - GFGC97573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC97788G",
+        "tradingSymbol": "MERV - XMEV - GFGC97788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC97788O",
+        "tradingSymbol": "MERV - XMEV - GFGC97788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC97789G",
+        "tradingSymbol": "MERV - XMEV - GFGC97789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGC97789O",
+        "tradingSymbol": "MERV - XMEV - GFGC97789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGC9800AG",
+        "tradingSymbol": "MERV - XMEV - GFGC9800AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGC9800OC",
+        "tradingSymbol": "MERV - XMEV - GFGC9800OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV10058G",
+        "tradingSymbol": "MERV - XMEV - GFGV10058G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV10079G",
+        "tradingSymbol": "MERV - XMEV - GFGV10079G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV10079O",
+        "tradingSymbol": "MERV - XMEV - GFGV10079O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV10100G",
+        "tradingSymbol": "MERV - XMEV - GFGV10100G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV10100O",
+        "tradingSymbol": "MERV - XMEV - GFGV10100O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV10600G",
+        "tradingSymbol": "MERV - XMEV - GFGV10600G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV11100G",
+        "tradingSymbol": "MERV - XMEV - GFGV11100G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV11600G",
+        "tradingSymbol": "MERV - XMEV - GFGV11600G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV12100G",
+        "tradingSymbol": "MERV - XMEV - GFGV12100G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV12600G",
+        "tradingSymbol": "MERV - XMEV - GFGV12600G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV32452G",
+        "tradingSymbol": "MERV - XMEV - GFGV32452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV32452O",
+        "tradingSymbol": "MERV - XMEV - GFGV32452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV32785G",
+        "tradingSymbol": "MERV - XMEV - GFGV32785G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV32785O",
+        "tradingSymbol": "MERV - XMEV - GFGV32785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV32789G",
+        "tradingSymbol": "MERV - XMEV - GFGV32789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV32789O",
+        "tradingSymbol": "MERV - XMEV - GFGV32789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV3300AG",
+        "tradingSymbol": "MERV - XMEV - GFGV3300AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV3300OC",
+        "tradingSymbol": "MERV - XMEV - GFGV3300OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV35452G",
+        "tradingSymbol": "MERV - XMEV - GFGV35452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV35452O",
+        "tradingSymbol": "MERV - XMEV - GFGV35452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV35785G",
+        "tradingSymbol": "MERV - XMEV - GFGV35785G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV35785O",
+        "tradingSymbol": "MERV - XMEV - GFGV35785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV35789G",
+        "tradingSymbol": "MERV - XMEV - GFGV35789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV35789O",
+        "tradingSymbol": "MERV - XMEV - GFGV35789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV3600AG",
+        "tradingSymbol": "MERV - XMEV - GFGV3600AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV3600OC",
+        "tradingSymbol": "MERV - XMEV - GFGV3600OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV38452G",
+        "tradingSymbol": "MERV - XMEV - GFGV38452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV38452O",
+        "tradingSymbol": "MERV - XMEV - GFGV38452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV38573G",
+        "tradingSymbol": "MERV - XMEV - GFGV38573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV38785O",
+        "tradingSymbol": "MERV - XMEV - GFGV38785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV38788G",
+        "tradingSymbol": "MERV - XMEV - GFGV38788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV38789G",
+        "tradingSymbol": "MERV - XMEV - GFGV38789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV38789O",
+        "tradingSymbol": "MERV - XMEV - GFGV38789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV3900AG",
+        "tradingSymbol": "MERV - XMEV - GFGV3900AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV3900OC",
+        "tradingSymbol": "MERV - XMEV - GFGV3900OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV41452G",
+        "tradingSymbol": "MERV - XMEV - GFGV41452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV41452O",
+        "tradingSymbol": "MERV - XMEV - GFGV41452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV41573G",
+        "tradingSymbol": "MERV - XMEV - GFGV41573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV41785D",
+        "tradingSymbol": "MERV - XMEV - GFGV41785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV41785O",
+        "tradingSymbol": "MERV - XMEV - GFGV41785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV41788G",
+        "tradingSymbol": "MERV - XMEV - GFGV41788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV41789D",
+        "tradingSymbol": "MERV - XMEV - GFGV41789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV41789O",
+        "tradingSymbol": "MERV - XMEV - GFGV41789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV4200AG",
+        "tradingSymbol": "MERV - XMEV - GFGV4200AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV4200OC",
+        "tradingSymbol": "MERV - XMEV - GFGV4200OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV44452G",
+        "tradingSymbol": "MERV - XMEV - GFGV44452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV44452O",
+        "tradingSymbol": "MERV - XMEV - GFGV44452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV44573G",
+        "tradingSymbol": "MERV - XMEV - GFGV44573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV44785D",
+        "tradingSymbol": "MERV - XMEV - GFGV44785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV44785O",
+        "tradingSymbol": "MERV - XMEV - GFGV44785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV44788G",
+        "tradingSymbol": "MERV - XMEV - GFGV44788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV44789D",
+        "tradingSymbol": "MERV - XMEV - GFGV44789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV44789G",
+        "tradingSymbol": "MERV - XMEV - GFGV44789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV44789O",
+        "tradingSymbol": "MERV - XMEV - GFGV44789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV4500AG",
+        "tradingSymbol": "MERV - XMEV - GFGV4500AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV4500DI",
+        "tradingSymbol": "MERV - XMEV - GFGV4500DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGV4500OC",
+        "tradingSymbol": "MERV - XMEV - GFGV4500OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV47452G",
+        "tradingSymbol": "MERV - XMEV - GFGV47452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV47452O",
+        "tradingSymbol": "MERV - XMEV - GFGV47452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV47573G",
+        "tradingSymbol": "MERV - XMEV - GFGV47573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV47785D",
+        "tradingSymbol": "MERV - XMEV - GFGV47785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV47785O",
+        "tradingSymbol": "MERV - XMEV - GFGV47785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV47788G",
+        "tradingSymbol": "MERV - XMEV - GFGV47788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV47789D",
+        "tradingSymbol": "MERV - XMEV - GFGV47789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV47789G",
+        "tradingSymbol": "MERV - XMEV - GFGV47789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV47789O",
+        "tradingSymbol": "MERV - XMEV - GFGV47789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV4800AG",
+        "tradingSymbol": "MERV - XMEV - GFGV4800AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV4800OC",
+        "tradingSymbol": "MERV - XMEV - GFGV4800OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV50573G",
+        "tradingSymbol": "MERV - XMEV - GFGV50573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV50573O",
+        "tradingSymbol": "MERV - XMEV - GFGV50573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV50785D",
+        "tradingSymbol": "MERV - XMEV - GFGV50785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV50788G",
+        "tradingSymbol": "MERV - XMEV - GFGV50788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV50788O",
+        "tradingSymbol": "MERV - XMEV - GFGV50788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV50789D",
+        "tradingSymbol": "MERV - XMEV - GFGV50789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV50789G",
+        "tradingSymbol": "MERV - XMEV - GFGV50789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV50789O",
+        "tradingSymbol": "MERV - XMEV - GFGV50789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV5100AG",
+        "tradingSymbol": "MERV - XMEV - GFGV5100AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV5100DI",
+        "tradingSymbol": "MERV - XMEV - GFGV5100DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGV5100OC",
+        "tradingSymbol": "MERV - XMEV - GFGV5100OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV53025G",
+        "tradingSymbol": "MERV - XMEV - GFGV53025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV53241G",
+        "tradingSymbol": "MERV - XMEV - GFGV53241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV5324AG",
+        "tradingSymbol": "MERV - XMEV - GFGV5324AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV53452G",
+        "tradingSymbol": "MERV - XMEV - GFGV53452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV53785D",
+        "tradingSymbol": "MERV - XMEV - GFGV53785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV53785O",
+        "tradingSymbol": "MERV - XMEV - GFGV53785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV53789D",
+        "tradingSymbol": "MERV - XMEV - GFGV53789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV53789O",
+        "tradingSymbol": "MERV - XMEV - GFGV53789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV5400AG",
+        "tradingSymbol": "MERV - XMEV - GFGV5400AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV5400OC",
+        "tradingSymbol": "MERV - XMEV - GFGV5400OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV56025G",
+        "tradingSymbol": "MERV - XMEV - GFGV56025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV5624AG",
+        "tradingSymbol": "MERV - XMEV - GFGV5624AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV56452G",
+        "tradingSymbol": "MERV - XMEV - GFGV56452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV56573O",
+        "tradingSymbol": "MERV - XMEV - GFGV56573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV56785D",
+        "tradingSymbol": "MERV - XMEV - GFGV56785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV56788O",
+        "tradingSymbol": "MERV - XMEV - GFGV56788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV56789D",
+        "tradingSymbol": "MERV - XMEV - GFGV56789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV56789O",
+        "tradingSymbol": "MERV - XMEV - GFGV56789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV5700AG",
+        "tradingSymbol": "MERV - XMEV - GFGV5700AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV5700DI",
+        "tradingSymbol": "MERV - XMEV - GFGV5700DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGV5700OC",
+        "tradingSymbol": "MERV - XMEV - GFGV5700OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV59025G",
+        "tradingSymbol": "MERV - XMEV - GFGV59025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV59241G",
+        "tradingSymbol": "MERV - XMEV - GFGV59241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV5924AG",
+        "tradingSymbol": "MERV - XMEV - GFGV5924AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV59452G",
+        "tradingSymbol": "MERV - XMEV - GFGV59452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV59573O",
+        "tradingSymbol": "MERV - XMEV - GFGV59573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV59785D",
+        "tradingSymbol": "MERV - XMEV - GFGV59785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV59788O",
+        "tradingSymbol": "MERV - XMEV - GFGV59788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV59789D",
+        "tradingSymbol": "MERV - XMEV - GFGV59789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV59789O",
+        "tradingSymbol": "MERV - XMEV - GFGV59789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6000AG",
+        "tradingSymbol": "MERV - XMEV - GFGV6000AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6000OC",
+        "tradingSymbol": "MERV - XMEV - GFGV6000OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV61452G",
+        "tradingSymbol": "MERV - XMEV - GFGV61452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV61452O",
+        "tradingSymbol": "MERV - XMEV - GFGV61452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV61573G",
+        "tradingSymbol": "MERV - XMEV - GFGV61573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV61785D",
+        "tradingSymbol": "MERV - XMEV - GFGV61785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV61785O",
+        "tradingSymbol": "MERV - XMEV - GFGV61785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV61788G",
+        "tradingSymbol": "MERV - XMEV - GFGV61788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV61789D",
+        "tradingSymbol": "MERV - XMEV - GFGV61789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV61789G",
+        "tradingSymbol": "MERV - XMEV - GFGV61789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV61789O",
+        "tradingSymbol": "MERV - XMEV - GFGV61789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6200AG",
+        "tradingSymbol": "MERV - XMEV - GFGV6200AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6200OC",
+        "tradingSymbol": "MERV - XMEV - GFGV6200OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV63025G",
+        "tradingSymbol": "MERV - XMEV - GFGV63025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV63241G",
+        "tradingSymbol": "MERV - XMEV - GFGV63241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6324AG",
+        "tradingSymbol": "MERV - XMEV - GFGV6324AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV63452G",
+        "tradingSymbol": "MERV - XMEV - GFGV63452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV63452O",
+        "tradingSymbol": "MERV - XMEV - GFGV63452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV63573O",
+        "tradingSymbol": "MERV - XMEV - GFGV63573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV63785D",
+        "tradingSymbol": "MERV - XMEV - GFGV63785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV63788O",
+        "tradingSymbol": "MERV - XMEV - GFGV63788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV63789D",
+        "tradingSymbol": "MERV - XMEV - GFGV63789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV63789O",
+        "tradingSymbol": "MERV - XMEV - GFGV63789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6400AG",
+        "tradingSymbol": "MERV - XMEV - GFGV6400AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6400OC",
+        "tradingSymbol": "MERV - XMEV - GFGV6400OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV65025G",
+        "tradingSymbol": "MERV - XMEV - GFGV65025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV65241G",
+        "tradingSymbol": "MERV - XMEV - GFGV65241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6524AG",
+        "tradingSymbol": "MERV - XMEV - GFGV6524AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV65452G",
+        "tradingSymbol": "MERV - XMEV - GFGV65452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV65452O",
+        "tradingSymbol": "MERV - XMEV - GFGV65452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV65785D",
+        "tradingSymbol": "MERV - XMEV - GFGV65785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV65785O",
+        "tradingSymbol": "MERV - XMEV - GFGV65785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV65789D",
+        "tradingSymbol": "MERV - XMEV - GFGV65789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV65789O",
+        "tradingSymbol": "MERV - XMEV - GFGV65789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6600AG",
+        "tradingSymbol": "MERV - XMEV - GFGV6600AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6600OC",
+        "tradingSymbol": "MERV - XMEV - GFGV6600OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV67025G",
+        "tradingSymbol": "MERV - XMEV - GFGV67025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV67241G",
+        "tradingSymbol": "MERV - XMEV - GFGV67241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6724AG",
+        "tradingSymbol": "MERV - XMEV - GFGV6724AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV67452G",
+        "tradingSymbol": "MERV - XMEV - GFGV67452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV67452O",
+        "tradingSymbol": "MERV - XMEV - GFGV67452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV67573D",
+        "tradingSymbol": "MERV - XMEV - GFGV67573D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV67785O",
+        "tradingSymbol": "MERV - XMEV - GFGV67785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV67788D",
+        "tradingSymbol": "MERV - XMEV - GFGV67788D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV67789D",
+        "tradingSymbol": "MERV - XMEV - GFGV67789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV67789O",
+        "tradingSymbol": "MERV - XMEV - GFGV67789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6800AG",
+        "tradingSymbol": "MERV - XMEV - GFGV6800AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6800OC",
+        "tradingSymbol": "MERV - XMEV - GFGV6800OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV69025G",
+        "tradingSymbol": "MERV - XMEV - GFGV69025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV69241G",
+        "tradingSymbol": "MERV - XMEV - GFGV69241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV6924AG",
+        "tradingSymbol": "MERV - XMEV - GFGV6924AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV69452G",
+        "tradingSymbol": "MERV - XMEV - GFGV69452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV69452O",
+        "tradingSymbol": "MERV - XMEV - GFGV69452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV69573O",
+        "tradingSymbol": "MERV - XMEV - GFGV69573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV69785D",
+        "tradingSymbol": "MERV - XMEV - GFGV69785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV69788O",
+        "tradingSymbol": "MERV - XMEV - GFGV69788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV69789D",
+        "tradingSymbol": "MERV - XMEV - GFGV69789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV69789O",
+        "tradingSymbol": "MERV - XMEV - GFGV69789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7000AG",
+        "tradingSymbol": "MERV - XMEV - GFGV7000AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7000OC",
+        "tradingSymbol": "MERV - XMEV - GFGV7000OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV71025G",
+        "tradingSymbol": "MERV - XMEV - GFGV71025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV71241G",
+        "tradingSymbol": "MERV - XMEV - GFGV71241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7124AG",
+        "tradingSymbol": "MERV - XMEV - GFGV7124AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV71452G",
+        "tradingSymbol": "MERV - XMEV - GFGV71452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV71452O",
+        "tradingSymbol": "MERV - XMEV - GFGV71452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV71785D",
+        "tradingSymbol": "MERV - XMEV - GFGV71785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV71785O",
+        "tradingSymbol": "MERV - XMEV - GFGV71785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV71789D",
+        "tradingSymbol": "MERV - XMEV - GFGV71789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV71789O",
+        "tradingSymbol": "MERV - XMEV - GFGV71789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7200AG",
+        "tradingSymbol": "MERV - XMEV - GFGV7200AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7200OC",
+        "tradingSymbol": "MERV - XMEV - GFGV7200OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV73025G",
+        "tradingSymbol": "MERV - XMEV - GFGV73025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV73241G",
+        "tradingSymbol": "MERV - XMEV - GFGV73241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7324AG",
+        "tradingSymbol": "MERV - XMEV - GFGV7324AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV73452G",
+        "tradingSymbol": "MERV - XMEV - GFGV73452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV73452O",
+        "tradingSymbol": "MERV - XMEV - GFGV73452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV73573O",
+        "tradingSymbol": "MERV - XMEV - GFGV73573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV73785D",
+        "tradingSymbol": "MERV - XMEV - GFGV73785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV73788O",
+        "tradingSymbol": "MERV - XMEV - GFGV73788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV73789D",
+        "tradingSymbol": "MERV - XMEV - GFGV73789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV73789O",
+        "tradingSymbol": "MERV - XMEV - GFGV73789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7400AG",
+        "tradingSymbol": "MERV - XMEV - GFGV7400AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7400OC",
+        "tradingSymbol": "MERV - XMEV - GFGV7400OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV75025G",
+        "tradingSymbol": "MERV - XMEV - GFGV75025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV75241G",
+        "tradingSymbol": "MERV - XMEV - GFGV75241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7524AG",
+        "tradingSymbol": "MERV - XMEV - GFGV7524AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV75452G",
+        "tradingSymbol": "MERV - XMEV - GFGV75452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV75452O",
+        "tradingSymbol": "MERV - XMEV - GFGV75452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV75573O",
+        "tradingSymbol": "MERV - XMEV - GFGV75573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV75785D",
+        "tradingSymbol": "MERV - XMEV - GFGV75785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV75788O",
+        "tradingSymbol": "MERV - XMEV - GFGV75788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV75789D",
+        "tradingSymbol": "MERV - XMEV - GFGV75789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV75789O",
+        "tradingSymbol": "MERV - XMEV - GFGV75789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7600AG",
+        "tradingSymbol": "MERV - XMEV - GFGV7600AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7600OC",
+        "tradingSymbol": "MERV - XMEV - GFGV7600OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV77025G",
+        "tradingSymbol": "MERV - XMEV - GFGV77025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV77241G",
+        "tradingSymbol": "MERV - XMEV - GFGV77241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7724AG",
+        "tradingSymbol": "MERV - XMEV - GFGV7724AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV77452G",
+        "tradingSymbol": "MERV - XMEV - GFGV77452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV77573O",
+        "tradingSymbol": "MERV - XMEV - GFGV77573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV77785D",
+        "tradingSymbol": "MERV - XMEV - GFGV77785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV77788O",
+        "tradingSymbol": "MERV - XMEV - GFGV77788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV77789D",
+        "tradingSymbol": "MERV - XMEV - GFGV77789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV77789O",
+        "tradingSymbol": "MERV - XMEV - GFGV77789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7800AG",
+        "tradingSymbol": "MERV - XMEV - GFGV7800AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7800OC",
+        "tradingSymbol": "MERV - XMEV - GFGV7800OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV79025G",
+        "tradingSymbol": "MERV - XMEV - GFGV79025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV79025O",
+        "tradingSymbol": "MERV - XMEV - GFGV79025O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV79241G",
+        "tradingSymbol": "MERV - XMEV - GFGV79241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV79241O",
+        "tradingSymbol": "MERV - XMEV - GFGV79241O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7924AG",
+        "tradingSymbol": "MERV - XMEV - GFGV7924AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV7924OC",
+        "tradingSymbol": "MERV - XMEV - GFGV7924OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV79452G",
+        "tradingSymbol": "MERV - XMEV - GFGV79452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV79452O",
+        "tradingSymbol": "MERV - XMEV - GFGV79452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV79785D",
+        "tradingSymbol": "MERV - XMEV - GFGV79785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV79789D",
+        "tradingSymbol": "MERV - XMEV - GFGV79789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8000AG",
+        "tradingSymbol": "MERV - XMEV - GFGV8000AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8000OC",
+        "tradingSymbol": "MERV - XMEV - GFGV8000OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV82025G",
+        "tradingSymbol": "MERV - XMEV - GFGV82025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV82025O",
+        "tradingSymbol": "MERV - XMEV - GFGV82025O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV82241G",
+        "tradingSymbol": "MERV - XMEV - GFGV82241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV82241O",
+        "tradingSymbol": "MERV - XMEV - GFGV82241O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8224AG",
+        "tradingSymbol": "MERV - XMEV - GFGV8224AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8224OC",
+        "tradingSymbol": "MERV - XMEV - GFGV8224OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV82452G",
+        "tradingSymbol": "MERV - XMEV - GFGV82452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV82452O",
+        "tradingSymbol": "MERV - XMEV - GFGV82452O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV82785D",
+        "tradingSymbol": "MERV - XMEV - GFGV82785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV82789D",
+        "tradingSymbol": "MERV - XMEV - GFGV82789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8300AG",
+        "tradingSymbol": "MERV - XMEV - GFGV8300AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8300OC",
+        "tradingSymbol": "MERV - XMEV - GFGV8300OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV85025G",
+        "tradingSymbol": "MERV - XMEV - GFGV85025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV85241G",
+        "tradingSymbol": "MERV - XMEV - GFGV85241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8524AG",
+        "tradingSymbol": "MERV - XMEV - GFGV8524AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV85452G",
+        "tradingSymbol": "MERV - XMEV - GFGV85452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV85573D",
+        "tradingSymbol": "MERV - XMEV - GFGV85573D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV85573O",
+        "tradingSymbol": "MERV - XMEV - GFGV85573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV85788D",
+        "tradingSymbol": "MERV - XMEV - GFGV85788D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV85788O",
+        "tradingSymbol": "MERV - XMEV - GFGV85788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV85789D",
+        "tradingSymbol": "MERV - XMEV - GFGV85789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV85789O",
+        "tradingSymbol": "MERV - XMEV - GFGV85789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8600AG",
+        "tradingSymbol": "MERV - XMEV - GFGV8600AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8600OC",
+        "tradingSymbol": "MERV - XMEV - GFGV8600OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV88573D",
+        "tradingSymbol": "MERV - XMEV - GFGV88573D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV88573G",
+        "tradingSymbol": "MERV - XMEV - GFGV88573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV88785O",
+        "tradingSymbol": "MERV - XMEV - GFGV88785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV88788D",
+        "tradingSymbol": "MERV - XMEV - GFGV88788D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV88788G",
+        "tradingSymbol": "MERV - XMEV - GFGV88788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV88789D",
+        "tradingSymbol": "MERV - XMEV - GFGV88789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV88789G",
+        "tradingSymbol": "MERV - XMEV - GFGV88789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV88789O",
+        "tradingSymbol": "MERV - XMEV - GFGV88789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8900AG",
+        "tradingSymbol": "MERV - XMEV - GFGV8900AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8900DI",
+        "tradingSymbol": "MERV - XMEV - GFGV8900DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGV8900OC",
+        "tradingSymbol": "MERV - XMEV - GFGV8900OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV91573G",
+        "tradingSymbol": "MERV - XMEV - GFGV91573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV91573O",
+        "tradingSymbol": "MERV - XMEV - GFGV91573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV91785D",
+        "tradingSymbol": "MERV - XMEV - GFGV91785D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV91788G",
+        "tradingSymbol": "MERV - XMEV - GFGV91788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV91788O",
+        "tradingSymbol": "MERV - XMEV - GFGV91788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV91789D",
+        "tradingSymbol": "MERV - XMEV - GFGV91789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV91789G",
+        "tradingSymbol": "MERV - XMEV - GFGV91789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV91789O",
+        "tradingSymbol": "MERV - XMEV - GFGV91789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV9200AG",
+        "tradingSymbol": "MERV - XMEV - GFGV9200AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV9200DI",
+        "tradingSymbol": "MERV - XMEV - GFGV9200DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGV9200OC",
+        "tradingSymbol": "MERV - XMEV - GFGV9200OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV94025G",
+        "tradingSymbol": "MERV - XMEV - GFGV94025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV94241G",
+        "tradingSymbol": "MERV - XMEV - GFGV94241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV9424AG",
+        "tradingSymbol": "MERV - XMEV - GFGV9424AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV94452G",
+        "tradingSymbol": "MERV - XMEV - GFGV94452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV94573D",
+        "tradingSymbol": "MERV - XMEV - GFGV94573D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV94573G",
+        "tradingSymbol": "MERV - XMEV - GFGV94573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV94785O",
+        "tradingSymbol": "MERV - XMEV - GFGV94785O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV94788D",
+        "tradingSymbol": "MERV - XMEV - GFGV94788D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV94788G",
+        "tradingSymbol": "MERV - XMEV - GFGV94788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV94789D",
+        "tradingSymbol": "MERV - XMEV - GFGV94789D - 24hs"
+    },
+    {
+        "symbolReference": "GFGV94789G",
+        "tradingSymbol": "MERV - XMEV - GFGV94789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV94789O",
+        "tradingSymbol": "MERV - XMEV - GFGV94789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV9500AG",
+        "tradingSymbol": "MERV - XMEV - GFGV9500AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV9500DI",
+        "tradingSymbol": "MERV - XMEV - GFGV9500DI - 24hs"
+    },
+    {
+        "symbolReference": "GFGV9500OC",
+        "tradingSymbol": "MERV - XMEV - GFGV9500OC - 24hs"
+    },
+    {
+        "symbolReference": "GFGV97025G",
+        "tradingSymbol": "MERV - XMEV - GFGV97025G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV97241G",
+        "tradingSymbol": "MERV - XMEV - GFGV97241G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV9724AG",
+        "tradingSymbol": "MERV - XMEV - GFGV9724AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV97452G",
+        "tradingSymbol": "MERV - XMEV - GFGV97452G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV97573G",
+        "tradingSymbol": "MERV - XMEV - GFGV97573G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV97573O",
+        "tradingSymbol": "MERV - XMEV - GFGV97573O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV97788G",
+        "tradingSymbol": "MERV - XMEV - GFGV97788G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV97788O",
+        "tradingSymbol": "MERV - XMEV - GFGV97788O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV97789G",
+        "tradingSymbol": "MERV - XMEV - GFGV97789G - 24hs"
+    },
+    {
+        "symbolReference": "GFGV97789O",
+        "tradingSymbol": "MERV - XMEV - GFGV97789O - 24hs"
+    },
+    {
+        "symbolReference": "GFGV9800AG",
+        "tradingSymbol": "MERV - XMEV - GFGV9800AG - 24hs"
+    },
+    {
+        "symbolReference": "GFGV9800OC",
+        "tradingSymbol": "MERV - XMEV - GFGV9800OC - 24hs"
     },
     {
         "symbolReference": "GFI",
@@ -8080,6 +13644,34 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - IBC1O - CI"
     },
     {
+        "symbolReference": "IBIC5700AG",
+        "tradingSymbol": "MERV - XMEV - IBIC5700AG - 24hs"
+    },
+    {
+        "symbolReference": "IBIC6000AG",
+        "tradingSymbol": "MERV - XMEV - IBIC6000AG - 24hs"
+    },
+    {
+        "symbolReference": "IBIC6300AG",
+        "tradingSymbol": "MERV - XMEV - IBIC6300AG - 24hs"
+    },
+    {
+        "symbolReference": "IBIC6600AG",
+        "tradingSymbol": "MERV - XMEV - IBIC6600AG - 24hs"
+    },
+    {
+        "symbolReference": "IBIC6900AG",
+        "tradingSymbol": "MERV - XMEV - IBIC6900AG - 24hs"
+    },
+    {
+        "symbolReference": "IBIC7200AG",
+        "tradingSymbol": "MERV - XMEV - IBIC7200AG - 24hs"
+    },
+    {
+        "symbolReference": "IBIC7500AG",
+        "tradingSymbol": "MERV - XMEV - IBIC7500AG - 24hs"
+    },
+    {
         "symbolReference": "IBIT",
         "tradingSymbol": "MERV - XMEV - IBIT - 24hs"
     },
@@ -8102,6 +13694,30 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "IBITD (CI)",
         "tradingSymbol": "MERV - XMEV - IBITD - CI"
+    },
+    {
+        "symbolReference": "IBIV6000AG",
+        "tradingSymbol": "MERV - XMEV - IBIV6000AG - 24hs"
+    },
+    {
+        "symbolReference": "IBIV6300AG",
+        "tradingSymbol": "MERV - XMEV - IBIV6300AG - 24hs"
+    },
+    {
+        "symbolReference": "IBIV6600AG",
+        "tradingSymbol": "MERV - XMEV - IBIV6600AG - 24hs"
+    },
+    {
+        "symbolReference": "IBIV6900AG",
+        "tradingSymbol": "MERV - XMEV - IBIV6900AG - 24hs"
+    },
+    {
+        "symbolReference": "IBIV7200AG",
+        "tradingSymbol": "MERV - XMEV - IBIV7200AG - 24hs"
+    },
+    {
+        "symbolReference": "IBIV7500AG",
+        "tradingSymbol": "MERV - XMEV - IBIV7500AG - 24hs"
     },
     {
         "symbolReference": "IBM",
@@ -8840,12 +14456,52 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - JPMC - CI"
     },
     {
+        "symbolReference": "JPMC19000G",
+        "tradingSymbol": "MERV - XMEV - JPMC19000G - 24hs"
+    },
+    {
+        "symbolReference": "JPMC20000G",
+        "tradingSymbol": "MERV - XMEV - JPMC20000G - 24hs"
+    },
+    {
+        "symbolReference": "JPMC21000G",
+        "tradingSymbol": "MERV - XMEV - JPMC21000G - 24hs"
+    },
+    {
+        "symbolReference": "JPMC22000G",
+        "tradingSymbol": "MERV - XMEV - JPMC22000G - 24hs"
+    },
+    {
+        "symbolReference": "JPMC23000G",
+        "tradingSymbol": "MERV - XMEV - JPMC23000G - 24hs"
+    },
+    {
         "symbolReference": "JPMD",
         "tradingSymbol": "MERV - XMEV - JPMD - 24hs"
     },
     {
         "symbolReference": "JPMD (CI)",
         "tradingSymbol": "MERV - XMEV - JPMD - CI"
+    },
+    {
+        "symbolReference": "JPMV19000G",
+        "tradingSymbol": "MERV - XMEV - JPMV19000G - 24hs"
+    },
+    {
+        "symbolReference": "JPMV20000G",
+        "tradingSymbol": "MERV - XMEV - JPMV20000G - 24hs"
+    },
+    {
+        "symbolReference": "JPMV21000G",
+        "tradingSymbol": "MERV - XMEV - JPMV21000G - 24hs"
+    },
+    {
+        "symbolReference": "JPMV22000G",
+        "tradingSymbol": "MERV - XMEV - JPMV22000G - 24hs"
+    },
+    {
+        "symbolReference": "JPMV23000G",
+        "tradingSymbol": "MERV - XMEV - JPMV23000G - 24hs"
     },
     {
         "symbolReference": "JUS22",
@@ -8910,6 +14566,54 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "KO (CI)",
         "tradingSymbol": "MERV - XMEV - KO - CI"
+    },
+    {
+        "symbolReference": "KO.C16000G",
+        "tradingSymbol": "MERV - XMEV - KO.C16000G - 24hs"
+    },
+    {
+        "symbolReference": "KO.C17000G",
+        "tradingSymbol": "MERV - XMEV - KO.C17000G - 24hs"
+    },
+    {
+        "symbolReference": "KO.C18000G",
+        "tradingSymbol": "MERV - XMEV - KO.C18000G - 24hs"
+    },
+    {
+        "symbolReference": "KO.C19000G",
+        "tradingSymbol": "MERV - XMEV - KO.C19000G - 24hs"
+    },
+    {
+        "symbolReference": "KO.C20000G",
+        "tradingSymbol": "MERV - XMEV - KO.C20000G - 24hs"
+    },
+    {
+        "symbolReference": "KO.C21000G",
+        "tradingSymbol": "MERV - XMEV - KO.C21000G - 24hs"
+    },
+    {
+        "symbolReference": "KO.V16000G",
+        "tradingSymbol": "MERV - XMEV - KO.V16000G - 24hs"
+    },
+    {
+        "symbolReference": "KO.V17000G",
+        "tradingSymbol": "MERV - XMEV - KO.V17000G - 24hs"
+    },
+    {
+        "symbolReference": "KO.V18000G",
+        "tradingSymbol": "MERV - XMEV - KO.V18000G - 24hs"
+    },
+    {
+        "symbolReference": "KO.V19000G",
+        "tradingSymbol": "MERV - XMEV - KO.V19000G - 24hs"
+    },
+    {
+        "symbolReference": "KO.V20000G",
+        "tradingSymbol": "MERV - XMEV - KO.V20000G - 24hs"
+    },
+    {
+        "symbolReference": "KO.V21000G",
+        "tradingSymbol": "MERV - XMEV - KO.V21000G - 24hs"
     },
     {
         "symbolReference": "KOC",
@@ -9632,6 +15336,106 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - LOMAD - CI"
     },
     {
+        "symbolReference": "LOMC2200OC",
+        "tradingSymbol": "MERV - XMEV - LOMC2200OC - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2300AG",
+        "tradingSymbol": "MERV - XMEV - LOMC2300AG - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2300OC",
+        "tradingSymbol": "MERV - XMEV - LOMC2300OC - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2400AG",
+        "tradingSymbol": "MERV - XMEV - LOMC2400AG - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2400OC",
+        "tradingSymbol": "MERV - XMEV - LOMC2400OC - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2500AG",
+        "tradingSymbol": "MERV - XMEV - LOMC2500AG - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2500OC",
+        "tradingSymbol": "MERV - XMEV - LOMC2500OC - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2600AG",
+        "tradingSymbol": "MERV - XMEV - LOMC2600AG - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2600OC",
+        "tradingSymbol": "MERV - XMEV - LOMC2600OC - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2700AG",
+        "tradingSymbol": "MERV - XMEV - LOMC2700AG - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2700OC",
+        "tradingSymbol": "MERV - XMEV - LOMC2700OC - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2800AG",
+        "tradingSymbol": "MERV - XMEV - LOMC2800AG - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2800OC",
+        "tradingSymbol": "MERV - XMEV - LOMC2800OC - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2900AG",
+        "tradingSymbol": "MERV - XMEV - LOMC2900AG - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2900DI",
+        "tradingSymbol": "MERV - XMEV - LOMC2900DI - 24hs"
+    },
+    {
+        "symbolReference": "LOMC2900OC",
+        "tradingSymbol": "MERV - XMEV - LOMC2900OC - 24hs"
+    },
+    {
+        "symbolReference": "LOMC3000AG",
+        "tradingSymbol": "MERV - XMEV - LOMC3000AG - 24hs"
+    },
+    {
+        "symbolReference": "LOMC3000DI",
+        "tradingSymbol": "MERV - XMEV - LOMC3000DI - 24hs"
+    },
+    {
+        "symbolReference": "LOMC3000OC",
+        "tradingSymbol": "MERV - XMEV - LOMC3000OC - 24hs"
+    },
+    {
+        "symbolReference": "LOMC3100AG",
+        "tradingSymbol": "MERV - XMEV - LOMC3100AG - 24hs"
+    },
+    {
+        "symbolReference": "LOMC3100DI",
+        "tradingSymbol": "MERV - XMEV - LOMC3100DI - 24hs"
+    },
+    {
+        "symbolReference": "LOMC3100OC",
+        "tradingSymbol": "MERV - XMEV - LOMC3100OC - 24hs"
+    },
+    {
+        "symbolReference": "LOMC3200AG",
+        "tradingSymbol": "MERV - XMEV - LOMC3200AG - 24hs"
+    },
+    {
+        "symbolReference": "LOMC3200DI",
+        "tradingSymbol": "MERV - XMEV - LOMC3200DI - 24hs"
+    },
+    {
+        "symbolReference": "LOMC3200OC",
+        "tradingSymbol": "MERV - XMEV - LOMC3200OC - 24hs"
+    },
+    {
         "symbolReference": "LONG",
         "tradingSymbol": "MERV - XMEV - LONG - 24hs"
     },
@@ -9750,6 +15554,30 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "LYGC (CI)",
         "tradingSymbol": "MERV - XMEV - LYGC - CI"
+    },
+    {
+        "symbolReference": "M10N5",
+        "tradingSymbol": "MERV - XMEV - M10N5 - 24hs"
+    },
+    {
+        "symbolReference": "M10N5 (CI)",
+        "tradingSymbol": "MERV - XMEV - M10N5 - CI"
+    },
+    {
+        "symbolReference": "M13F6",
+        "tradingSymbol": "MERV - XMEV - M13F6 - 24hs"
+    },
+    {
+        "symbolReference": "M13F6 (CI)",
+        "tradingSymbol": "MERV - XMEV - M13F6 - CI"
+    },
+    {
+        "symbolReference": "M16E6",
+        "tradingSymbol": "MERV - XMEV - M16E6 - 24hs"
+    },
+    {
+        "symbolReference": "M16E6 (CI)",
+        "tradingSymbol": "MERV - XMEV - M16E6 - CI"
     },
     {
         "symbolReference": "MA",
@@ -9952,6 +15780,34 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - MDTD - CI"
     },
     {
+        "symbolReference": "MELC19000G",
+        "tradingSymbol": "MERV - XMEV - MELC19000G - 24hs"
+    },
+    {
+        "symbolReference": "MELC20000G",
+        "tradingSymbol": "MERV - XMEV - MELC20000G - 24hs"
+    },
+    {
+        "symbolReference": "MELC21000G",
+        "tradingSymbol": "MERV - XMEV - MELC21000G - 24hs"
+    },
+    {
+        "symbolReference": "MELC22000G",
+        "tradingSymbol": "MERV - XMEV - MELC22000G - 24hs"
+    },
+    {
+        "symbolReference": "MELC23000G",
+        "tradingSymbol": "MERV - XMEV - MELC23000G - 24hs"
+    },
+    {
+        "symbolReference": "MELC24000G",
+        "tradingSymbol": "MERV - XMEV - MELC24000G - 24hs"
+    },
+    {
+        "symbolReference": "MELC26000G",
+        "tradingSymbol": "MERV - XMEV - MELC26000G - 24hs"
+    },
+    {
         "symbolReference": "MELI",
         "tradingSymbol": "MERV - XMEV - MELI - 24hs"
     },
@@ -9974,6 +15830,42 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "MELID (CI)",
         "tradingSymbol": "MERV - XMEV - MELID - CI"
+    },
+    {
+        "symbolReference": "MELV19000G",
+        "tradingSymbol": "MERV - XMEV - MELV19000G - 24hs"
+    },
+    {
+        "symbolReference": "MELV20000G",
+        "tradingSymbol": "MERV - XMEV - MELV20000G - 24hs"
+    },
+    {
+        "symbolReference": "MELV21000G",
+        "tradingSymbol": "MERV - XMEV - MELV21000G - 24hs"
+    },
+    {
+        "symbolReference": "MELV22000G",
+        "tradingSymbol": "MERV - XMEV - MELV22000G - 24hs"
+    },
+    {
+        "symbolReference": "MELV23000G",
+        "tradingSymbol": "MERV - XMEV - MELV23000G - 24hs"
+    },
+    {
+        "symbolReference": "MELV24000G",
+        "tradingSymbol": "MERV - XMEV - MELV24000G - 24hs"
+    },
+    {
+        "symbolReference": "MELV25000G",
+        "tradingSymbol": "MERV - XMEV - MELV25000G - 24hs"
+    },
+    {
+        "symbolReference": "MELV26000G",
+        "tradingSymbol": "MERV - XMEV - MELV26000G - 24hs"
+    },
+    {
+        "symbolReference": "MELV27000G",
+        "tradingSymbol": "MERV - XMEV - MELV27000G - 24hs"
     },
     {
         "symbolReference": "META",
@@ -10000,6 +15892,190 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - METAD - CI"
     },
     {
+        "symbolReference": "METC1000AG",
+        "tradingSymbol": "MERV - XMEV - METC1000AG - 24hs"
+    },
+    {
+        "symbolReference": "METC1000OC",
+        "tradingSymbol": "MERV - XMEV - METC1000OC - 24hs"
+    },
+    {
+        "symbolReference": "METC1100AG",
+        "tradingSymbol": "MERV - XMEV - METC1100AG - 24hs"
+    },
+    {
+        "symbolReference": "METC1100OC",
+        "tradingSymbol": "MERV - XMEV - METC1100OC - 24hs"
+    },
+    {
+        "symbolReference": "METC1200AG",
+        "tradingSymbol": "MERV - XMEV - METC1200AG - 24hs"
+    },
+    {
+        "symbolReference": "METC1200OC",
+        "tradingSymbol": "MERV - XMEV - METC1200OC - 24hs"
+    },
+    {
+        "symbolReference": "METC1300AG",
+        "tradingSymbol": "MERV - XMEV - METC1300AG - 24hs"
+    },
+    {
+        "symbolReference": "METC1300OC",
+        "tradingSymbol": "MERV - XMEV - METC1300OC - 24hs"
+    },
+    {
+        "symbolReference": "METC1400AG",
+        "tradingSymbol": "MERV - XMEV - METC1400AG - 24hs"
+    },
+    {
+        "symbolReference": "METC1400OC",
+        "tradingSymbol": "MERV - XMEV - METC1400OC - 24hs"
+    },
+    {
+        "symbolReference": "METC1500AG",
+        "tradingSymbol": "MERV - XMEV - METC1500AG - 24hs"
+    },
+    {
+        "symbolReference": "METC1500DI",
+        "tradingSymbol": "MERV - XMEV - METC1500DI - 24hs"
+    },
+    {
+        "symbolReference": "METC1500OC",
+        "tradingSymbol": "MERV - XMEV - METC1500OC - 24hs"
+    },
+    {
+        "symbolReference": "METC1600AG",
+        "tradingSymbol": "MERV - XMEV - METC1600AG - 24hs"
+    },
+    {
+        "symbolReference": "METC1600OC",
+        "tradingSymbol": "MERV - XMEV - METC1600OC - 24hs"
+    },
+    {
+        "symbolReference": "METC1700AG",
+        "tradingSymbol": "MERV - XMEV - METC1700AG - 24hs"
+    },
+    {
+        "symbolReference": "METC1700OC",
+        "tradingSymbol": "MERV - XMEV - METC1700OC - 24hs"
+    },
+    {
+        "symbolReference": "METC1800AG",
+        "tradingSymbol": "MERV - XMEV - METC1800AG - 24hs"
+    },
+    {
+        "symbolReference": "METC1800OC",
+        "tradingSymbol": "MERV - XMEV - METC1800OC - 24hs"
+    },
+    {
+        "symbolReference": "METC1900AG",
+        "tradingSymbol": "MERV - XMEV - METC1900AG - 24hs"
+    },
+    {
+        "symbolReference": "METC1900OC",
+        "tradingSymbol": "MERV - XMEV - METC1900OC - 24hs"
+    },
+    {
+        "symbolReference": "METC2000AG",
+        "tradingSymbol": "MERV - XMEV - METC2000AG - 24hs"
+    },
+    {
+        "symbolReference": "METC2000OC",
+        "tradingSymbol": "MERV - XMEV - METC2000OC - 24hs"
+    },
+    {
+        "symbolReference": "METC2100AG",
+        "tradingSymbol": "MERV - XMEV - METC2100AG - 24hs"
+    },
+    {
+        "symbolReference": "METC2100OC",
+        "tradingSymbol": "MERV - XMEV - METC2100OC - 24hs"
+    },
+    {
+        "symbolReference": "METC2200AG",
+        "tradingSymbol": "MERV - XMEV - METC2200AG - 24hs"
+    },
+    {
+        "symbolReference": "METC2200OC",
+        "tradingSymbol": "MERV - XMEV - METC2200OC - 24hs"
+    },
+    {
+        "symbolReference": "METC2300AG",
+        "tradingSymbol": "MERV - XMEV - METC2300AG - 24hs"
+    },
+    {
+        "symbolReference": "METC2300OC",
+        "tradingSymbol": "MERV - XMEV - METC2300OC - 24hs"
+    },
+    {
+        "symbolReference": "METC2400AG",
+        "tradingSymbol": "MERV - XMEV - METC2400AG - 24hs"
+    },
+    {
+        "symbolReference": "METC2400OC",
+        "tradingSymbol": "MERV - XMEV - METC2400OC - 24hs"
+    },
+    {
+        "symbolReference": "METC2500AG",
+        "tradingSymbol": "MERV - XMEV - METC2500AG - 24hs"
+    },
+    {
+        "symbolReference": "METC2500OC",
+        "tradingSymbol": "MERV - XMEV - METC2500OC - 24hs"
+    },
+    {
+        "symbolReference": "METC2600AG",
+        "tradingSymbol": "MERV - XMEV - METC2600AG - 24hs"
+    },
+    {
+        "symbolReference": "METC2600DI",
+        "tradingSymbol": "MERV - XMEV - METC2600DI - 24hs"
+    },
+    {
+        "symbolReference": "METC2600OC",
+        "tradingSymbol": "MERV - XMEV - METC2600OC - 24hs"
+    },
+    {
+        "symbolReference": "METC2700AG",
+        "tradingSymbol": "MERV - XMEV - METC2700AG - 24hs"
+    },
+    {
+        "symbolReference": "METC2700OC",
+        "tradingSymbol": "MERV - XMEV - METC2700OC - 24hs"
+    },
+    {
+        "symbolReference": "METC2800AG",
+        "tradingSymbol": "MERV - XMEV - METC2800AG - 24hs"
+    },
+    {
+        "symbolReference": "METC2800DI",
+        "tradingSymbol": "MERV - XMEV - METC2800DI - 24hs"
+    },
+    {
+        "symbolReference": "METC2800OC",
+        "tradingSymbol": "MERV - XMEV - METC2800OC - 24hs"
+    },
+    {
+        "symbolReference": "METC2900AG",
+        "tradingSymbol": "MERV - XMEV - METC2900AG - 24hs"
+    },
+    {
+        "symbolReference": "METC2900OC",
+        "tradingSymbol": "MERV - XMEV - METC2900OC - 24hs"
+    },
+    {
+        "symbolReference": "METC3000AG",
+        "tradingSymbol": "MERV - XMEV - METC3000AG - 24hs"
+    },
+    {
+        "symbolReference": "METC3000OC",
+        "tradingSymbol": "MERV - XMEV - METC3000OC - 24hs"
+    },
+    {
+        "symbolReference": "METC3100AG",
+        "tradingSymbol": "MERV - XMEV - METC3100AG - 24hs"
+    },
+    {
         "symbolReference": "METR",
         "tradingSymbol": "MERV - XMEV - METR - 24hs"
     },
@@ -10014,6 +16090,210 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "METRD (CI)",
         "tradingSymbol": "MERV - XMEV - METRD - CI"
+    },
+    {
+        "symbolReference": "METV1000AG",
+        "tradingSymbol": "MERV - XMEV - METV1000AG - 24hs"
+    },
+    {
+        "symbolReference": "METV1000OC",
+        "tradingSymbol": "MERV - XMEV - METV1000OC - 24hs"
+    },
+    {
+        "symbolReference": "METV1100AG",
+        "tradingSymbol": "MERV - XMEV - METV1100AG - 24hs"
+    },
+    {
+        "symbolReference": "METV1100OC",
+        "tradingSymbol": "MERV - XMEV - METV1100OC - 24hs"
+    },
+    {
+        "symbolReference": "METV1200AG",
+        "tradingSymbol": "MERV - XMEV - METV1200AG - 24hs"
+    },
+    {
+        "symbolReference": "METV1200OC",
+        "tradingSymbol": "MERV - XMEV - METV1200OC - 24hs"
+    },
+    {
+        "symbolReference": "METV1300AG",
+        "tradingSymbol": "MERV - XMEV - METV1300AG - 24hs"
+    },
+    {
+        "symbolReference": "METV1300OC",
+        "tradingSymbol": "MERV - XMEV - METV1300OC - 24hs"
+    },
+    {
+        "symbolReference": "METV1400AG",
+        "tradingSymbol": "MERV - XMEV - METV1400AG - 24hs"
+    },
+    {
+        "symbolReference": "METV1400OC",
+        "tradingSymbol": "MERV - XMEV - METV1400OC - 24hs"
+    },
+    {
+        "symbolReference": "METV1500AG",
+        "tradingSymbol": "MERV - XMEV - METV1500AG - 24hs"
+    },
+    {
+        "symbolReference": "METV1500DI",
+        "tradingSymbol": "MERV - XMEV - METV1500DI - 24hs"
+    },
+    {
+        "symbolReference": "METV1500OC",
+        "tradingSymbol": "MERV - XMEV - METV1500OC - 24hs"
+    },
+    {
+        "symbolReference": "METV1600AG",
+        "tradingSymbol": "MERV - XMEV - METV1600AG - 24hs"
+    },
+    {
+        "symbolReference": "METV1600OC",
+        "tradingSymbol": "MERV - XMEV - METV1600OC - 24hs"
+    },
+    {
+        "symbolReference": "METV1700AG",
+        "tradingSymbol": "MERV - XMEV - METV1700AG - 24hs"
+    },
+    {
+        "symbolReference": "METV1700OC",
+        "tradingSymbol": "MERV - XMEV - METV1700OC - 24hs"
+    },
+    {
+        "symbolReference": "METV1800AG",
+        "tradingSymbol": "MERV - XMEV - METV1800AG - 24hs"
+    },
+    {
+        "symbolReference": "METV1800OC",
+        "tradingSymbol": "MERV - XMEV - METV1800OC - 24hs"
+    },
+    {
+        "symbolReference": "METV1900AG",
+        "tradingSymbol": "MERV - XMEV - METV1900AG - 24hs"
+    },
+    {
+        "symbolReference": "METV1900OC",
+        "tradingSymbol": "MERV - XMEV - METV1900OC - 24hs"
+    },
+    {
+        "symbolReference": "METV2000AG",
+        "tradingSymbol": "MERV - XMEV - METV2000AG - 24hs"
+    },
+    {
+        "symbolReference": "METV2000OC",
+        "tradingSymbol": "MERV - XMEV - METV2000OC - 24hs"
+    },
+    {
+        "symbolReference": "METV2100AG",
+        "tradingSymbol": "MERV - XMEV - METV2100AG - 24hs"
+    },
+    {
+        "symbolReference": "METV2100DI",
+        "tradingSymbol": "MERV - XMEV - METV2100DI - 24hs"
+    },
+    {
+        "symbolReference": "METV2100OC",
+        "tradingSymbol": "MERV - XMEV - METV2100OC - 24hs"
+    },
+    {
+        "symbolReference": "METV2200AG",
+        "tradingSymbol": "MERV - XMEV - METV2200AG - 24hs"
+    },
+    {
+        "symbolReference": "METV2200DI",
+        "tradingSymbol": "MERV - XMEV - METV2200DI - 24hs"
+    },
+    {
+        "symbolReference": "METV2200OC",
+        "tradingSymbol": "MERV - XMEV - METV2200OC - 24hs"
+    },
+    {
+        "symbolReference": "METV2300AG",
+        "tradingSymbol": "MERV - XMEV - METV2300AG - 24hs"
+    },
+    {
+        "symbolReference": "METV2300DI",
+        "tradingSymbol": "MERV - XMEV - METV2300DI - 24hs"
+    },
+    {
+        "symbolReference": "METV2300OC",
+        "tradingSymbol": "MERV - XMEV - METV2300OC - 24hs"
+    },
+    {
+        "symbolReference": "METV2400AG",
+        "tradingSymbol": "MERV - XMEV - METV2400AG - 24hs"
+    },
+    {
+        "symbolReference": "METV2400DI",
+        "tradingSymbol": "MERV - XMEV - METV2400DI - 24hs"
+    },
+    {
+        "symbolReference": "METV2400OC",
+        "tradingSymbol": "MERV - XMEV - METV2400OC - 24hs"
+    },
+    {
+        "symbolReference": "METV2500AG",
+        "tradingSymbol": "MERV - XMEV - METV2500AG - 24hs"
+    },
+    {
+        "symbolReference": "METV2500DI",
+        "tradingSymbol": "MERV - XMEV - METV2500DI - 24hs"
+    },
+    {
+        "symbolReference": "METV2500OC",
+        "tradingSymbol": "MERV - XMEV - METV2500OC - 24hs"
+    },
+    {
+        "symbolReference": "METV2600AG",
+        "tradingSymbol": "MERV - XMEV - METV2600AG - 24hs"
+    },
+    {
+        "symbolReference": "METV2600DI",
+        "tradingSymbol": "MERV - XMEV - METV2600DI - 24hs"
+    },
+    {
+        "symbolReference": "METV2600OC",
+        "tradingSymbol": "MERV - XMEV - METV2600OC - 24hs"
+    },
+    {
+        "symbolReference": "METV2700AG",
+        "tradingSymbol": "MERV - XMEV - METV2700AG - 24hs"
+    },
+    {
+        "symbolReference": "METV2700OC",
+        "tradingSymbol": "MERV - XMEV - METV2700OC - 24hs"
+    },
+    {
+        "symbolReference": "METV2800AG",
+        "tradingSymbol": "MERV - XMEV - METV2800AG - 24hs"
+    },
+    {
+        "symbolReference": "METV2800DI",
+        "tradingSymbol": "MERV - XMEV - METV2800DI - 24hs"
+    },
+    {
+        "symbolReference": "METV2800OC",
+        "tradingSymbol": "MERV - XMEV - METV2800OC - 24hs"
+    },
+    {
+        "symbolReference": "METV2900AG",
+        "tradingSymbol": "MERV - XMEV - METV2900AG - 24hs"
+    },
+    {
+        "symbolReference": "METV2900OC",
+        "tradingSymbol": "MERV - XMEV - METV2900OC - 24hs"
+    },
+    {
+        "symbolReference": "METV3000AG",
+        "tradingSymbol": "MERV - XMEV - METV3000AG - 24hs"
+    },
+    {
+        "symbolReference": "METV3000OC",
+        "tradingSymbol": "MERV - XMEV - METV3000OC - 24hs"
+    },
+    {
+        "symbolReference": "METV3100AG",
+        "tradingSymbol": "MERV - XMEV - METV3100AG - 24hs"
     },
     {
         "symbolReference": "MFG",
@@ -10312,6 +16592,78 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - MIC2O - CI"
     },
     {
+        "symbolReference": "MIRC21000G",
+        "tradingSymbol": "MERV - XMEV - MIRC21000G - 24hs"
+    },
+    {
+        "symbolReference": "MIRC21000O",
+        "tradingSymbol": "MERV - XMEV - MIRC21000O - 24hs"
+    },
+    {
+        "symbolReference": "MIRC22000G",
+        "tradingSymbol": "MERV - XMEV - MIRC22000G - 24hs"
+    },
+    {
+        "symbolReference": "MIRC22000O",
+        "tradingSymbol": "MERV - XMEV - MIRC22000O - 24hs"
+    },
+    {
+        "symbolReference": "MIRC23000G",
+        "tradingSymbol": "MERV - XMEV - MIRC23000G - 24hs"
+    },
+    {
+        "symbolReference": "MIRC23000O",
+        "tradingSymbol": "MERV - XMEV - MIRC23000O - 24hs"
+    },
+    {
+        "symbolReference": "MIRC24000G",
+        "tradingSymbol": "MERV - XMEV - MIRC24000G - 24hs"
+    },
+    {
+        "symbolReference": "MIRC24000O",
+        "tradingSymbol": "MERV - XMEV - MIRC24000O - 24hs"
+    },
+    {
+        "symbolReference": "MIRC25000G",
+        "tradingSymbol": "MERV - XMEV - MIRC25000G - 24hs"
+    },
+    {
+        "symbolReference": "MIRC25000O",
+        "tradingSymbol": "MERV - XMEV - MIRC25000O - 24hs"
+    },
+    {
+        "symbolReference": "MIRC26000G",
+        "tradingSymbol": "MERV - XMEV - MIRC26000G - 24hs"
+    },
+    {
+        "symbolReference": "MIRC26000O",
+        "tradingSymbol": "MERV - XMEV - MIRC26000O - 24hs"
+    },
+    {
+        "symbolReference": "MIRC27000G",
+        "tradingSymbol": "MERV - XMEV - MIRC27000G - 24hs"
+    },
+    {
+        "symbolReference": "MIRC27000O",
+        "tradingSymbol": "MERV - XMEV - MIRC27000O - 24hs"
+    },
+    {
+        "symbolReference": "MIRC28000O",
+        "tradingSymbol": "MERV - XMEV - MIRC28000O - 24hs"
+    },
+    {
+        "symbolReference": "MIRC28000g",
+        "tradingSymbol": "MERV - XMEV - MIRC28000g - 24hs"
+    },
+    {
+        "symbolReference": "MIRC29000G",
+        "tradingSymbol": "MERV - XMEV - MIRC29000G - 24hs"
+    },
+    {
+        "symbolReference": "MIRC29000O",
+        "tradingSymbol": "MERV - XMEV - MIRC29000O - 24hs"
+    },
+    {
         "symbolReference": "MIRG",
         "tradingSymbol": "MERV - XMEV - MIRG - 24hs"
     },
@@ -10422,6 +16774,18 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "MOLA5 (CI)",
         "tradingSymbol": "MERV - XMEV - MOLA5 - CI"
+    },
+    {
+        "symbolReference": "MOLC3800AG",
+        "tradingSymbol": "MERV - XMEV - MOLC3800AG - 24hs"
+    },
+    {
+        "symbolReference": "MOLC4000AG",
+        "tradingSymbol": "MERV - XMEV - MOLC4000AG - 24hs"
+    },
+    {
+        "symbolReference": "MOLC4200AG",
+        "tradingSymbol": "MERV - XMEV - MOLC4200AG - 24hs"
     },
     {
         "symbolReference": "MOLI",
@@ -10936,6 +17300,38 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - MRVLD - CI"
     },
     {
+        "symbolReference": "MSFC12000G",
+        "tradingSymbol": "MERV - XMEV - MSFC12000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFC13000G",
+        "tradingSymbol": "MERV - XMEV - MSFC13000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFC14000G",
+        "tradingSymbol": "MERV - XMEV - MSFC14000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFC15000G",
+        "tradingSymbol": "MERV - XMEV - MSFC15000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFC16000G",
+        "tradingSymbol": "MERV - XMEV - MSFC16000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFC18000G",
+        "tradingSymbol": "MERV - XMEV - MSFC18000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFC20000G",
+        "tradingSymbol": "MERV - XMEV - MSFC20000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFC22000G",
+        "tradingSymbol": "MERV - XMEV - MSFC22000G - 24hs"
+    },
+    {
         "symbolReference": "MSFT",
         "tradingSymbol": "MERV - XMEV - MSFT - 24hs"
     },
@@ -10958,6 +17354,38 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "MSFTD (CI)",
         "tradingSymbol": "MERV - XMEV - MSFTD - CI"
+    },
+    {
+        "symbolReference": "MSFV12000G",
+        "tradingSymbol": "MERV - XMEV - MSFV12000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFV13000G",
+        "tradingSymbol": "MERV - XMEV - MSFV13000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFV14000G",
+        "tradingSymbol": "MERV - XMEV - MSFV14000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFV15000G",
+        "tradingSymbol": "MERV - XMEV - MSFV15000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFV16000G",
+        "tradingSymbol": "MERV - XMEV - MSFV16000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFV18000G",
+        "tradingSymbol": "MERV - XMEV - MSFV18000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFV20000G",
+        "tradingSymbol": "MERV - XMEV - MSFV20000G - 24hs"
+    },
+    {
+        "symbolReference": "MSFV22000G",
+        "tradingSymbol": "MERV - XMEV - MSFV22000G - 24hs"
     },
     {
         "symbolReference": "MSI",
@@ -11054,6 +17482,70 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "MSTRD (CI)",
         "tradingSymbol": "MERV - XMEV - MSTRD - CI"
+    },
+    {
+        "symbolReference": "MTAC25000G",
+        "tradingSymbol": "MERV - XMEV - MTAC25000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAC26000G",
+        "tradingSymbol": "MERV - XMEV - MTAC26000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAC27000G",
+        "tradingSymbol": "MERV - XMEV - MTAC27000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAC30000G",
+        "tradingSymbol": "MERV - XMEV - MTAC30000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAC32000G",
+        "tradingSymbol": "MERV - XMEV - MTAC32000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAC34000G",
+        "tradingSymbol": "MERV - XMEV - MTAC34000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAC36000G",
+        "tradingSymbol": "MERV - XMEV - MTAC36000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAC38000G",
+        "tradingSymbol": "MERV - XMEV - MTAC38000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAV25000G",
+        "tradingSymbol": "MERV - XMEV - MTAV25000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAV26000G",
+        "tradingSymbol": "MERV - XMEV - MTAV26000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAV27000G",
+        "tradingSymbol": "MERV - XMEV - MTAV27000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAV30000G",
+        "tradingSymbol": "MERV - XMEV - MTAV30000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAV32000G",
+        "tradingSymbol": "MERV - XMEV - MTAV32000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAV34000G",
+        "tradingSymbol": "MERV - XMEV - MTAV34000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAV36000G",
+        "tradingSymbol": "MERV - XMEV - MTAV36000G - 24hs"
+    },
+    {
+        "symbolReference": "MTAV38000G",
+        "tradingSymbol": "MERV - XMEV - MTAV38000G - 24hs"
     },
     {
         "symbolReference": "MTCGC",
@@ -12192,6 +18684,122 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - PAGSD - CI"
     },
     {
+        "symbolReference": "PAMC2400AG",
+        "tradingSymbol": "MERV - XMEV - PAMC2400AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC2400DI",
+        "tradingSymbol": "MERV - XMEV - PAMC2400DI - 24hs"
+    },
+    {
+        "symbolReference": "PAMC2400OC",
+        "tradingSymbol": "MERV - XMEV - PAMC2400OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMC3000AG",
+        "tradingSymbol": "MERV - XMEV - PAMC3000AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC3000DI",
+        "tradingSymbol": "MERV - XMEV - PAMC3000DI - 24hs"
+    },
+    {
+        "symbolReference": "PAMC3000OC",
+        "tradingSymbol": "MERV - XMEV - PAMC3000OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMC3200AG",
+        "tradingSymbol": "MERV - XMEV - PAMC3200AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC3300AG",
+        "tradingSymbol": "MERV - XMEV - PAMC3300AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC3400AG",
+        "tradingSymbol": "MERV - XMEV - PAMC3400AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC3500AG",
+        "tradingSymbol": "MERV - XMEV - PAMC3500AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC3700AG",
+        "tradingSymbol": "MERV - XMEV - PAMC3700AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC3700OC",
+        "tradingSymbol": "MERV - XMEV - PAMC3700OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMC3900AG",
+        "tradingSymbol": "MERV - XMEV - PAMC3900AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC3900OC",
+        "tradingSymbol": "MERV - XMEV - PAMC3900OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4100AG",
+        "tradingSymbol": "MERV - XMEV - PAMC4100AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4100OC",
+        "tradingSymbol": "MERV - XMEV - PAMC4100OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4300AG",
+        "tradingSymbol": "MERV - XMEV - PAMC4300AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4300DI",
+        "tradingSymbol": "MERV - XMEV - PAMC4300DI - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4300OC",
+        "tradingSymbol": "MERV - XMEV - PAMC4300OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4500AG",
+        "tradingSymbol": "MERV - XMEV - PAMC4500AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4500DI",
+        "tradingSymbol": "MERV - XMEV - PAMC4500DI - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4500OC",
+        "tradingSymbol": "MERV - XMEV - PAMC4500OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4700AG",
+        "tradingSymbol": "MERV - XMEV - PAMC4700AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4700DI",
+        "tradingSymbol": "MERV - XMEV - PAMC4700DI - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4700OC",
+        "tradingSymbol": "MERV - XMEV - PAMC4700OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMC4900AG",
+        "tradingSymbol": "MERV - XMEV - PAMC4900AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC5100AG",
+        "tradingSymbol": "MERV - XMEV - PAMC5100AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC5300AG",
+        "tradingSymbol": "MERV - XMEV - PAMC5300AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMC5500AG",
+        "tradingSymbol": "MERV - XMEV - PAMC5500AG - 24hs"
+    },
+    {
         "symbolReference": "PAMP",
         "tradingSymbol": "MERV - XMEV - PAMP - 24hs"
     },
@@ -12214,6 +18822,122 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "PAMPD (CI)",
         "tradingSymbol": "MERV - XMEV - PAMPD - CI"
+    },
+    {
+        "symbolReference": "PAMV2400AG",
+        "tradingSymbol": "MERV - XMEV - PAMV2400AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV2400DI",
+        "tradingSymbol": "MERV - XMEV - PAMV2400DI - 24hs"
+    },
+    {
+        "symbolReference": "PAMV2400OC",
+        "tradingSymbol": "MERV - XMEV - PAMV2400OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMV3000AG",
+        "tradingSymbol": "MERV - XMEV - PAMV3000AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV3000DI",
+        "tradingSymbol": "MERV - XMEV - PAMV3000DI - 24hs"
+    },
+    {
+        "symbolReference": "PAMV3000OC",
+        "tradingSymbol": "MERV - XMEV - PAMV3000OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMV3200AG",
+        "tradingSymbol": "MERV - XMEV - PAMV3200AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV3300AG",
+        "tradingSymbol": "MERV - XMEV - PAMV3300AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV3400AG",
+        "tradingSymbol": "MERV - XMEV - PAMV3400AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV3500AG",
+        "tradingSymbol": "MERV - XMEV - PAMV3500AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV3700AG",
+        "tradingSymbol": "MERV - XMEV - PAMV3700AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV3700OC",
+        "tradingSymbol": "MERV - XMEV - PAMV3700OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMV3900AG",
+        "tradingSymbol": "MERV - XMEV - PAMV3900AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV3900OC",
+        "tradingSymbol": "MERV - XMEV - PAMV3900OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4100AG",
+        "tradingSymbol": "MERV - XMEV - PAMV4100AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4100OC",
+        "tradingSymbol": "MERV - XMEV - PAMV4100OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4300AG",
+        "tradingSymbol": "MERV - XMEV - PAMV4300AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4300DI",
+        "tradingSymbol": "MERV - XMEV - PAMV4300DI - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4300OC",
+        "tradingSymbol": "MERV - XMEV - PAMV4300OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4500AG",
+        "tradingSymbol": "MERV - XMEV - PAMV4500AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4500DI",
+        "tradingSymbol": "MERV - XMEV - PAMV4500DI - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4500OC",
+        "tradingSymbol": "MERV - XMEV - PAMV4500OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4700AG",
+        "tradingSymbol": "MERV - XMEV - PAMV4700AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4700DI",
+        "tradingSymbol": "MERV - XMEV - PAMV4700DI - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4700OC",
+        "tradingSymbol": "MERV - XMEV - PAMV4700OC - 24hs"
+    },
+    {
+        "symbolReference": "PAMV4900AG",
+        "tradingSymbol": "MERV - XMEV - PAMV4900AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV5100AG",
+        "tradingSymbol": "MERV - XMEV - PAMV5100AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV5300AG",
+        "tradingSymbol": "MERV - XMEV - PAMV5300AG - 24hs"
+    },
+    {
+        "symbolReference": "PAMV5500AG",
+        "tradingSymbol": "MERV - XMEV - PAMV5500AG - 24hs"
     },
     {
         "symbolReference": "PANW",
@@ -12694,6 +19418,426 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "PEPD (CI)",
         "tradingSymbol": "MERV - XMEV - PEPD - CI"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 133D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 130D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 99D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 92D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 93D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 94D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 136D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 137D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 91D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 119D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 120D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 126D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 108D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 107D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 109D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 116D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 115D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 114D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 113D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 106D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 105D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 100D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 102D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 101D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 56D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 57D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 58D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 59D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 52D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 4D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 53D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 7D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 8D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 9D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 50D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 51D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 1D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 2D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 3D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 64D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 65D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 66D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 67D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 60D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 63D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 77D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 78D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 79D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 72D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 73D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 74D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 70D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 71D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 88D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 84D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 85D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 86D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 87D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 80D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 81D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 16D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 17D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 18D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 14D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 15D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 10D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 11D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 28D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 29D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 24D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 25D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 21D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 22D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 23D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 36D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 37D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 38D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 39D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 32D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 35D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 30D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 31D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 49D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 44D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 45D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 46D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 42D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 43D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 172D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 171D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 179D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 175D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 178D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 161D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 168D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 164D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 165D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 150D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 158D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 157D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 151D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 154D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 144D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 143D"
+    },
+    {
+        "symbolReference": "PESOS (CI)",
+        "tradingSymbol": "MERV - XMEV - PESOS - 140D"
     },
     {
         "symbolReference": "PETR3",
@@ -13944,12 +21088,60 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - QQQC - CI"
     },
     {
+        "symbolReference": "QQQC26000G",
+        "tradingSymbol": "MERV - XMEV - QQQC26000G - 24hs"
+    },
+    {
+        "symbolReference": "QQQC28000G",
+        "tradingSymbol": "MERV - XMEV - QQQC28000G - 24hs"
+    },
+    {
+        "symbolReference": "QQQC30000G",
+        "tradingSymbol": "MERV - XMEV - QQQC30000G - 24hs"
+    },
+    {
+        "symbolReference": "QQQC32000G",
+        "tradingSymbol": "MERV - XMEV - QQQC32000G - 24hs"
+    },
+    {
+        "symbolReference": "QQQC34000G",
+        "tradingSymbol": "MERV - XMEV - QQQC34000G - 24hs"
+    },
+    {
+        "symbolReference": "QQQC36000G",
+        "tradingSymbol": "MERV - XMEV - QQQC36000G - 24hs"
+    },
+    {
         "symbolReference": "QQQD",
         "tradingSymbol": "MERV - XMEV - QQQD - 24hs"
     },
     {
         "symbolReference": "QQQD (CI)",
         "tradingSymbol": "MERV - XMEV - QQQD - CI"
+    },
+    {
+        "symbolReference": "QQQV26000G",
+        "tradingSymbol": "MERV - XMEV - QQQV26000G - 24hs"
+    },
+    {
+        "symbolReference": "QQQV28000G",
+        "tradingSymbol": "MERV - XMEV - QQQV28000G - 24hs"
+    },
+    {
+        "symbolReference": "QQQV30000G",
+        "tradingSymbol": "MERV - XMEV - QQQV30000G - 24hs"
+    },
+    {
+        "symbolReference": "QQQV32000G",
+        "tradingSymbol": "MERV - XMEV - QQQV32000G - 24hs"
+    },
+    {
+        "symbolReference": "QQQV34000G",
+        "tradingSymbol": "MERV - XMEV - QQQV34000G - 24hs"
+    },
+    {
+        "symbolReference": "QQQV36000G",
+        "tradingSymbol": "MERV - XMEV - QQQV36000G - 24hs"
     },
     {
         "symbolReference": "RAC4C",
@@ -14800,6 +21992,38 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - RZABO - CI"
     },
     {
+        "symbolReference": "S10N5",
+        "tradingSymbol": "MERV - XMEV - S10N5 - 24hs"
+    },
+    {
+        "symbolReference": "S10N5 (CI)",
+        "tradingSymbol": "MERV - XMEV - S10N5 - CI"
+    },
+    {
+        "symbolReference": "S12S5",
+        "tradingSymbol": "MERV - XMEV - S12S5 - 24hs"
+    },
+    {
+        "symbolReference": "S12S5 (CI)",
+        "tradingSymbol": "MERV - XMEV - S12S5 - CI"
+    },
+    {
+        "symbolReference": "S15G5",
+        "tradingSymbol": "MERV - XMEV - S15G5 - 24hs"
+    },
+    {
+        "symbolReference": "S15G5 (CI)",
+        "tradingSymbol": "MERV - XMEV - S15G5 - CI"
+    },
+    {
+        "symbolReference": "S16E6",
+        "tradingSymbol": "MERV - XMEV - S16E6 - 24hs"
+    },
+    {
+        "symbolReference": "S16E6 (CI)",
+        "tradingSymbol": "MERV - XMEV - S16E6 - CI"
+    },
+    {
         "symbolReference": "S24DC",
         "tradingSymbol": "MERV - XMEV - S24DC - 24hs"
     },
@@ -14814,6 +22038,62 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "S24DD (CI)",
         "tradingSymbol": "MERV - XMEV - S24DD - CI"
+    },
+    {
+        "symbolReference": "S28N5",
+        "tradingSymbol": "MERV - XMEV - S28N5 - 24hs"
+    },
+    {
+        "symbolReference": "S28N5 (CI)",
+        "tradingSymbol": "MERV - XMEV - S28N5 - CI"
+    },
+    {
+        "symbolReference": "S29G5",
+        "tradingSymbol": "MERV - XMEV - S29G5 - 24hs"
+    },
+    {
+        "symbolReference": "S29G5 (CI)",
+        "tradingSymbol": "MERV - XMEV - S29G5 - CI"
+    },
+    {
+        "symbolReference": "S29Y6",
+        "tradingSymbol": "MERV - XMEV - S29Y6 - 24hs"
+    },
+    {
+        "symbolReference": "S29Y6 (CI)",
+        "tradingSymbol": "MERV - XMEV - S29Y6 - CI"
+    },
+    {
+        "symbolReference": "S2G5C",
+        "tradingSymbol": "MERV - XMEV - S2G5C - 24hs"
+    },
+    {
+        "symbolReference": "S2G5C (CI)",
+        "tradingSymbol": "MERV - XMEV - S2G5C - CI"
+    },
+    {
+        "symbolReference": "S2G5D",
+        "tradingSymbol": "MERV - XMEV - S2G5D - 24hs"
+    },
+    {
+        "symbolReference": "S2G5D (CI)",
+        "tradingSymbol": "MERV - XMEV - S2G5D - CI"
+    },
+    {
+        "symbolReference": "S30S5",
+        "tradingSymbol": "MERV - XMEV - S30S5 - 24hs"
+    },
+    {
+        "symbolReference": "S30S5 (CI)",
+        "tradingSymbol": "MERV - XMEV - S30S5 - CI"
+    },
+    {
+        "symbolReference": "S31O5",
+        "tradingSymbol": "MERV - XMEV - S31O5 - 24hs"
+    },
+    {
+        "symbolReference": "S31O5 (CI)",
+        "tradingSymbol": "MERV - XMEV - S31O5 - CI"
     },
     {
         "symbolReference": "SA24D",
@@ -15080,6 +22360,14 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - SFN27 - CI"
     },
     {
+        "symbolReference": "SG5D",
+        "tradingSymbol": "MERV - XMEV - SG5D - 24hs"
+    },
+    {
+        "symbolReference": "SG5D (CI)",
+        "tradingSymbol": "MERV - XMEV - SG5D - CI"
+    },
+    {
         "symbolReference": "SH",
         "tradingSymbol": "MERV - XMEV - SH - 24hs"
     },
@@ -15336,6 +22624,22 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - SMSN - CI"
     },
     {
+        "symbolReference": "SN5C",
+        "tradingSymbol": "MERV - XMEV - SN5C - 24hs"
+    },
+    {
+        "symbolReference": "SN5C (CI)",
+        "tradingSymbol": "MERV - XMEV - SN5C - CI"
+    },
+    {
+        "symbolReference": "SN5D",
+        "tradingSymbol": "MERV - XMEV - SN5D - 24hs"
+    },
+    {
+        "symbolReference": "SN5D (CI)",
+        "tradingSymbol": "MERV - XMEV - SN5D - CI"
+    },
+    {
         "symbolReference": "SNA",
         "tradingSymbol": "MERV - XMEV - SNA - 24hs"
     },
@@ -15478,6 +22782,22 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "SNSDO (CI)",
         "tradingSymbol": "MERV - XMEV - SNSDO - CI"
+    },
+    {
+        "symbolReference": "SO5C",
+        "tradingSymbol": "MERV - XMEV - SO5C - 24hs"
+    },
+    {
+        "symbolReference": "SO5C (CI)",
+        "tradingSymbol": "MERV - XMEV - SO5C - CI"
+    },
+    {
+        "symbolReference": "SO5D",
+        "tradingSymbol": "MERV - XMEV - SO5D - 24hs"
+    },
+    {
+        "symbolReference": "SO5D (CI)",
+        "tradingSymbol": "MERV - XMEV - SO5D - CI"
     },
     {
         "symbolReference": "SOC3D",
@@ -15656,12 +22976,68 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - SPYC - CI"
     },
     {
+        "symbolReference": "SPYC29000G",
+        "tradingSymbol": "MERV - XMEV - SPYC29000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYC30000G",
+        "tradingSymbol": "MERV - XMEV - SPYC30000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYC31000G",
+        "tradingSymbol": "MERV - XMEV - SPYC31000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYC32000G",
+        "tradingSymbol": "MERV - XMEV - SPYC32000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYC33000G",
+        "tradingSymbol": "MERV - XMEV - SPYC33000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYC34000G",
+        "tradingSymbol": "MERV - XMEV - SPYC34000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYC35000G",
+        "tradingSymbol": "MERV - XMEV - SPYC35000G - 24hs"
+    },
+    {
         "symbolReference": "SPYD",
         "tradingSymbol": "MERV - XMEV - SPYD - 24hs"
     },
     {
         "symbolReference": "SPYD (CI)",
         "tradingSymbol": "MERV - XMEV - SPYD - CI"
+    },
+    {
+        "symbolReference": "SPYV29000G",
+        "tradingSymbol": "MERV - XMEV - SPYV29000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYV30000G",
+        "tradingSymbol": "MERV - XMEV - SPYV30000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYV31000G",
+        "tradingSymbol": "MERV - XMEV - SPYV31000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYV32000G",
+        "tradingSymbol": "MERV - XMEV - SPYV32000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYV33000G",
+        "tradingSymbol": "MERV - XMEV - SPYV33000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYV34000G",
+        "tradingSymbol": "MERV - XMEV - SPYV34000G - 24hs"
+    },
+    {
+        "symbolReference": "SPYV35000G",
+        "tradingSymbol": "MERV - XMEV - SPYV35000G - 24hs"
     },
     {
         "symbolReference": "SQ",
@@ -15686,6 +23062,14 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "SQD (CI)",
         "tradingSymbol": "MERV - XMEV - SQD - CI"
+    },
+    {
+        "symbolReference": "SS5D",
+        "tradingSymbol": "MERV - XMEV - SS5D - 24hs"
+    },
+    {
+        "symbolReference": "SS5D (CI)",
+        "tradingSymbol": "MERV - XMEV - SS5D - CI"
     },
     {
         "symbolReference": "STLA",
@@ -15736,12 +23120,188 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - STNED - CI"
     },
     {
+        "symbolReference": "SUPC3000AG",
+        "tradingSymbol": "MERV - XMEV - SUPC3000AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3000DI",
+        "tradingSymbol": "MERV - XMEV - SUPC3000DI - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3000OC",
+        "tradingSymbol": "MERV - XMEV - SUPC3000OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3138AG",
+        "tradingSymbol": "MERV - XMEV - SUPC3138AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3200AG",
+        "tradingSymbol": "MERV - XMEV - SUPC3200AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3200DI",
+        "tradingSymbol": "MERV - XMEV - SUPC3200DI - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3200OC",
+        "tradingSymbol": "MERV - XMEV - SUPC3200OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3338AG",
+        "tradingSymbol": "MERV - XMEV - SUPC3338AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3400AG",
+        "tradingSymbol": "MERV - XMEV - SUPC3400AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3400DI",
+        "tradingSymbol": "MERV - XMEV - SUPC3400DI - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3400OC",
+        "tradingSymbol": "MERV - XMEV - SUPC3400OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3600AG",
+        "tradingSymbol": "MERV - XMEV - SUPC3600AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3600DI",
+        "tradingSymbol": "MERV - XMEV - SUPC3600DI - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3600OC",
+        "tradingSymbol": "MERV - XMEV - SUPC3600OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3800AG",
+        "tradingSymbol": "MERV - XMEV - SUPC3800AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3800DI",
+        "tradingSymbol": "MERV - XMEV - SUPC3800DI - 24hs"
+    },
+    {
+        "symbolReference": "SUPC3800OC",
+        "tradingSymbol": "MERV - XMEV - SUPC3800OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPC4000AG",
+        "tradingSymbol": "MERV - XMEV - SUPC4000AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPC4000DI",
+        "tradingSymbol": "MERV - XMEV - SUPC4000DI - 24hs"
+    },
+    {
+        "symbolReference": "SUPC4000OC",
+        "tradingSymbol": "MERV - XMEV - SUPC4000OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPC4200AG",
+        "tradingSymbol": "MERV - XMEV - SUPC4200AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPC4200DI",
+        "tradingSymbol": "MERV - XMEV - SUPC4200DI - 24hs"
+    },
+    {
+        "symbolReference": "SUPC4200OC",
+        "tradingSymbol": "MERV - XMEV - SUPC4200OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPC4400AG",
+        "tradingSymbol": "MERV - XMEV - SUPC4400AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPC4400DI",
+        "tradingSymbol": "MERV - XMEV - SUPC4400DI - 24hs"
+    },
+    {
+        "symbolReference": "SUPC4400OC",
+        "tradingSymbol": "MERV - XMEV - SUPC4400OC - 24hs"
+    },
+    {
         "symbolReference": "SUPV",
         "tradingSymbol": "MERV - XMEV - SUPV - 24hs"
     },
     {
         "symbolReference": "SUPV (CI)",
         "tradingSymbol": "MERV - XMEV - SUPV - CI"
+    },
+    {
+        "symbolReference": "SUPV3000AG",
+        "tradingSymbol": "MERV - XMEV - SUPV3000AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPV3000OC",
+        "tradingSymbol": "MERV - XMEV - SUPV3000OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPV3138AG",
+        "tradingSymbol": "MERV - XMEV - SUPV3138AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPV3200AG",
+        "tradingSymbol": "MERV - XMEV - SUPV3200AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPV3200OC",
+        "tradingSymbol": "MERV - XMEV - SUPV3200OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPV3338AG",
+        "tradingSymbol": "MERV - XMEV - SUPV3338AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPV3400AG",
+        "tradingSymbol": "MERV - XMEV - SUPV3400AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPV3400OC",
+        "tradingSymbol": "MERV - XMEV - SUPV3400OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPV3600AG",
+        "tradingSymbol": "MERV - XMEV - SUPV3600AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPV3600OC",
+        "tradingSymbol": "MERV - XMEV - SUPV3600OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPV3800AG",
+        "tradingSymbol": "MERV - XMEV - SUPV3800AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPV3800OC",
+        "tradingSymbol": "MERV - XMEV - SUPV3800OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPV4000AG",
+        "tradingSymbol": "MERV - XMEV - SUPV4000AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPV4000OC",
+        "tradingSymbol": "MERV - XMEV - SUPV4000OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPV4200AG",
+        "tradingSymbol": "MERV - XMEV - SUPV4200AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPV4200OC",
+        "tradingSymbol": "MERV - XMEV - SUPV4200OC - 24hs"
+    },
+    {
+        "symbolReference": "SUPV4400AG",
+        "tradingSymbol": "MERV - XMEV - SUPV4400AG - 24hs"
+    },
+    {
+        "symbolReference": "SUPV4400OC",
+        "tradingSymbol": "MERV - XMEV - SUPV4400OC - 24hs"
     },
     {
         "symbolReference": "SUPVD",
@@ -16152,6 +23712,54 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - TEAMD - CI"
     },
     {
+        "symbolReference": "TECC2600AG",
+        "tradingSymbol": "MERV - XMEV - TECC2600AG - 24hs"
+    },
+    {
+        "symbolReference": "TECC2600DI",
+        "tradingSymbol": "MERV - XMEV - TECC2600DI - 24hs"
+    },
+    {
+        "symbolReference": "TECC2800AG",
+        "tradingSymbol": "MERV - XMEV - TECC2800AG - 24hs"
+    },
+    {
+        "symbolReference": "TECC2800DI",
+        "tradingSymbol": "MERV - XMEV - TECC2800DI - 24hs"
+    },
+    {
+        "symbolReference": "TECC3000AG",
+        "tradingSymbol": "MERV - XMEV - TECC3000AG - 24hs"
+    },
+    {
+        "symbolReference": "TECC3000DI",
+        "tradingSymbol": "MERV - XMEV - TECC3000DI - 24hs"
+    },
+    {
+        "symbolReference": "TECC3200AG",
+        "tradingSymbol": "MERV - XMEV - TECC3200AG - 24hs"
+    },
+    {
+        "symbolReference": "TECC3200DI",
+        "tradingSymbol": "MERV - XMEV - TECC3200DI - 24hs"
+    },
+    {
+        "symbolReference": "TECC3400AG",
+        "tradingSymbol": "MERV - XMEV - TECC3400AG - 24hs"
+    },
+    {
+        "symbolReference": "TECC3400DI",
+        "tradingSymbol": "MERV - XMEV - TECC3400DI - 24hs"
+    },
+    {
+        "symbolReference": "TECC3600AG",
+        "tradingSymbol": "MERV - XMEV - TECC3600AG - 24hs"
+    },
+    {
+        "symbolReference": "TECC3600DI",
+        "tradingSymbol": "MERV - XMEV - TECC3600DI - 24hs"
+    },
+    {
         "symbolReference": "TECO2",
         "tradingSymbol": "MERV - XMEV - TECO2 - 24hs"
     },
@@ -16304,12 +23912,236 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - TGN4D - CI"
     },
     {
+        "symbolReference": "TGNC33852G",
+        "tradingSymbol": "MERV - XMEV - TGNC33852G - 24hs"
+    },
+    {
+        "symbolReference": "TGNC3600AG",
+        "tradingSymbol": "MERV - XMEV - TGNC3600AG - 24hs"
+    },
+    {
+        "symbolReference": "TGNC3600OC",
+        "tradingSymbol": "MERV - XMEV - TGNC3600OC - 24hs"
+    },
+    {
+        "symbolReference": "TGNC3800AG",
+        "tradingSymbol": "MERV - XMEV - TGNC3800AG - 24hs"
+    },
+    {
+        "symbolReference": "TGNC3800OC",
+        "tradingSymbol": "MERV - XMEV - TGNC3800OC - 24hs"
+    },
+    {
+        "symbolReference": "TGNC39852G",
+        "tradingSymbol": "MERV - XMEV - TGNC39852G - 24hs"
+    },
+    {
+        "symbolReference": "TGNC4000AG",
+        "tradingSymbol": "MERV - XMEV - TGNC4000AG - 24hs"
+    },
+    {
+        "symbolReference": "TGNC4000OC",
+        "tradingSymbol": "MERV - XMEV - TGNC4000OC - 24hs"
+    },
+    {
+        "symbolReference": "TGNC41852G",
+        "tradingSymbol": "MERV - XMEV - TGNC41852G - 24hs"
+    },
+    {
+        "symbolReference": "TGNC4200AG",
+        "tradingSymbol": "MERV - XMEV - TGNC4200AG - 24hs"
+    },
+    {
+        "symbolReference": "TGNC4200OC",
+        "tradingSymbol": "MERV - XMEV - TGNC4200OC - 24hs"
+    },
+    {
+        "symbolReference": "TGNC4400AG",
+        "tradingSymbol": "MERV - XMEV - TGNC4400AG - 24hs"
+    },
+    {
+        "symbolReference": "TGNC4400OC",
+        "tradingSymbol": "MERV - XMEV - TGNC4400OC - 24hs"
+    },
+    {
+        "symbolReference": "TGNC4600AG",
+        "tradingSymbol": "MERV - XMEV - TGNC4600AG - 24hs"
+    },
+    {
+        "symbolReference": "TGNC4600OC",
+        "tradingSymbol": "MERV - XMEV - TGNC4600OC - 24hs"
+    },
+    {
         "symbolReference": "TGNO4",
         "tradingSymbol": "MERV - XMEV - TGNO4 - 24hs"
     },
     {
         "symbolReference": "TGNO4 (CI)",
         "tradingSymbol": "MERV - XMEV - TGNO4 - CI"
+    },
+    {
+        "symbolReference": "TGSC52343O",
+        "tradingSymbol": "MERV - XMEV - TGSC52343O - 24hs"
+    },
+    {
+        "symbolReference": "TGSC54343G",
+        "tradingSymbol": "MERV - XMEV - TGSC54343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSC5500AG",
+        "tradingSymbol": "MERV - XMEV - TGSC5500AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC5500OC",
+        "tradingSymbol": "MERV - XMEV - TGSC5500OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC56343G",
+        "tradingSymbol": "MERV - XMEV - TGSC56343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSC5700AG",
+        "tradingSymbol": "MERV - XMEV - TGSC5700AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC5700OC",
+        "tradingSymbol": "MERV - XMEV - TGSC5700OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC58343G",
+        "tradingSymbol": "MERV - XMEV - TGSC58343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSC58343O",
+        "tradingSymbol": "MERV - XMEV - TGSC58343O - 24hs"
+    },
+    {
+        "symbolReference": "TGSC5900AG",
+        "tradingSymbol": "MERV - XMEV - TGSC5900AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC5900OC",
+        "tradingSymbol": "MERV - XMEV - TGSC5900OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC60343G",
+        "tradingSymbol": "MERV - XMEV - TGSC60343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6100AG",
+        "tradingSymbol": "MERV - XMEV - TGSC6100AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6100OC",
+        "tradingSymbol": "MERV - XMEV - TGSC6100OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC62343G",
+        "tradingSymbol": "MERV - XMEV - TGSC62343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6300AG",
+        "tradingSymbol": "MERV - XMEV - TGSC6300AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6300OC",
+        "tradingSymbol": "MERV - XMEV - TGSC6300OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC64343G",
+        "tradingSymbol": "MERV - XMEV - TGSC64343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6500AG",
+        "tradingSymbol": "MERV - XMEV - TGSC6500AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6500DI",
+        "tradingSymbol": "MERV - XMEV - TGSC6500DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6500OC",
+        "tradingSymbol": "MERV - XMEV - TGSC6500OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6700AG",
+        "tradingSymbol": "MERV - XMEV - TGSC6700AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6700DI",
+        "tradingSymbol": "MERV - XMEV - TGSC6700DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6700OC",
+        "tradingSymbol": "MERV - XMEV - TGSC6700OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6900AG",
+        "tradingSymbol": "MERV - XMEV - TGSC6900AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6900DI",
+        "tradingSymbol": "MERV - XMEV - TGSC6900DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSC6900OC",
+        "tradingSymbol": "MERV - XMEV - TGSC6900OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7100AG",
+        "tradingSymbol": "MERV - XMEV - TGSC7100AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7100DI",
+        "tradingSymbol": "MERV - XMEV - TGSC7100DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7100OC",
+        "tradingSymbol": "MERV - XMEV - TGSC7100OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7300AG",
+        "tradingSymbol": "MERV - XMEV - TGSC7300AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7300DI",
+        "tradingSymbol": "MERV - XMEV - TGSC7300DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7300OC",
+        "tradingSymbol": "MERV - XMEV - TGSC7300OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7500AG",
+        "tradingSymbol": "MERV - XMEV - TGSC7500AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7500DI",
+        "tradingSymbol": "MERV - XMEV - TGSC7500DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7500OC",
+        "tradingSymbol": "MERV - XMEV - TGSC7500OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7700AG",
+        "tradingSymbol": "MERV - XMEV - TGSC7700AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7700DI",
+        "tradingSymbol": "MERV - XMEV - TGSC7700DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7700OC",
+        "tradingSymbol": "MERV - XMEV - TGSC7700OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7900AG",
+        "tradingSymbol": "MERV - XMEV - TGSC7900AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSC7900OC",
+        "tradingSymbol": "MERV - XMEV - TGSC7900OC - 24hs"
     },
     {
         "symbolReference": "TGSU2",
@@ -16334,6 +24166,174 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "TGSUD (CI)",
         "tradingSymbol": "MERV - XMEV - TGSUD - CI"
+    },
+    {
+        "symbolReference": "TGSV52343O",
+        "tradingSymbol": "MERV - XMEV - TGSV52343O - 24hs"
+    },
+    {
+        "symbolReference": "TGSV54343G",
+        "tradingSymbol": "MERV - XMEV - TGSV54343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSV5500AG",
+        "tradingSymbol": "MERV - XMEV - TGSV5500AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV5500OC",
+        "tradingSymbol": "MERV - XMEV - TGSV5500OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV5500OC",
+        "tradingSymbol": "MERV - XMEV - I.MERVAL"
+    },
+    {
+        "symbolReference": "TGSV56343G",
+        "tradingSymbol": "MERV - XMEV - TGSV56343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSV5700AG",
+        "tradingSymbol": "MERV - XMEV - TGSV5700AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV5700OC",
+        "tradingSymbol": "MERV - XMEV - TGSV5700OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV58343G",
+        "tradingSymbol": "MERV - XMEV - TGSV58343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSV58343O",
+        "tradingSymbol": "MERV - XMEV - TGSV58343O - 24hs"
+    },
+    {
+        "symbolReference": "TGSV5900AG",
+        "tradingSymbol": "MERV - XMEV - TGSV5900AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV5900OC",
+        "tradingSymbol": "MERV - XMEV - TGSV5900OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV60343G",
+        "tradingSymbol": "MERV - XMEV - TGSV60343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6100AG",
+        "tradingSymbol": "MERV - XMEV - TGSV6100AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6100OC",
+        "tradingSymbol": "MERV - XMEV - TGSV6100OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV62343G",
+        "tradingSymbol": "MERV - XMEV - TGSV62343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6300AG",
+        "tradingSymbol": "MERV - XMEV - TGSV6300AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6300OC",
+        "tradingSymbol": "MERV - XMEV - TGSV6300OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV64343G",
+        "tradingSymbol": "MERV - XMEV - TGSV64343G - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6500AG",
+        "tradingSymbol": "MERV - XMEV - TGSV6500AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6500DI",
+        "tradingSymbol": "MERV - XMEV - TGSV6500DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6500OC",
+        "tradingSymbol": "MERV - XMEV - TGSV6500OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6700AG",
+        "tradingSymbol": "MERV - XMEV - TGSV6700AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6700DI",
+        "tradingSymbol": "MERV - XMEV - TGSV6700DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6700OC",
+        "tradingSymbol": "MERV - XMEV - TGSV6700OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6900AG",
+        "tradingSymbol": "MERV - XMEV - TGSV6900AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6900DI",
+        "tradingSymbol": "MERV - XMEV - TGSV6900DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSV6900OC",
+        "tradingSymbol": "MERV - XMEV - TGSV6900OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7100AG",
+        "tradingSymbol": "MERV - XMEV - TGSV7100AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7100DI",
+        "tradingSymbol": "MERV - XMEV - TGSV7100DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7100OC",
+        "tradingSymbol": "MERV - XMEV - TGSV7100OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7300AG",
+        "tradingSymbol": "MERV - XMEV - TGSV7300AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7300DI",
+        "tradingSymbol": "MERV - XMEV - TGSV7300DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7300OC",
+        "tradingSymbol": "MERV - XMEV - TGSV7300OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7500AG",
+        "tradingSymbol": "MERV - XMEV - TGSV7500AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7500DI",
+        "tradingSymbol": "MERV - XMEV - TGSV7500DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7500OC",
+        "tradingSymbol": "MERV - XMEV - TGSV7500OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7700AG",
+        "tradingSymbol": "MERV - XMEV - TGSV7700AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7700DI",
+        "tradingSymbol": "MERV - XMEV - TGSV7700DI - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7700OC",
+        "tradingSymbol": "MERV - XMEV - TGSV7700OC - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7900AG",
+        "tradingSymbol": "MERV - XMEV - TGSV7900AG - 24hs"
+    },
+    {
+        "symbolReference": "TGSV7900OC",
+        "tradingSymbol": "MERV - XMEV - TGSV7900OC - 24hs"
     },
     {
         "symbolReference": "TGT",
@@ -16960,6 +24960,118 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - TO26D - CI"
     },
     {
+        "symbolReference": "TRAC2100AG",
+        "tradingSymbol": "MERV - XMEV - TRAC2100AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2100OC",
+        "tradingSymbol": "MERV - XMEV - TRAC2100OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2200AG",
+        "tradingSymbol": "MERV - XMEV - TRAC2200AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2200OC",
+        "tradingSymbol": "MERV - XMEV - TRAC2200OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2300AG",
+        "tradingSymbol": "MERV - XMEV - TRAC2300AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2300OC",
+        "tradingSymbol": "MERV - XMEV - TRAC2300OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2500DI",
+        "tradingSymbol": "MERV - XMEV - TRAC2500DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2600AG",
+        "tradingSymbol": "MERV - XMEV - TRAC2600AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2600DI",
+        "tradingSymbol": "MERV - XMEV - TRAC2600DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2600OC",
+        "tradingSymbol": "MERV - XMEV - TRAC2600OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2700AG",
+        "tradingSymbol": "MERV - XMEV - TRAC2700AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2700DI",
+        "tradingSymbol": "MERV - XMEV - TRAC2700DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2700OC",
+        "tradingSymbol": "MERV - XMEV - TRAC2700OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2800AG",
+        "tradingSymbol": "MERV - XMEV - TRAC2800AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2800DI",
+        "tradingSymbol": "MERV - XMEV - TRAC2800DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2800OC",
+        "tradingSymbol": "MERV - XMEV - TRAC2800OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2900AG",
+        "tradingSymbol": "MERV - XMEV - TRAC2900AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2900DI",
+        "tradingSymbol": "MERV - XMEV - TRAC2900DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAC2900OC",
+        "tradingSymbol": "MERV - XMEV - TRAC2900OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAC3000AG",
+        "tradingSymbol": "MERV - XMEV - TRAC3000AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAC3000DI",
+        "tradingSymbol": "MERV - XMEV - TRAC3000DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAC3000OC",
+        "tradingSymbol": "MERV - XMEV - TRAC3000OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAC3200AG",
+        "tradingSymbol": "MERV - XMEV - TRAC3200AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAC3200OC",
+        "tradingSymbol": "MERV - XMEV - TRAC3200OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAC3400AG",
+        "tradingSymbol": "MERV - XMEV - TRAC3400AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAC3400OC",
+        "tradingSymbol": "MERV - XMEV - TRAC3400OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAC3600AG",
+        "tradingSymbol": "MERV - XMEV - TRAC3600AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAC3600OC",
+        "tradingSymbol": "MERV - XMEV - TRAC3600OC - 24hs"
+    },
+    {
         "symbolReference": "TRAN",
         "tradingSymbol": "MERV - XMEV - TRAN - 24hs"
     },
@@ -16982,6 +25094,138 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "TRAND (CI)",
         "tradingSymbol": "MERV - XMEV - TRAND - CI"
+    },
+    {
+        "symbolReference": "TRAV1800AG",
+        "tradingSymbol": "MERV - XMEV - TRAV1800AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV1900AG",
+        "tradingSymbol": "MERV - XMEV - TRAV1900AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV1900OC",
+        "tradingSymbol": "MERV - XMEV - TRAV1900OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2000AG",
+        "tradingSymbol": "MERV - XMEV - TRAV2000AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2000OC",
+        "tradingSymbol": "MERV - XMEV - TRAV2000OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2100AG",
+        "tradingSymbol": "MERV - XMEV - TRAV2100AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2100OC",
+        "tradingSymbol": "MERV - XMEV - TRAV2100OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2200AG",
+        "tradingSymbol": "MERV - XMEV - TRAV2200AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2200OC",
+        "tradingSymbol": "MERV - XMEV - TRAV2200OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2300AG",
+        "tradingSymbol": "MERV - XMEV - TRAV2300AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2300OC",
+        "tradingSymbol": "MERV - XMEV - TRAV2300OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2500DI",
+        "tradingSymbol": "MERV - XMEV - TRAV2500DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2600AG",
+        "tradingSymbol": "MERV - XMEV - TRAV2600AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2600DI",
+        "tradingSymbol": "MERV - XMEV - TRAV2600DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2600OC",
+        "tradingSymbol": "MERV - XMEV - TRAV2600OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2700AG",
+        "tradingSymbol": "MERV - XMEV - TRAV2700AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2700DI",
+        "tradingSymbol": "MERV - XMEV - TRAV2700DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2700OC",
+        "tradingSymbol": "MERV - XMEV - TRAV2700OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2800AG",
+        "tradingSymbol": "MERV - XMEV - TRAV2800AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2800DI",
+        "tradingSymbol": "MERV - XMEV - TRAV2800DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2800OC",
+        "tradingSymbol": "MERV - XMEV - TRAV2800OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2900AG",
+        "tradingSymbol": "MERV - XMEV - TRAV2900AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2900DI",
+        "tradingSymbol": "MERV - XMEV - TRAV2900DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAV2900OC",
+        "tradingSymbol": "MERV - XMEV - TRAV2900OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV3000AG",
+        "tradingSymbol": "MERV - XMEV - TRAV3000AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV3000DI",
+        "tradingSymbol": "MERV - XMEV - TRAV3000DI - 24hs"
+    },
+    {
+        "symbolReference": "TRAV3000OC",
+        "tradingSymbol": "MERV - XMEV - TRAV3000OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV3200AG",
+        "tradingSymbol": "MERV - XMEV - TRAV3200AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV3200OC",
+        "tradingSymbol": "MERV - XMEV - TRAV3200OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV3400AG",
+        "tradingSymbol": "MERV - XMEV - TRAV3400AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV3400OC",
+        "tradingSymbol": "MERV - XMEV - TRAV3400OC - 24hs"
+    },
+    {
+        "symbolReference": "TRAV3600AG",
+        "tradingSymbol": "MERV - XMEV - TRAV3600AG - 24hs"
+    },
+    {
+        "symbolReference": "TRAV3600OC",
+        "tradingSymbol": "MERV - XMEV - TRAV3600OC - 24hs"
     },
     {
         "symbolReference": "TRIP",
@@ -17086,6 +25330,54 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "TSLAD (CI)",
         "tradingSymbol": "MERV - XMEV - TSLAD - CI"
+    },
+    {
+        "symbolReference": "TSLC22000G",
+        "tradingSymbol": "MERV - XMEV - TSLC22000G - 24hs"
+    },
+    {
+        "symbolReference": "TSLC24000G",
+        "tradingSymbol": "MERV - XMEV - TSLC24000G - 24hs"
+    },
+    {
+        "symbolReference": "TSLC26000G",
+        "tradingSymbol": "MERV - XMEV - TSLC26000G - 24hs"
+    },
+    {
+        "symbolReference": "TSLC28000G",
+        "tradingSymbol": "MERV - XMEV - TSLC28000G - 24hs"
+    },
+    {
+        "symbolReference": "TSLC30000G",
+        "tradingSymbol": "MERV - XMEV - TSLC30000G - 24hs"
+    },
+    {
+        "symbolReference": "TSLC32000G",
+        "tradingSymbol": "MERV - XMEV - TSLC32000G - 24hs"
+    },
+    {
+        "symbolReference": "TSLV22000G",
+        "tradingSymbol": "MERV - XMEV - TSLV22000G - 24hs"
+    },
+    {
+        "symbolReference": "TSLV24000G",
+        "tradingSymbol": "MERV - XMEV - TSLV24000G - 24hs"
+    },
+    {
+        "symbolReference": "TSLV26000G",
+        "tradingSymbol": "MERV - XMEV - TSLV26000G - 24hs"
+    },
+    {
+        "symbolReference": "TSLV28000G",
+        "tradingSymbol": "MERV - XMEV - TSLV28000G - 24hs"
+    },
+    {
+        "symbolReference": "TSLV30000G",
+        "tradingSymbol": "MERV - XMEV - TSLV30000G - 24hs"
+    },
+    {
+        "symbolReference": "TSLV32000G",
+        "tradingSymbol": "MERV - XMEV - TSLV32000G - 24hs"
     },
     {
         "symbolReference": "TSM",
@@ -17612,6 +25904,50 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - TX31 - CI"
     },
     {
+        "symbolReference": "TXAC1000OC",
+        "tradingSymbol": "MERV - XMEV - TXAC1000OC - 24hs"
+    },
+    {
+        "symbolReference": "TXAC400.DI",
+        "tradingSymbol": "MERV - XMEV - TXAC400.DI - 24hs"
+    },
+    {
+        "symbolReference": "TXAC400.OC",
+        "tradingSymbol": "MERV - XMEV - TXAC400.OC - 24hs"
+    },
+    {
+        "symbolReference": "TXAC450.AG",
+        "tradingSymbol": "MERV - XMEV - TXAC450.AG - 24hs"
+    },
+    {
+        "symbolReference": "TXAC450.DI",
+        "tradingSymbol": "MERV - XMEV - TXAC450.DI - 24hs"
+    },
+    {
+        "symbolReference": "TXAC450.OC",
+        "tradingSymbol": "MERV - XMEV - TXAC450.OC - 24hs"
+    },
+    {
+        "symbolReference": "TXAC500.OC",
+        "tradingSymbol": "MERV - XMEV - TXAC500.OC - 24hs"
+    },
+    {
+        "symbolReference": "TXAC700.DI",
+        "tradingSymbol": "MERV - XMEV - TXAC700.DI - 24hs"
+    },
+    {
+        "symbolReference": "TXAC750.AG",
+        "tradingSymbol": "MERV - XMEV - TXAC750.AG - 24hs"
+    },
+    {
+        "symbolReference": "TXAC750.DI",
+        "tradingSymbol": "MERV - XMEV - TXAC750.DI - 24hs"
+    },
+    {
+        "symbolReference": "TXAC800.AG",
+        "tradingSymbol": "MERV - XMEV - TXAC800.AG - 24hs"
+    },
+    {
         "symbolReference": "TXAR",
         "tradingSymbol": "MERV - XMEV - TXAR - 24hs"
     },
@@ -17626,6 +25962,38 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "TXARD (CI)",
         "tradingSymbol": "MERV - XMEV - TXARD - CI"
+    },
+    {
+        "symbolReference": "TXAV400.DI",
+        "tradingSymbol": "MERV - XMEV - TXAV400.DI - 24hs"
+    },
+    {
+        "symbolReference": "TXAV450.AG",
+        "tradingSymbol": "MERV - XMEV - TXAV450.AG - 24hs"
+    },
+    {
+        "symbolReference": "TXAV450.DI",
+        "tradingSymbol": "MERV - XMEV - TXAV450.DI - 24hs"
+    },
+    {
+        "symbolReference": "TXAV450.OC",
+        "tradingSymbol": "MERV - XMEV - TXAV450.OC - 24hs"
+    },
+    {
+        "symbolReference": "TXAV550.DI",
+        "tradingSymbol": "MERV - XMEV - TXAV550.DI - 24hs"
+    },
+    {
+        "symbolReference": "TXAV600.DI",
+        "tradingSymbol": "MERV - XMEV - TXAV600.DI - 24hs"
+    },
+    {
+        "symbolReference": "TXAV700.DI",
+        "tradingSymbol": "MERV - XMEV - TXAV700.DI - 24hs"
+    },
+    {
+        "symbolReference": "TXAV750.DI",
+        "tradingSymbol": "MERV - XMEV - TXAV750.DI - 24hs"
     },
     {
         "symbolReference": "TXD5C",
@@ -18252,6 +26620,50 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - V - CI"
     },
     {
+        "symbolReference": "VALC4500AG",
+        "tradingSymbol": "MERV - XMEV - VALC4500AG - 24hs"
+    },
+    {
+        "symbolReference": "VALC5000AG",
+        "tradingSymbol": "MERV - XMEV - VALC5000AG - 24hs"
+    },
+    {
+        "symbolReference": "VALC5500AG",
+        "tradingSymbol": "MERV - XMEV - VALC5500AG - 24hs"
+    },
+    {
+        "symbolReference": "VALC6000AG",
+        "tradingSymbol": "MERV - XMEV - VALC6000AG - 24hs"
+    },
+    {
+        "symbolReference": "VALC6500AG",
+        "tradingSymbol": "MERV - XMEV - VALC6500AG - 24hs"
+    },
+    {
+        "symbolReference": "VALC7000AG",
+        "tradingSymbol": "MERV - XMEV - VALC7000AG - 24hs"
+    },
+    {
+        "symbolReference": "VALC7500AG",
+        "tradingSymbol": "MERV - XMEV - VALC7500AG - 24hs"
+    },
+    {
+        "symbolReference": "VALC8000AG",
+        "tradingSymbol": "MERV - XMEV - VALC8000AG - 24hs"
+    },
+    {
+        "symbolReference": "VALC8500AG",
+        "tradingSymbol": "MERV - XMEV - VALC8500AG - 24hs"
+    },
+    {
+        "symbolReference": "VALC9000AG",
+        "tradingSymbol": "MERV - XMEV - VALC9000AG - 24hs"
+    },
+    {
+        "symbolReference": "VALC9500AG",
+        "tradingSymbol": "MERV - XMEV - VALC9500AG - 24hs"
+    },
+    {
         "symbolReference": "VALE",
         "tradingSymbol": "MERV - XMEV - VALE - 24hs"
     },
@@ -18874,6 +27286,18 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "VSTC (CI)",
         "tradingSymbol": "MERV - XMEV - VSTC - CI"
+    },
+    {
+        "symbolReference": "VSTC19000G",
+        "tradingSymbol": "MERV - XMEV - VSTC19000G - 24hs"
+    },
+    {
+        "symbolReference": "VSTC20000G",
+        "tradingSymbol": "MERV - XMEV - VSTC20000G - 24hs"
+    },
+    {
+        "symbolReference": "VSTC21000G",
+        "tradingSymbol": "MERV - XMEV - VSTC21000G - 24hs"
     },
     {
         "symbolReference": "VSTD",
@@ -20284,6 +28708,198 @@ export const INSTRUMENTS = [
         "tradingSymbol": "MERV - XMEV - YPC4O - CI"
     },
     {
+        "symbolReference": "YPFC24000G",
+        "tradingSymbol": "MERV - XMEV - YPFC24000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC24000O",
+        "tradingSymbol": "MERV - XMEV - YPFC24000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC25500G",
+        "tradingSymbol": "MERV - XMEV - YPFC25500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC25500O",
+        "tradingSymbol": "MERV - XMEV - YPFC25500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC27000G",
+        "tradingSymbol": "MERV - XMEV - YPFC27000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC27000O",
+        "tradingSymbol": "MERV - XMEV - YPFC27000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC28500G",
+        "tradingSymbol": "MERV - XMEV - YPFC28500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC28500O",
+        "tradingSymbol": "MERV - XMEV - YPFC28500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC30000D",
+        "tradingSymbol": "MERV - XMEV - YPFC30000D - 24hs"
+    },
+    {
+        "symbolReference": "YPFC30000G",
+        "tradingSymbol": "MERV - XMEV - YPFC30000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC30000O",
+        "tradingSymbol": "MERV - XMEV - YPFC30000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC31500D",
+        "tradingSymbol": "MERV - XMEV - YPFC31500D - 24hs"
+    },
+    {
+        "symbolReference": "YPFC31500G",
+        "tradingSymbol": "MERV - XMEV - YPFC31500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC31500O",
+        "tradingSymbol": "MERV - XMEV - YPFC31500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC33000D",
+        "tradingSymbol": "MERV - XMEV - YPFC33000D - 24hs"
+    },
+    {
+        "symbolReference": "YPFC33000G",
+        "tradingSymbol": "MERV - XMEV - YPFC33000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC33000O",
+        "tradingSymbol": "MERV - XMEV - YPFC33000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC34500D",
+        "tradingSymbol": "MERV - XMEV - YPFC34500D - 24hs"
+    },
+    {
+        "symbolReference": "YPFC34500G",
+        "tradingSymbol": "MERV - XMEV - YPFC34500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC34500O",
+        "tradingSymbol": "MERV - XMEV - YPFC34500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC36000D",
+        "tradingSymbol": "MERV - XMEV - YPFC36000D - 24hs"
+    },
+    {
+        "symbolReference": "YPFC36000G",
+        "tradingSymbol": "MERV - XMEV - YPFC36000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC36000O",
+        "tradingSymbol": "MERV - XMEV - YPFC36000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC37500D",
+        "tradingSymbol": "MERV - XMEV - YPFC37500D - 24hs"
+    },
+    {
+        "symbolReference": "YPFC37500G",
+        "tradingSymbol": "MERV - XMEV - YPFC37500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC37500O",
+        "tradingSymbol": "MERV - XMEV - YPFC37500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC39000G",
+        "tradingSymbol": "MERV - XMEV - YPFC39000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC39000O",
+        "tradingSymbol": "MERV - XMEV - YPFC39000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC40500G",
+        "tradingSymbol": "MERV - XMEV - YPFC40500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC40500O",
+        "tradingSymbol": "MERV - XMEV - YPFC40500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC43000G",
+        "tradingSymbol": "MERV - XMEV - YPFC43000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC43000O",
+        "tradingSymbol": "MERV - XMEV - YPFC43000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC44500G",
+        "tradingSymbol": "MERV - XMEV - YPFC44500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC44500O",
+        "tradingSymbol": "MERV - XMEV - YPFC44500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC46000G",
+        "tradingSymbol": "MERV - XMEV - YPFC46000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC46000O",
+        "tradingSymbol": "MERV - XMEV - YPFC46000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC47500G",
+        "tradingSymbol": "MERV - XMEV - YPFC47500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC47500O",
+        "tradingSymbol": "MERV - XMEV - YPFC47500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC49000G",
+        "tradingSymbol": "MERV - XMEV - YPFC49000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC49000O",
+        "tradingSymbol": "MERV - XMEV - YPFC49000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC52000G",
+        "tradingSymbol": "MERV - XMEV - YPFC52000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC52000O",
+        "tradingSymbol": "MERV - XMEV - YPFC52000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC55000G",
+        "tradingSymbol": "MERV - XMEV - YPFC55000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC55000O",
+        "tradingSymbol": "MERV - XMEV - YPFC55000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFC58000G",
+        "tradingSymbol": "MERV - XMEV - YPFC58000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC61000G",
+        "tradingSymbol": "MERV - XMEV - YPFC61000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC64000G",
+        "tradingSymbol": "MERV - XMEV - YPFC64000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFC67000G",
+        "tradingSymbol": "MERV - XMEV - YPFC67000G - 24hs"
+    },
+    {
         "symbolReference": "YPFD",
         "tradingSymbol": "MERV - XMEV - YPFD - 24hs"
     },
@@ -20306,6 +28922,202 @@ export const INSTRUMENTS = [
     {
         "symbolReference": "YPFDD (CI)",
         "tradingSymbol": "MERV - XMEV - YPFDD - CI"
+    },
+    {
+        "symbolReference": "YPFV24000G",
+        "tradingSymbol": "MERV - XMEV - YPFV24000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV24000O",
+        "tradingSymbol": "MERV - XMEV - YPFV24000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV25500G",
+        "tradingSymbol": "MERV - XMEV - YPFV25500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV25500O",
+        "tradingSymbol": "MERV - XMEV - YPFV25500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV27000G",
+        "tradingSymbol": "MERV - XMEV - YPFV27000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV27000O",
+        "tradingSymbol": "MERV - XMEV - YPFV27000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV28500G",
+        "tradingSymbol": "MERV - XMEV - YPFV28500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV28500O",
+        "tradingSymbol": "MERV - XMEV - YPFV28500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV30000D",
+        "tradingSymbol": "MERV - XMEV - YPFV30000D - 24hs"
+    },
+    {
+        "symbolReference": "YPFV30000G",
+        "tradingSymbol": "MERV - XMEV - YPFV30000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV30000O",
+        "tradingSymbol": "MERV - XMEV - YPFV30000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV31500D",
+        "tradingSymbol": "MERV - XMEV - YPFV31500D - 24hs"
+    },
+    {
+        "symbolReference": "YPFV31500G",
+        "tradingSymbol": "MERV - XMEV - YPFV31500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV31500O",
+        "tradingSymbol": "MERV - XMEV - YPFV31500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV33000D",
+        "tradingSymbol": "MERV - XMEV - YPFV33000D - 24hs"
+    },
+    {
+        "symbolReference": "YPFV33000G",
+        "tradingSymbol": "MERV - XMEV - YPFV33000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV33000O",
+        "tradingSymbol": "MERV - XMEV - YPFV33000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV34500D",
+        "tradingSymbol": "MERV - XMEV - YPFV34500D - 24hs"
+    },
+    {
+        "symbolReference": "YPFV34500G",
+        "tradingSymbol": "MERV - XMEV - YPFV34500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV34500O",
+        "tradingSymbol": "MERV - XMEV - YPFV34500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV36000D",
+        "tradingSymbol": "MERV - XMEV - YPFV36000D - 24hs"
+    },
+    {
+        "symbolReference": "YPFV36000G",
+        "tradingSymbol": "MERV - XMEV - YPFV36000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV36000O",
+        "tradingSymbol": "MERV - XMEV - YPFV36000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV37500D",
+        "tradingSymbol": "MERV - XMEV - YPFV37500D - 24hs"
+    },
+    {
+        "symbolReference": "YPFV37500G",
+        "tradingSymbol": "MERV - XMEV - YPFV37500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV37500O",
+        "tradingSymbol": "MERV - XMEV - YPFV37500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV39000G",
+        "tradingSymbol": "MERV - XMEV - YPFV39000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV39000O",
+        "tradingSymbol": "MERV - XMEV - YPFV39000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV40500G",
+        "tradingSymbol": "MERV - XMEV - YPFV40500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV40500O",
+        "tradingSymbol": "MERV - XMEV - YPFV40500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV43000G",
+        "tradingSymbol": "MERV - XMEV - YPFV43000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV43000O",
+        "tradingSymbol": "MERV - XMEV - YPFV43000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV44500G",
+        "tradingSymbol": "MERV - XMEV - YPFV44500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV44500O",
+        "tradingSymbol": "MERV - XMEV - YPFV44500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV46000D",
+        "tradingSymbol": "MERV - XMEV - YPFV46000D - 24hs"
+    },
+    {
+        "symbolReference": "YPFV46000G",
+        "tradingSymbol": "MERV - XMEV - YPFV46000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV46000O",
+        "tradingSymbol": "MERV - XMEV - YPFV46000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV47500G",
+        "tradingSymbol": "MERV - XMEV - YPFV47500G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV47500O",
+        "tradingSymbol": "MERV - XMEV - YPFV47500O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV49000G",
+        "tradingSymbol": "MERV - XMEV - YPFV49000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV49000O",
+        "tradingSymbol": "MERV - XMEV - YPFV49000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV52000G",
+        "tradingSymbol": "MERV - XMEV - YPFV52000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV52000O",
+        "tradingSymbol": "MERV - XMEV - YPFV52000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV55000G",
+        "tradingSymbol": "MERV - XMEV - YPFV55000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV55000O",
+        "tradingSymbol": "MERV - XMEV - YPFV55000O - 24hs"
+    },
+    {
+        "symbolReference": "YPFV58000G",
+        "tradingSymbol": "MERV - XMEV - YPFV58000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV61000G",
+        "tradingSymbol": "MERV - XMEV - YPFV61000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV64000G",
+        "tradingSymbol": "MERV - XMEV - YPFV64000G - 24hs"
+    },
+    {
+        "symbolReference": "YPFV67000G",
+        "tradingSymbol": "MERV - XMEV - YPFV67000G - 24hs"
     },
     {
         "symbolReference": "YY",
